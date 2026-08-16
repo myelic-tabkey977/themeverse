@@ -1,0 +1,23 @@
+{
+  "name": "Squirrel Boy",
+  "background": "#140A04",
+  "foreground": "#F7EDE3",
+  "cursorColor": "#A3E635",
+  "selectionBackground": "#5C781C",
+  "black": "#0A0502",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FDBA74",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F7EEE4",
+  "brightBlack": "#6F655D",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FECB97",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F7EDE3"
+}

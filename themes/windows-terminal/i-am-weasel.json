@@ -1,0 +1,23 @@
+{
+  "name": "I Am Weasel",
+  "background": "#0E1208",
+  "foreground": "#F8F4E4",
+  "cursorColor": "#F87171",
+  "selectionBackground": "#83423C",
+  "black": "#070904",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#2DD4BF",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F8F5E5",
+  "brightBlack": "#6C6C60",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#62DFCF",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F8F4E4"
+}

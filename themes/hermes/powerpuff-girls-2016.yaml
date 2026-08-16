@@ -1,0 +1,90 @@
+name: powerpuff-girls-2016
+description: The reboot — same trio, brighter neon and new baddies.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#645865'
+  banner_text: '#FBEAF3'
+  ui_accent: '#A3E635'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#FBEAF3'
+  input_rule: '#F472B6'
+  response_border: '#A3E635'
+  status_bar_bg: '#251E2A'
+  status_bar_text: '#FBEAF3'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#645865'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251E2A'
+  completion_menu_bg: '#120A18'
+  completion_menu_current_bg: '#405021'
+  completion_menu_meta_bg: '#0F0814'
+  completion_menu_meta_current_bg: '#3B4820'
+  session_label: '#38BDF8'
+  session_border: '#645865'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: The Powerpuff Girls (2016) Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ The Powerpuff Girls (2016) '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) The Powerpuff Girls (2016) Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635]#####[/] [#A4E637]#...#[/] [#A5E639]#####[/] [#A7E63D].....[/] [#A9E641]####.[/] [#ABE646].###.[/] [#ADE64B]#...#[/] [#B0E751]#####[/] [#B3E757]####.[/] [#B6E75E]####.[/] [#B9E765]#...#[/] [#BDE76C]#####[/] [#C0E774]#####[/] [#C4E77C].....[/] [#C8E885].####[/] [#CCE88D]#####[/] [#D0E896]####.[/] [#D4E8A0]#....[/] [#D9E8A9].####[/] [#DDE9B3].....[/] [#E2E9BD].....[/] [#E7E9C7].###.[/] [#ECE9D2].###.[/] [#F1EADD]..#..[/] [#F6EAE8].###.[/] [#FBEAF3].....[/]
+  [#A3E635]..#..[/] [#A4E637]#...#[/] [#A5E639]#....[/] [#A7E63D].....[/] [#A9E641]#...#[/] [#ABE646]#...#[/] [#ADE64B]#...#[/] [#B0E751]#....[/] [#B3E757]#...#[/] [#B6E75E]#...#[/] [#B9E765]#...#[/] [#BDE76C]#....[/] [#C0E774]#....[/] [#C4E77C].....[/] [#C8E885]#....[/] [#CCE88D]..#..[/] [#D0E896]#...#[/] [#D4E8A0]#....[/] [#D9E8A9]#....[/] [#DDE9B3].....[/] [#E2E9BD].....[/] [#E7E9C7]....#[/] [#ECE9D2]#..##[/] [#F1EADD].##..[/] [#F6EAE8]#....[/] [#FBEAF3].....[/]
+  [#A3E635]..#..[/] [#A4E637]#####[/] [#A5E639]####.[/] [#A7E63D].....[/] [#A9E641]####.[/] [#ABE646]#...#[/] [#ADE64B]#.#.#[/] [#B0E751]####.[/] [#B3E757]####.[/] [#B6E75E]####.[/] [#B9E765]#...#[/] [#BDE76C]####.[/] [#C0E774]####.[/] [#C4E77C].....[/] [#C8E885]#..##[/] [#CCE88D]..#..[/] [#D0E896]####.[/] [#D4E8A0]#....[/] [#D9E8A9].###.[/] [#DDE9B3].....[/] [#E2E9BD].....[/] [#E7E9C7].###.[/] [#ECE9D2]#.#.#[/] [#F1EADD]..#..[/] [#F6EAE8]####.[/] [#FBEAF3].....[/]
+  [#A3E635]..#..[/] [#A4E637]#...#[/] [#A5E639]#....[/] [#A7E63D].....[/] [#A9E641]#....[/] [#ABE646]#...#[/] [#ADE64B]##.##[/] [#B0E751]#....[/] [#B3E757]#..#.[/] [#B6E75E]#....[/] [#B9E765]#...#[/] [#BDE76C]#....[/] [#C0E774]#....[/] [#C4E77C].....[/] [#C8E885]#...#[/] [#CCE88D]..#..[/] [#D0E896]#..#.[/] [#D4E8A0]#....[/] [#D9E8A9]....#[/] [#DDE9B3].....[/] [#E2E9BD].....[/] [#E7E9C7]#....[/] [#ECE9D2]##..#[/] [#F1EADD]..#..[/] [#F6EAE8]#...#[/] [#FBEAF3].....[/]
+  [#A3E635]..#..[/] [#A4E637]#...#[/] [#A5E639]#####[/] [#A7E63D].....[/] [#A9E641]#....[/] [#ABE646].###.[/] [#ADE64B]#...#[/] [#B0E751]#####[/] [#B3E757]#...#[/] [#B6E75E]#....[/] [#B9E765].###.[/] [#BDE76C]#....[/] [#C0E774]#....[/] [#C4E77C].....[/] [#C8E885].####[/] [#CCE88D]#####[/] [#D0E896]#...#[/] [#D4E8A0]#####[/] [#D9E8A9]####.[/] [#DDE9B3].....[/] [#E2E9BD].....[/] [#E7E9C7]#####[/] [#ECE9D2].###.[/] [#F1EADD]#####[/] [#F6EAE8].###.[/] [#FBEAF3].....[/]
+  [#645865]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F472B6]────────────────────────────────────────────────────────────[/]
+  [bold #A3E635]                 The Powerpuff Girls (2016)                 [/]
+  [#F472B6]────────────────────────────────────────────────────────────[/]

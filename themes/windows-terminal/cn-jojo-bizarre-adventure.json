@@ -1,0 +1,23 @@
+{
+  "name": "JoJo's Bizarre Adventure",
+  "background": "#0D0714",
+  "foreground": "#F2ECF8",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#85742E",
+  "black": "#06040A",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FACC15",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F3EDF8",
+  "brightBlack": "#69636F",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FBD950",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F2ECF8"
+}

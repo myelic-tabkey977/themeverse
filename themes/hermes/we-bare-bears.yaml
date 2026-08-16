@@ -1,0 +1,90 @@
+name: we-bare-bears
+description: Grizz, Panda and Ice Bear trying to fit in with humans.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#22D3EE'
+  banner_accent: '#22D3EE'
+  banner_dim: '#615B54'
+  banner_text: '#F7EFE5'
+  ui_accent: '#22D3EE'
+  ui_label: '#60A5FA'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#FB923C'
+  response_border: '#22D3EE'
+  status_bar_bg: '#231F1A'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#22D3EE'
+  status_bar_dim: '#615B54'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231F1A'
+  completion_menu_bg: '#100B06'
+  completion_menu_current_bg: '#164B50'
+  completion_menu_meta_bg: '#0E0905'
+  completion_menu_meta_current_bg: '#154347'
+  session_label: '#60A5FA'
+  session_border: '#615B54'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: We Bare Bears Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ We Bare Bears '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) We Bare Bears Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#22D3EE]#...#[/] [#27D4EE]#####[/] [#30D5ED].....[/] [#3DD6ED]####.[/] [#4BD8EC].###.[/] [#5BDBEC]####.[/] [#6DDDEB]#####[/] [#81DFEA].....[/] [#96E2E9]####.[/] [#ACE5E8]#####[/] [#C4E8E7].###.[/] [#DDECE6]####.[/] [#F7EFE5].####[/]
+  [#22D3EE]#...#[/] [#27D4EE]#....[/] [#30D5ED].....[/] [#3DD6ED]#...#[/] [#4BD8EC]#...#[/] [#5BDBEC]#...#[/] [#6DDDEB]#....[/] [#81DFEA].....[/] [#96E2E9]#...#[/] [#ACE5E8]#....[/] [#C4E8E7]#...#[/] [#DDECE6]#...#[/] [#F7EFE5]#....[/]
+  [#22D3EE]#.#.#[/] [#27D4EE]####.[/] [#30D5ED].....[/] [#3DD6ED]####.[/] [#4BD8EC]#####[/] [#5BDBEC]####.[/] [#6DDDEB]####.[/] [#81DFEA].....[/] [#96E2E9]####.[/] [#ACE5E8]####.[/] [#C4E8E7]#####[/] [#DDECE6]####.[/] [#F7EFE5].###.[/]
+  [#22D3EE]##.##[/] [#27D4EE]#....[/] [#30D5ED].....[/] [#3DD6ED]#...#[/] [#4BD8EC]#...#[/] [#5BDBEC]#..#.[/] [#6DDDEB]#....[/] [#81DFEA].....[/] [#96E2E9]#...#[/] [#ACE5E8]#....[/] [#C4E8E7]#...#[/] [#DDECE6]#..#.[/] [#F7EFE5]....#[/]
+  [#22D3EE]#...#[/] [#27D4EE]#####[/] [#30D5ED].....[/] [#3DD6ED]####.[/] [#4BD8EC]#...#[/] [#5BDBEC]#...#[/] [#6DDDEB]#####[/] [#81DFEA].....[/] [#96E2E9]####.[/] [#ACE5E8]#####[/] [#C4E8E7]#...#[/] [#DDECE6]#...#[/] [#F7EFE5]####.[/]
+  [#615B54]─────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#FB923C]────────────────────────────────────────────────────────────[/]
+  [bold #22D3EE]                       We Bare Bears                        [/]
+  [#FB923C]────────────────────────────────────────────────────────────[/]

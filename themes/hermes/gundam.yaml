@@ -1,0 +1,90 @@
+name: gundam
+description: The white mobile suit that started a hundred wars.
+colors:
+  banner_border: '#2563EB'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#545A65'
+  banner_text: '#E5ECF7'
+  ui_accent: '#FACC15'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5ECF7'
+  input_rule: '#2563EB'
+  response_border: '#FACC15'
+  status_bar_bg: '#1A1F29'
+  status_bar_text: '#E5ECF7'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#545A65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F29'
+  completion_menu_bg: '#060C16'
+  completion_menu_current_bg: '#544916'
+  completion_menu_meta_bg: '#050A13'
+  completion_menu_meta_current_bg: '#4A4216'
+  session_label: '#F8FAFC'
+  session_border: '#545A65'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mobile Suit Gundam Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Mobile Suit Gundam '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Mobile Suit Gundam Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#...#[/] [#FACC18].###.[/] [#F9CD1E]####.[/] [#F8CE26]#####[/] [#F8D02F]#....[/] [#F7D139]#####[/] [#F6D344].....[/] [#F4D451].####[/] [#F3D65E]#...#[/] [#F2D86C]#####[/] [#F1DA7B]#####[/] [#EFDD8B].....[/] [#EEDF9B].####[/] [#ECE1AC]#...#[/] [#EAE4BE]#...#[/] [#E9E7D0]####.[/] [#E7E9E3].###.[/] [#E5ECF7]#...#[/]
+  [#FACC15]##.##[/] [#FACC18]#...#[/] [#F9CD1E]#...#[/] [#F8CE26]..#..[/] [#F8D02F]#....[/] [#F7D139]#....[/] [#F6D344].....[/] [#F4D451]#....[/] [#F3D65E]#...#[/] [#F2D86C]..#..[/] [#F1DA7B]..#..[/] [#EFDD8B].....[/] [#EEDF9B]#....[/] [#ECE1AC]#...#[/] [#EAE4BE]##..#[/] [#E9E7D0]#...#[/] [#E7E9E3]#...#[/] [#E5ECF7]##.##[/]
+  [#FACC15]#.#.#[/] [#FACC18]#...#[/] [#F9CD1E]####.[/] [#F8CE26]..#..[/] [#F8D02F]#....[/] [#F7D139]####.[/] [#F6D344].....[/] [#F4D451].###.[/] [#F3D65E]#...#[/] [#F2D86C]..#..[/] [#F1DA7B]..#..[/] [#EFDD8B].....[/] [#EEDF9B]#..##[/] [#ECE1AC]#...#[/] [#EAE4BE]#.#.#[/] [#E9E7D0]#...#[/] [#E7E9E3]#####[/] [#E5ECF7]#.#.#[/]
+  [#FACC15]#...#[/] [#FACC18]#...#[/] [#F9CD1E]#...#[/] [#F8CE26]..#..[/] [#F8D02F]#....[/] [#F7D139]#....[/] [#F6D344].....[/] [#F4D451]....#[/] [#F3D65E]#...#[/] [#F2D86C]..#..[/] [#F1DA7B]..#..[/] [#EFDD8B].....[/] [#EEDF9B]#...#[/] [#ECE1AC]#...#[/] [#EAE4BE]#..##[/] [#E9E7D0]#...#[/] [#E7E9E3]#...#[/] [#E5ECF7]#...#[/]
+  [#FACC15]#...#[/] [#FACC18].###.[/] [#F9CD1E]####.[/] [#F8CE26]#####[/] [#F8D02F]#####[/] [#F7D139]#####[/] [#F6D344].....[/] [#F4D451]####.[/] [#F3D65E].###.[/] [#F2D86C]#####[/] [#F1DA7B]..#..[/] [#EFDD8B].....[/] [#EEDF9B].####[/] [#ECE1AC].###.[/] [#EAE4BE]#...#[/] [#E9E7D0]####.[/] [#E7E9E3]#...#[/] [#E5ECF7]#...#[/]
+  [#545A65]───────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#2563EB]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]                     Mobile Suit Gundam                     [/]
+  [#2563EB]────────────────────────────────────────────────────────────[/]

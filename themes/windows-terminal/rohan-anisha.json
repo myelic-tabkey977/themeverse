@@ -1,0 +1,23 @@
+{
+  "name": "Rohan & Anisha",
+  "background": "#070F16",
+  "foreground": "#E9F3F8",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#82782E",
+  "black": "#04080B",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F9A8D4",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#EAF4F8",
+  "brightBlack": "#616A70",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FABEDF",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E9F3F8"
+}

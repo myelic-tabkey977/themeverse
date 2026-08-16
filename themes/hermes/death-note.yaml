@@ -1,0 +1,90 @@
+name: death-note
+description: The student who became the god of a new world.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#E5E7EB'
+  banner_accent: '#E5E7EB'
+  banner_dim: '#5C5555'
+  banner_text: '#F3E9E9'
+  ui_accent: '#E5E7EB'
+  ui_label: '#94A3B8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F3E9E9'
+  input_rule: '#DC2626'
+  response_border: '#E5E7EB'
+  status_bar_bg: '#1F1919'
+  status_bar_text: '#F3E9E9'
+  status_bar_strong: '#E5E7EB'
+  status_bar_dim: '#5C5555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1919'
+  completion_menu_bg: '#0B0505'
+  completion_menu_current_bg: '#514D4F'
+  completion_menu_meta_bg: '#090404'
+  completion_menu_meta_current_bg: '#484445'
+  session_label: '#94A3B8'
+  session_border: '#5C5555'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Death Note Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Death Note '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Death Note Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#E5E7EB]####.[/] [#E6E7EB]#####[/] [#E6E7EB].###.[/] [#E8E7EB]#####[/] [#E9E8EA]#...#[/] [#EBE8EA].....[/] [#EDE8EA]#...#[/] [#EFE8EA].###.[/] [#F1E9E9]#####[/] [#F3E9E9]#####[/]
+  [#E5E7EB]#...#[/] [#E6E7EB]#....[/] [#E6E7EB]#...#[/] [#E8E7EB]..#..[/] [#E9E8EA]#...#[/] [#EBE8EA].....[/] [#EDE8EA]##..#[/] [#EFE8EA]#...#[/] [#F1E9E9]..#..[/] [#F3E9E9]#....[/]
+  [#E5E7EB]#...#[/] [#E6E7EB]####.[/] [#E6E7EB]#####[/] [#E8E7EB]..#..[/] [#E9E8EA]#####[/] [#EBE8EA].....[/] [#EDE8EA]#.#.#[/] [#EFE8EA]#...#[/] [#F1E9E9]..#..[/] [#F3E9E9]####.[/]
+  [#E5E7EB]#...#[/] [#E6E7EB]#....[/] [#E6E7EB]#...#[/] [#E8E7EB]..#..[/] [#E9E8EA]#...#[/] [#EBE8EA].....[/] [#EDE8EA]#..##[/] [#EFE8EA]#...#[/] [#F1E9E9]..#..[/] [#F3E9E9]#....[/]
+  [#E5E7EB]####.[/] [#E6E7EB]#####[/] [#E6E7EB]#...#[/] [#E8E7EB]..#..[/] [#E9E8EA]#...#[/] [#EBE8EA].....[/] [#EDE8EA]#...#[/] [#EFE8EA].###.[/] [#F1E9E9]..#..[/] [#F3E9E9]#####[/]
+  [#5C5555]───────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #E5E7EB]                         Death Note                         [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

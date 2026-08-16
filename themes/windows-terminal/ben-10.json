@@ -1,0 +1,23 @@
+{
+  "name": "Ben 10",
+  "background": "#0A0E0A",
+  "foreground": "#EAF7EE",
+  "cursorColor": "#F5F5F5",
+  "selectionBackground": "#808280",
+  "black": "#050705",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#A7F3D0",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#EBF7EF",
+  "brightBlack": "#646B65",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#BDF6DC",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#EAF7EE"
+}

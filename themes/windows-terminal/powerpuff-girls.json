@@ -1,0 +1,23 @@
+{
+  "name": "The Powerpuff Girls",
+  "background": "#170B14",
+  "foreground": "#FBEAF3",
+  "cursorColor": "#4ADE80",
+  "selectionBackground": "#30744A",
+  "black": "#0C060A",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#60A5FA",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#FBEBF4",
+  "brightBlack": "#72646D",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#88BCFB",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#FBEAF3"
+}

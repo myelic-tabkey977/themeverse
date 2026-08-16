@@ -1,0 +1,23 @@
+{
+  "name": "Beyblade",
+  "background": "#0F0A03",
+  "foreground": "#F6F0E4",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#867525",
+  "black": "#080502",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#3B82F6",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F6F1E5",
+  "brightBlack": "#6B665D",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#6CA1F8",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F6F0E4"
+}

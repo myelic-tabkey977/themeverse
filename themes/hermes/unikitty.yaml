@@ -1,0 +1,90 @@
+name: unikitty
+description: The LEGO princess of rage and happiness in Unikittyland.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#645961'
+  banner_text: '#F9EBF3'
+  ui_accent: '#38BDF8'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9EBF3'
+  input_rule: '#F472B6'
+  response_border: '#38BDF8'
+  status_bar_bg: '#271E25'
+  status_bar_text: '#F9EBF3'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#645961'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#271E25'
+  completion_menu_bg: '#140A12'
+  completion_menu_current_bg: '#20435C'
+  completion_menu_meta_bg: '#11080F'
+  completion_menu_meta_current_bg: '#1E3C52'
+  session_label: '#FDE047'
+  session_border: '#645961'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Unikitty Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Unikitty '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Unikitty Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8]#...#[/] [#42BFF8]#...#[/] [#55C4F7]#####[/] [#6ECAF7]#...#[/] [#8BD1F6]#####[/] [#ADD9F5]#####[/] [#D1E2F4]#####[/] [#F9EBF3]#...#[/]
+  [#38BDF8]#...#[/] [#42BFF8]##..#[/] [#55C4F7]..#..[/] [#6ECAF7]#..#.[/] [#8BD1F6]..#..[/] [#ADD9F5]..#..[/] [#D1E2F4]..#..[/] [#F9EBF3].#.#.[/]
+  [#38BDF8]#...#[/] [#42BFF8]#.#.#[/] [#55C4F7]..#..[/] [#6ECAF7]###..[/] [#8BD1F6]..#..[/] [#ADD9F5]..#..[/] [#D1E2F4]..#..[/] [#F9EBF3]..#..[/]
+  [#38BDF8]#...#[/] [#42BFF8]#..##[/] [#55C4F7]..#..[/] [#6ECAF7]#..#.[/] [#8BD1F6]..#..[/] [#ADD9F5]..#..[/] [#D1E2F4]..#..[/] [#F9EBF3]..#..[/]
+  [#38BDF8].###.[/] [#42BFF8]#...#[/] [#55C4F7]#####[/] [#6ECAF7]#...#[/] [#8BD1F6]#####[/] [#ADD9F5]..#..[/] [#D1E2F4]..#..[/] [#F9EBF3]..#..[/]
+  [#645961]───────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F472B6]────────────────────────────────────────────────────────────[/]
+  [bold #38BDF8]                          Unikitty                          [/]
+  [#F472B6]────────────────────────────────────────────────────────────[/]

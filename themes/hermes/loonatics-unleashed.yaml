@@ -1,0 +1,90 @@
+name: loonatics-unleashed
+description: Futuristic descendants of the Looney Tunes saving Metropolis.
+colors:
+  banner_border: '#94A3B8'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5C5E61'
+  banner_text: '#ECEEF1'
+  ui_accent: '#FDE047'
+  ui_label: '#2DD4BF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#ECEEF1'
+  input_rule: '#94A3B8'
+  response_border: '#FDE047'
+  status_bar_bg: '#212326'
+  status_bar_text: '#ECEEF1'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5C5E61'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#212326'
+  completion_menu_bg: '#0E1013'
+  completion_menu_current_bg: '#5A5324'
+  completion_menu_meta_bg: '#0C0E10'
+  completion_menu_meta_current_bg: '#514A22'
+  session_label: '#2DD4BF'
+  session_border: '#5C5E61'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Loonatics Unleashed Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Loonatics Unleashed '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Loonatics Unleashed Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#....[/] [#FDE049].###.[/] [#FCE14D].###.[/] [#FCE153]#...#[/] [#FBE159].###.[/] [#FBE260]#####[/] [#FAE368]#####[/] [#F9E370].####[/] [#F8E479].####[/] [#F7E583].....[/] [#F6E68D]#...#[/] [#F5E798]#...#[/] [#F4E8A4]#....[/] [#F3E9AF]#####[/] [#F1EABC].###.[/] [#F0EBC8].####[/] [#EFECD5]#...#[/] [#EDEDE3]#####[/] [#ECEEF1]####.[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FCE14D]#...#[/] [#FCE153]##..#[/] [#FBE159]#...#[/] [#FBE260]..#..[/] [#FAE368]..#..[/] [#F9E370]#....[/] [#F8E479]#....[/] [#F7E583].....[/] [#F6E68D]#...#[/] [#F5E798]##..#[/] [#F4E8A4]#....[/] [#F3E9AF]#....[/] [#F1EABC]#...#[/] [#F0EBC8]#....[/] [#EFECD5]#...#[/] [#EDEDE3]#....[/] [#ECEEF1]#...#[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FCE14D]#...#[/] [#FCE153]#.#.#[/] [#FBE159]#####[/] [#FBE260]..#..[/] [#FAE368]..#..[/] [#F9E370]#....[/] [#F8E479].###.[/] [#F7E583].....[/] [#F6E68D]#...#[/] [#F5E798]#.#.#[/] [#F4E8A4]#....[/] [#F3E9AF]####.[/] [#F1EABC]#####[/] [#F0EBC8].###.[/] [#EFECD5]#####[/] [#EDEDE3]####.[/] [#ECEEF1]#...#[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FCE14D]#...#[/] [#FCE153]#..##[/] [#FBE159]#...#[/] [#FBE260]..#..[/] [#FAE368]..#..[/] [#F9E370]#....[/] [#F8E479]....#[/] [#F7E583].....[/] [#F6E68D]#...#[/] [#F5E798]#..##[/] [#F4E8A4]#....[/] [#F3E9AF]#....[/] [#F1EABC]#...#[/] [#F0EBC8]....#[/] [#EFECD5]#...#[/] [#EDEDE3]#....[/] [#ECEEF1]#...#[/]
+  [#FDE047]#####[/] [#FDE049].###.[/] [#FCE14D].###.[/] [#FCE153]#...#[/] [#FBE159]#...#[/] [#FBE260]..#..[/] [#FAE368]#####[/] [#F9E370].####[/] [#F8E479]####.[/] [#F7E583].....[/] [#F6E68D].###.[/] [#F5E798]#...#[/] [#F4E8A4]#####[/] [#F3E9AF]#####[/] [#F1EABC]#...#[/] [#F0EBC8]####.[/] [#EFECD5]#...#[/] [#EDEDE3]#####[/] [#ECEEF1]####.[/]
+  [#5C5E61]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#94A3B8]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                    Loonatics Unleashed                     [/]
+  [#94A3B8]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: ben-10-alien-force
+description: Teen Ben leads a team against the Highbreed invasion.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FFFFFF'
+  banner_accent: '#FFFFFF'
+  banner_dim: '#50555E'
+  banner_text: '#DCE6F5'
+  ui_accent: '#FFFFFF'
+  ui_label: '#93C5FD'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#DCE6F5'
+  input_rule: '#3B82F6'
+  response_border: '#FFFFFF'
+  status_bar_bg: '#191B20'
+  status_bar_text: '#DCE6F5'
+  status_bar_strong: '#FFFFFF'
+  status_bar_dim: '#50555E'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#191B20'
+  completion_menu_bg: '#05070D'
+  completion_menu_current_bg: '#55565A'
+  completion_menu_meta_bg: '#04060B'
+  completion_menu_meta_current_bg: '#4B4C51'
+  session_label: '#93C5FD'
+  session_border: '#50555E'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Ben 10: Alien Force Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Ben 10: Alien Force '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Ben 10: Alien Force Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FFFFFF]####.[/] [#FFFFFF]#####[/] [#FEFEFF]#...#[/] [#FDFDFE].....[/] [#FBFCFE]..#..[/] [#FAFBFE].###.[/] [#F8FAFD].....[/] [#F7F9FD].....[/] [#F5F8FC].###.[/] [#F3F6FB]#....[/] [#F1F5FB]#####[/] [#EEF3FA]#####[/] [#ECF1FA]#...#[/] [#EAF0F9].....[/] [#E7EEF8]#####[/] [#E4ECF7].###.[/] [#E2EAF7]####.[/] [#DFE8F6].####[/] [#DCE6F5]#####[/]
+  [#FFFFFF]#...#[/] [#FFFFFF]#....[/] [#FEFEFF]##..#[/] [#FDFDFE].....[/] [#FBFCFE].##..[/] [#FAFBFE]#..##[/] [#F8FAFD].....[/] [#F7F9FD].....[/] [#F5F8FC]#...#[/] [#F3F6FB]#....[/] [#F1F5FB]..#..[/] [#EEF3FA]#....[/] [#ECF1FA]##..#[/] [#EAF0F9].....[/] [#E7EEF8]#....[/] [#E4ECF7]#...#[/] [#E2EAF7]#...#[/] [#DFE8F6]#....[/] [#DCE6F5]#....[/]
+  [#FFFFFF]####.[/] [#FFFFFF]####.[/] [#FEFEFF]#.#.#[/] [#FDFDFE].....[/] [#FBFCFE]..#..[/] [#FAFBFE]#.#.#[/] [#F8FAFD].....[/] [#F7F9FD].....[/] [#F5F8FC]#####[/] [#F3F6FB]#....[/] [#F1F5FB]..#..[/] [#EEF3FA]####.[/] [#ECF1FA]#.#.#[/] [#EAF0F9].....[/] [#E7EEF8]####.[/] [#E4ECF7]#...#[/] [#E2EAF7]####.[/] [#DFE8F6]#....[/] [#DCE6F5]####.[/]
+  [#FFFFFF]#...#[/] [#FFFFFF]#....[/] [#FEFEFF]#..##[/] [#FDFDFE].....[/] [#FBFCFE]..#..[/] [#FAFBFE]##..#[/] [#F8FAFD].....[/] [#F7F9FD].....[/] [#F5F8FC]#...#[/] [#F3F6FB]#....[/] [#F1F5FB]..#..[/] [#EEF3FA]#....[/] [#ECF1FA]#..##[/] [#EAF0F9].....[/] [#E7EEF8]#....[/] [#E4ECF7]#...#[/] [#E2EAF7]#..#.[/] [#DFE8F6]#....[/] [#DCE6F5]#....[/]
+  [#FFFFFF]####.[/] [#FFFFFF]#####[/] [#FEFEFF]#...#[/] [#FDFDFE].....[/] [#FBFCFE]#####[/] [#FAFBFE].###.[/] [#F8FAFD].....[/] [#F7F9FD].....[/] [#F5F8FC]#...#[/] [#F3F6FB]#####[/] [#F1F5FB]#####[/] [#EEF3FA]#####[/] [#ECF1FA]#...#[/] [#EAF0F9].....[/] [#E7EEF8]#....[/] [#E4ECF7].###.[/] [#E2EAF7]#...#[/] [#DFE8F6].####[/] [#DCE6F5]#####[/]
+  [#50555E]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#3B82F6]────────────────────────────────────────────────────────────[/]
+  [bold #FFFFFF]                    Ben 10: Alien Force                     [/]
+  [#3B82F6]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: out-of-jimmys-head
+description: Live-action and cartoon — whatever Jimmy imagines, gets out.
+colors:
+  banner_border: '#4ADE80'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#576358'
+  banner_text: '#E9F7EB'
+  ui_accent: '#FDE047'
+  ui_label: '#22D3EE'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F7EB'
+  input_rule: '#4ADE80'
+  response_border: '#FDE047'
+  status_bar_bg: '#1C271D'
+  status_bar_text: '#E9F7EB'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#576358'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1C271D'
+  completion_menu_bg: '#081409'
+  completion_menu_current_bg: '#56551D'
+  completion_menu_meta_bg: '#071108'
+  completion_menu_meta_current_bg: '#4D4D1A'
+  session_label: '#22D3EE'
+  session_border: '#576358'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Out of Jimmy's Head Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Out of Jimmy''s Head '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Out of Jimmy's Head Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].###.[/] [#FDE049]#...#[/] [#FCE14D]#####[/] [#FCE252].....[/] [#FBE258].###.[/] [#FAE35F]#####[/] [#F9E467].....[/] [#F8E66F]..###[/] [#F7E778]#####[/] [#F6E881]#...#[/] [#F5EA8B]#...#[/] [#F3EB95]#...#[/] [#F2EDA0]..#..[/] [#F1EEAC].####[/] [#EFF0B7].....[/] [#EEF1C4]#...#[/] [#ECF3D0]#####[/] [#EBF5DE].###.[/] [#E9F7EB]####.[/]
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FCE14D]..#..[/] [#FCE252].....[/] [#FBE258]#...#[/] [#FAE35F]#....[/] [#F9E467].....[/] [#F8E66F]...#.[/] [#F7E778]..#..[/] [#F6E881]##.##[/] [#F5EA8B]##.##[/] [#F3EB95].#.#.[/] [#F2EDA0]..#..[/] [#F1EEAC]#....[/] [#EFF0B7].....[/] [#EEF1C4]#...#[/] [#ECF3D0]#....[/] [#EBF5DE]#...#[/] [#E9F7EB]#...#[/]
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FCE14D]..#..[/] [#FCE252].....[/] [#FBE258]#...#[/] [#FAE35F]####.[/] [#F9E467].....[/] [#F8E66F]...#.[/] [#F7E778]..#..[/] [#F6E881]#.#.#[/] [#F5EA8B]#.#.#[/] [#F3EB95]..#..[/] [#F2EDA0].....[/] [#F1EEAC].###.[/] [#EFF0B7].....[/] [#EEF1C4]#####[/] [#ECF3D0]####.[/] [#EBF5DE]#####[/] [#E9F7EB]#...#[/]
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FCE14D]..#..[/] [#FCE252].....[/] [#FBE258]#...#[/] [#FAE35F]#....[/] [#F9E467].....[/] [#F8E66F]#..#.[/] [#F7E778]..#..[/] [#F6E881]#...#[/] [#F5EA8B]#...#[/] [#F3EB95]..#..[/] [#F2EDA0].....[/] [#F1EEAC]....#[/] [#EFF0B7].....[/] [#EEF1C4]#...#[/] [#ECF3D0]#....[/] [#EBF5DE]#...#[/] [#E9F7EB]#...#[/]
+  [#FDE047].###.[/] [#FDE049].###.[/] [#FCE14D]..#..[/] [#FCE252].....[/] [#FBE258].###.[/] [#FAE35F]#....[/] [#F9E467].....[/] [#F8E66F].##..[/] [#F7E778]#####[/] [#F6E881]#...#[/] [#F5EA8B]#...#[/] [#F3EB95]..#..[/] [#F2EDA0].....[/] [#F1EEAC]####.[/] [#EFF0B7].....[/] [#EEF1C4]#...#[/] [#ECF3D0]#####[/] [#EBF5DE]#...#[/] [#E9F7EB]####.[/]
+  [#576358]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#4ADE80]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                    Out of Jimmy's Head                     [/]
+  [#4ADE80]────────────────────────────────────────────────────────────[/]

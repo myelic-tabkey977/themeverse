@@ -1,0 +1,90 @@
+name: elliott-from-earth
+description: A boy, his mom and a dinosaur stranded on Earth.
+colors:
+  banner_border: '#2DD4BF'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556464'
+  banner_text: '#E7F6F5'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7F6F5'
+  input_rule: '#2DD4BF'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2829'
+  status_bar_text: '#E7F6F5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556464'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2829'
+  completion_menu_bg: '#071516'
+  completion_menu_current_bg: '#565626'
+  completion_menu_meta_bg: '#061213'
+  completion_menu_meta_current_bg: '#4C4E24'
+  session_label: '#A855F7'
+  session_border: '#556464'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Elliott from Earth Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Elliott from Earth '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Elliott from Earth Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FDE049]#....[/] [#FCE14E]#....[/] [#FBE254]#####[/] [#FAE35B].###.[/] [#F9E463]#####[/] [#F8E56B]#####[/] [#F7E675].....[/] [#F6E77F]#####[/] [#F5E88A]####.[/] [#F3EA96].###.[/] [#F2EBA2]#...#[/] [#F0EDAE].....[/] [#EEEFBB]#####[/] [#EDF0C9].###.[/] [#EBF2D7]####.[/] [#E9F4E6]#####[/] [#E7F6F5]#...#[/]
+  [#FDE047]#....[/] [#FDE049]#....[/] [#FCE14E]#....[/] [#FBE254]..#..[/] [#FAE35B]#...#[/] [#F9E463]..#..[/] [#F8E56B]..#..[/] [#F7E675].....[/] [#F6E77F]#....[/] [#F5E88A]#...#[/] [#F3EA96]#...#[/] [#F2EBA2]##.##[/] [#F0EDAE].....[/] [#EEEFBB]#....[/] [#EDF0C9]#...#[/] [#EBF2D7]#...#[/] [#E9F4E6]..#..[/] [#E7F6F5]#...#[/]
+  [#FDE047]####.[/] [#FDE049]#....[/] [#FCE14E]#....[/] [#FBE254]..#..[/] [#FAE35B]#...#[/] [#F9E463]..#..[/] [#F8E56B]..#..[/] [#F7E675].....[/] [#F6E77F]####.[/] [#F5E88A]####.[/] [#F3EA96]#...#[/] [#F2EBA2]#.#.#[/] [#F0EDAE].....[/] [#EEEFBB]####.[/] [#EDF0C9]#####[/] [#EBF2D7]####.[/] [#E9F4E6]..#..[/] [#E7F6F5]#####[/]
+  [#FDE047]#....[/] [#FDE049]#....[/] [#FCE14E]#....[/] [#FBE254]..#..[/] [#FAE35B]#...#[/] [#F9E463]..#..[/] [#F8E56B]..#..[/] [#F7E675].....[/] [#F6E77F]#....[/] [#F5E88A]#..#.[/] [#F3EA96]#...#[/] [#F2EBA2]#...#[/] [#F0EDAE].....[/] [#EEEFBB]#....[/] [#EDF0C9]#...#[/] [#EBF2D7]#..#.[/] [#E9F4E6]..#..[/] [#E7F6F5]#...#[/]
+  [#FDE047]#####[/] [#FDE049]#####[/] [#FCE14E]#####[/] [#FBE254]#####[/] [#FAE35B].###.[/] [#F9E463]..#..[/] [#F8E56B]..#..[/] [#F7E675].....[/] [#F6E77F]#....[/] [#F5E88A]#...#[/] [#F3EA96].###.[/] [#F2EBA2]#...#[/] [#F0EDAE].....[/] [#EEEFBB]#####[/] [#EDF0C9]#...#[/] [#EBF2D7]#...#[/] [#E9F4E6]..#..[/] [#E7F6F5]#...#[/]
+  [#556464]───────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#2DD4BF]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                     Elliott from Earth                     [/]
+  [#2DD4BF]────────────────────────────────────────────────────────────[/]

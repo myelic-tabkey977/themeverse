@@ -1,0 +1,90 @@
+name: batman-tas
+description: The Dark Knight of Gotham in the definitive animated take.
+colors:
+  banner_border: '#334155'
+  banner_title: '#94A3B8'
+  banner_accent: '#94A3B8'
+  banner_dim: '#54565B'
+  banner_text: '#E6EAF0'
+  ui_accent: '#94A3B8'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EAF0'
+  input_rule: '#334155'
+  response_border: '#94A3B8'
+  status_bar_bg: '#191B1F'
+  status_bar_text: '#E6EAF0'
+  status_bar_strong: '#94A3B8'
+  status_bar_dim: '#54565B'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#191B1F'
+  completion_menu_bg: '#05070B'
+  completion_menu_current_bg: '#333942'
+  completion_menu_meta_bg: '#040609'
+  completion_menu_meta_current_bg: '#2D333B'
+  session_label: '#FACC15'
+  session_border: '#54565B'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Batman: The Animated Series Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Batman: The Animated Series '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Batman: The Animated Series Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#94A3B8]####.[/] [#95A4B8].###.[/] [#96A5B9]#####[/] [#97A6BA]#...#[/] [#99A7BB].###.[/] [#9BA9BD]#...#[/] [#9DABBE].....[/] [#9FADC0].....[/] [#A2AFC2]#####[/] [#A5B1C3]#...#[/] [#A8B4C5]#####[/] [#ABB7C7].....[/] [#AEB9CA].###.[/] [#B1BCCC]#...#[/] [#B4BFCE]#####[/] [#B8C2D1]#...#[/] [#BCC5D3].###.[/] [#BFC9D6]#####[/] [#C3CCD8]#####[/] [#C7CFDB]####.[/] [#CBD3DE].....[/] [#D0D7E1].####[/] [#D4DAE4]#####[/] [#D8DEE7]####.[/] [#DDE2EA]#####[/] [#E1E6ED]#####[/] [#E6EAF0].####[/]
+  [#94A3B8]#...#[/] [#95A4B8]#...#[/] [#96A5B9]..#..[/] [#97A6BA]##.##[/] [#99A7BB]#...#[/] [#9BA9BD]##..#[/] [#9DABBE].....[/] [#9FADC0].....[/] [#A2AFC2]..#..[/] [#A5B1C3]#...#[/] [#A8B4C5]#....[/] [#ABB7C7].....[/] [#AEB9CA]#...#[/] [#B1BCCC]##..#[/] [#B4BFCE]..#..[/] [#B8C2D1]##.##[/] [#BCC5D3]#...#[/] [#BFC9D6]..#..[/] [#C3CCD8]#....[/] [#C7CFDB]#...#[/] [#CBD3DE].....[/] [#D0D7E1]#....[/] [#D4DAE4]#....[/] [#D8DEE7]#...#[/] [#DDE2EA]..#..[/] [#E1E6ED]#....[/] [#E6EAF0]#....[/]
+  [#94A3B8]####.[/] [#95A4B8]#####[/] [#96A5B9]..#..[/] [#97A6BA]#.#.#[/] [#99A7BB]#####[/] [#9BA9BD]#.#.#[/] [#9DABBE].....[/] [#9FADC0].....[/] [#A2AFC2]..#..[/] [#A5B1C3]#####[/] [#A8B4C5]####.[/] [#ABB7C7].....[/] [#AEB9CA]#####[/] [#B1BCCC]#.#.#[/] [#B4BFCE]..#..[/] [#B8C2D1]#.#.#[/] [#BCC5D3]#####[/] [#BFC9D6]..#..[/] [#C3CCD8]####.[/] [#C7CFDB]#...#[/] [#CBD3DE].....[/] [#D0D7E1].###.[/] [#D4DAE4]####.[/] [#D8DEE7]####.[/] [#DDE2EA]..#..[/] [#E1E6ED]####.[/] [#E6EAF0].###.[/]
+  [#94A3B8]#...#[/] [#95A4B8]#...#[/] [#96A5B9]..#..[/] [#97A6BA]#...#[/] [#99A7BB]#...#[/] [#9BA9BD]#..##[/] [#9DABBE].....[/] [#9FADC0].....[/] [#A2AFC2]..#..[/] [#A5B1C3]#...#[/] [#A8B4C5]#....[/] [#ABB7C7].....[/] [#AEB9CA]#...#[/] [#B1BCCC]#..##[/] [#B4BFCE]..#..[/] [#B8C2D1]#...#[/] [#BCC5D3]#...#[/] [#BFC9D6]..#..[/] [#C3CCD8]#....[/] [#C7CFDB]#...#[/] [#CBD3DE].....[/] [#D0D7E1]....#[/] [#D4DAE4]#....[/] [#D8DEE7]#..#.[/] [#DDE2EA]..#..[/] [#E1E6ED]#....[/] [#E6EAF0]....#[/]
+  [#94A3B8]####.[/] [#95A4B8]#...#[/] [#96A5B9]..#..[/] [#97A6BA]#...#[/] [#99A7BB]#...#[/] [#9BA9BD]#...#[/] [#9DABBE].....[/] [#9FADC0].....[/] [#A2AFC2]..#..[/] [#A5B1C3]#...#[/] [#A8B4C5]#####[/] [#ABB7C7].....[/] [#AEB9CA]#...#[/] [#B1BCCC]#...#[/] [#B4BFCE]#####[/] [#B8C2D1]#...#[/] [#BCC5D3]#...#[/] [#BFC9D6]..#..[/] [#C3CCD8]#####[/] [#C7CFDB]####.[/] [#CBD3DE].....[/] [#D0D7E1]####.[/] [#D4DAE4]#####[/] [#D8DEE7]#...#[/] [#DDE2EA]#####[/] [#E1E6ED]#####[/] [#E6EAF0]####.[/]
+  [#54565B]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#334155]────────────────────────────────────────────────────────────[/]
+  [bold #94A3B8]                Batman: The Animated Series                 [/]
+  [#334155]────────────────────────────────────────────────────────────[/]

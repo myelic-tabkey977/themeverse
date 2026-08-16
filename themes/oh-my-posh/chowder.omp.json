@@ -1,0 +1,101 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "final_space": true,
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": false,
+      "segments": [
+        {
+          "type": "root",
+          "style": "diamond",
+          "leading_diamond": "",
+          "foreground": "#120A18",
+          "background": "#FB923C",
+          "template": "  "
+        },
+        {
+          "type": "session",
+          "style": "diamond",
+          "leading_diamond": "",
+          "foreground": "#120A18",
+          "background": "#A855F7",
+          "template": " {{ .UserName }} "
+        },
+        {
+          "type": "path",
+          "style": "powerline",
+          "foreground": "#F4ECF8",
+          "background": "#4ADE80",
+          "template": "  {{ path .Path .Location }} ",
+          "properties": {
+            "style": "agnoster_short"
+          }
+        },
+        {
+          "type": "git",
+          "style": "powerline",
+          "foreground": "#F4ECF8",
+          "background": "#6C6472",
+          "template": " {{ .HEAD }} "
+        },
+        {
+          "type": "executiontime",
+          "style": "diamond",
+          "leading_diamond": "",
+          "trailing_diamond": "",
+          "foreground": "#F4ECF8",
+          "background": "#FFA726",
+          "template": "  {{ .FormattedMs }} ",
+          "properties": {
+            "threshold": 500
+          }
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "right",
+      "segments": [
+        {
+          "type": "node",
+          "style": "diamond",
+          "leading_diamond": "",
+          "foreground": "#120A18",
+          "background": "#4CAF50",
+          "template": "  {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Full }} "
+        },
+        {
+          "type": "python",
+          "style": "powerline",
+          "foreground": "#120A18",
+          "background": "#4DD0E1",
+          "template": "  {{ .Full }} "
+        },
+        {
+          "type": "shell",
+          "style": "diamond",
+          "trailing_diamond": "",
+          "foreground": "#F4ECF8",
+          "background": "#FB923C",
+          "template": " {{ .Name }} "
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "type": "text",
+          "style": "plain",
+          "foreground": "#FB923C",
+          "background": "transparent",
+          "template": "❯ "
+        }
+      ]
+    }
+  ]
+}

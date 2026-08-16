@@ -1,0 +1,90 @@
+name: ninjago
+description: Elemental ninja protect Ninjago from the forces of darkness.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#84CC16'
+  banner_accent: '#84CC16'
+  banner_dim: '#5F5556'
+  banner_text: '#F6E9E9'
+  ui_accent: '#84CC16'
+  ui_label: '#2563EB'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#84CC16'
+  status_bar_bg: '#20191B'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#84CC16'
+  status_bar_dim: '#5F5556'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#20191B'
+  completion_menu_bg: '#0D0507'
+  completion_menu_current_bg: '#33450C'
+  completion_menu_meta_bg: '#0B0406'
+  completion_menu_meta_current_bg: '#2E3D0B'
+  session_label: '#2563EB'
+  session_border: '#5F5556'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Ninjago: Masters of Spinjitzu Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Ninjago: Masters of Spinjitzu '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Ninjago: Masters of Spinjitzu Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#84CC16]#...#[/] [#85CC17]#####[/] [#86CD1A]#...#[/] [#88CD1D]..###[/] [#8ACE21].###.[/] [#8DCE26].####[/] [#8FCF2B].###.[/] [#92D030].....[/] [#95D036].....[/] [#99D13C]#...#[/] [#9CD243].###.[/] [#A0D34A].####[/] [#A4D451]#####[/] [#A8D559]#####[/] [#ACD661]####.[/] [#B1D769].####[/] [#B5D971].....[/] [#BADA7A].###.[/] [#BFDB83]#####[/] [#C4DC8C].....[/] [#C9DE95].####[/] [#CEDF9F]####.[/] [#D3E0A9]#####[/] [#D9E2B3]#...#[/] [#DEE3BD]..###[/] [#E4E4C8]#####[/] [#EAE6D3]#####[/] [#F0E7DE]#####[/] [#F6E9E9]#...#[/]
+  [#84CC16]##..#[/] [#85CC17]..#..[/] [#86CD1A]##..#[/] [#88CD1D]...#.[/] [#8ACE21]#...#[/] [#8DCE26]#....[/] [#8FCF2B]#...#[/] [#92D030].....[/] [#95D036].....[/] [#99D13C]##.##[/] [#9CD243]#...#[/] [#A0D34A]#....[/] [#A4D451]..#..[/] [#A8D559]#....[/] [#ACD661]#...#[/] [#B1D769]#....[/] [#B5D971].....[/] [#BADA7A]#...#[/] [#BFDB83]#....[/] [#C4DC8C].....[/] [#C9DE95]#....[/] [#CEDF9F]#...#[/] [#D3E0A9]..#..[/] [#D9E2B3]##..#[/] [#DEE3BD]...#.[/] [#E4E4C8]..#..[/] [#EAE6D3]..#..[/] [#F0E7DE]...#.[/] [#F6E9E9]#...#[/]
+  [#84CC16]#.#.#[/] [#85CC17]..#..[/] [#86CD1A]#.#.#[/] [#88CD1D]...#.[/] [#8ACE21]#####[/] [#8DCE26]#..##[/] [#8FCF2B]#...#[/] [#92D030].....[/] [#95D036].....[/] [#99D13C]#.#.#[/] [#9CD243]#####[/] [#A0D34A].###.[/] [#A4D451]..#..[/] [#A8D559]####.[/] [#ACD661]####.[/] [#B1D769].###.[/] [#B5D971].....[/] [#BADA7A]#...#[/] [#BFDB83]####.[/] [#C4DC8C].....[/] [#C9DE95].###.[/] [#CEDF9F]####.[/] [#D3E0A9]..#..[/] [#D9E2B3]#.#.#[/] [#DEE3BD]...#.[/] [#E4E4C8]..#..[/] [#EAE6D3]..#..[/] [#F0E7DE]..#..[/] [#F6E9E9]#...#[/]
+  [#84CC16]#..##[/] [#85CC17]..#..[/] [#86CD1A]#..##[/] [#88CD1D]#..#.[/] [#8ACE21]#...#[/] [#8DCE26]#...#[/] [#8FCF2B]#...#[/] [#92D030].....[/] [#95D036].....[/] [#99D13C]#...#[/] [#9CD243]#...#[/] [#A0D34A]....#[/] [#A4D451]..#..[/] [#A8D559]#....[/] [#ACD661]#..#.[/] [#B1D769]....#[/] [#B5D971].....[/] [#BADA7A]#...#[/] [#BFDB83]#....[/] [#C4DC8C].....[/] [#C9DE95]....#[/] [#CEDF9F]#....[/] [#D3E0A9]..#..[/] [#D9E2B3]#..##[/] [#DEE3BD]#..#.[/] [#E4E4C8]..#..[/] [#EAE6D3]..#..[/] [#F0E7DE].#...[/] [#F6E9E9]#...#[/]
+  [#84CC16]#...#[/] [#85CC17]#####[/] [#86CD1A]#...#[/] [#88CD1D].##..[/] [#8ACE21]#...#[/] [#8DCE26].####[/] [#8FCF2B].###.[/] [#92D030].....[/] [#95D036].....[/] [#99D13C]#...#[/] [#9CD243]#...#[/] [#A0D34A]####.[/] [#A4D451]..#..[/] [#A8D559]#####[/] [#ACD661]#...#[/] [#B1D769]####.[/] [#B5D971].....[/] [#BADA7A].###.[/] [#BFDB83]#....[/] [#C4DC8C].....[/] [#C9DE95]####.[/] [#CEDF9F]#....[/] [#D3E0A9]#####[/] [#D9E2B3]#...#[/] [#DEE3BD].##..[/] [#E4E4C8]#####[/] [#EAE6D3]..#..[/] [#F0E7DE]#####[/] [#F6E9E9].###.[/]
+  [#5F5556]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #84CC16]               Ninjago: Masters of Spinjitzu                [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

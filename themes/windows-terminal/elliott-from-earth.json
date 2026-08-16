@@ -1,0 +1,23 @@
+{
+  "name": "Elliott from Earth",
+  "background": "#071516",
+  "foreground": "#E7F6F5",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#827A2E",
+  "black": "#040A0B",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#A855F7",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E8F6F6",
+  "brightBlack": "#616F6F",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#BE80F9",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E7F6F5"
+}

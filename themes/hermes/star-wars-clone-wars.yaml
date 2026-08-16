@@ -1,0 +1,90 @@
+name: star-wars-clone-wars
+description: Anakin, Obi-Wan and the clones in the Clone Wars era.
+colors:
+  banner_border: '#1D4ED8'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#535963'
+  banner_text: '#E3EBF7'
+  ui_accent: '#FDE047'
+  ui_label: '#93C5FD'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E3EBF7'
+  input_rule: '#1D4ED8'
+  response_border: '#FDE047'
+  status_bar_bg: '#191E27'
+  status_bar_text: '#E3EBF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#535963'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#191E27'
+  completion_menu_bg: '#050A14'
+  completion_menu_current_bg: '#544E24'
+  completion_menu_meta_bg: '#040811'
+  completion_menu_meta_current_bg: '#4A4622'
+  session_label: '#93C5FD'
+  session_border: '#535963'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Star Wars: The Clone Wars Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Star Wars: The Clone Wars '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Star Wars: The Clone Wars Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE048]#####[/] [#FCE04B].###.[/] [#FCE04F]####.[/] [#FBE153].....[/] [#FBE158]#...#[/] [#FAE15D].###.[/] [#F9E263]####.[/] [#F8E269].####[/] [#F7E36F].....[/] [#F6E376].....[/] [#F5E37E]#####[/] [#F4E485]#...#[/] [#F3E48D]#####[/] [#F1E595].....[/] [#F0E59E].####[/] [#EFE6A7]#....[/] [#EEE7B0].###.[/] [#ECE7B9]#...#[/] [#EBE8C3]#####[/] [#E9E8CD].....[/] [#E8E9D7]#...#[/] [#E6EAE1].###.[/] [#E5EAEC]####.[/] [#E3EBF7].####[/]
+  [#FDE047]#....[/] [#FDE048]..#..[/] [#FCE04B]#...#[/] [#FCE04F]#...#[/] [#FBE153].....[/] [#FBE158]#...#[/] [#FAE15D]#...#[/] [#F9E263]#...#[/] [#F8E269]#....[/] [#F7E36F].....[/] [#F6E376].....[/] [#F5E37E]..#..[/] [#F4E485]#...#[/] [#F3E48D]#....[/] [#F1E595].....[/] [#F0E59E]#....[/] [#EFE6A7]#....[/] [#EEE7B0]#...#[/] [#ECE7B9]##..#[/] [#EBE8C3]#....[/] [#E9E8CD].....[/] [#E8E9D7]#...#[/] [#E6EAE1]#...#[/] [#E5EAEC]#...#[/] [#E3EBF7]#....[/]
+  [#FDE047].###.[/] [#FDE048]..#..[/] [#FCE04B]#####[/] [#FCE04F]####.[/] [#FBE153].....[/] [#FBE158]#.#.#[/] [#FAE15D]#####[/] [#F9E263]####.[/] [#F8E269].###.[/] [#F7E36F].....[/] [#F6E376].....[/] [#F5E37E]..#..[/] [#F4E485]#####[/] [#F3E48D]####.[/] [#F1E595].....[/] [#F0E59E]#....[/] [#EFE6A7]#....[/] [#EEE7B0]#...#[/] [#ECE7B9]#.#.#[/] [#EBE8C3]####.[/] [#E9E8CD].....[/] [#E8E9D7]#.#.#[/] [#E6EAE1]#####[/] [#E5EAEC]####.[/] [#E3EBF7].###.[/]
+  [#FDE047]....#[/] [#FDE048]..#..[/] [#FCE04B]#...#[/] [#FCE04F]#..#.[/] [#FBE153].....[/] [#FBE158]##.##[/] [#FAE15D]#...#[/] [#F9E263]#..#.[/] [#F8E269]....#[/] [#F7E36F].....[/] [#F6E376].....[/] [#F5E37E]..#..[/] [#F4E485]#...#[/] [#F3E48D]#....[/] [#F1E595].....[/] [#F0E59E]#....[/] [#EFE6A7]#....[/] [#EEE7B0]#...#[/] [#ECE7B9]#..##[/] [#EBE8C3]#....[/] [#E9E8CD].....[/] [#E8E9D7]##.##[/] [#E6EAE1]#...#[/] [#E5EAEC]#..#.[/] [#E3EBF7]....#[/]
+  [#FDE047]####.[/] [#FDE048]..#..[/] [#FCE04B]#...#[/] [#FCE04F]#...#[/] [#FBE153].....[/] [#FBE158]#...#[/] [#FAE15D]#...#[/] [#F9E263]#...#[/] [#F8E269]####.[/] [#F7E36F].....[/] [#F6E376].....[/] [#F5E37E]..#..[/] [#F4E485]#...#[/] [#F3E48D]#####[/] [#F1E595].....[/] [#F0E59E].####[/] [#EFE6A7]#####[/] [#EEE7B0].###.[/] [#ECE7B9]#...#[/] [#EBE8C3]#####[/] [#E9E8CD].....[/] [#E8E9D7]#...#[/] [#E6EAE1]#...#[/] [#E5EAEC]#...#[/] [#E3EBF7]####.[/]
+  [#535963]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#1D4ED8]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                 Star Wars: The Clone Wars                  [/]
+  [#1D4ED8]────────────────────────────────────────────────────────────[/]

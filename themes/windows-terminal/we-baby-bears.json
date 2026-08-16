@@ -1,0 +1,23 @@
+{
+  "name": "We Baby Bears",
+  "background": "#120C08",
+  "foreground": "#F9F1E8",
+  "cursorColor": "#F9A8D4",
+  "selectionBackground": "#865A6E",
+  "black": "#090604",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#93C5FD",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F9F2E9",
+  "brightBlack": "#6E6862",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#AED4FE",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F9F1E8"
+}

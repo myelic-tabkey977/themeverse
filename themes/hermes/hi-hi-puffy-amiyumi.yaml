@@ -1,0 +1,90 @@
+name: hi-hi-puffy-amiyumi
+description: The real-life rock duo as cartoon adventures.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#665860'
+  banner_text: '#FBE9F2'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#FBE9F2'
+  input_rule: '#F472B6'
+  response_border: '#FDE047'
+  status_bar_bg: '#291E25'
+  status_bar_text: '#FBE9F2'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#665860'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#291E25'
+  completion_menu_bg: '#160A12'
+  completion_menu_current_bg: '#604E23'
+  completion_menu_meta_bg: '#13080F'
+  completion_menu_meta_current_bg: '#574621'
+  session_label: '#38BDF8'
+  session_border: '#665860'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Hi Hi Puffy AmiYumi Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Hi Hi Puffy AmiYumi '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Hi Hi Puffy AmiYumi Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE049]#####[/] [#FDE04D].....[/] [#FDE153]#...#[/] [#FDE159]#####[/] [#FDE160].....[/] [#FDE268]####.[/] [#FDE270]#...#[/] [#FCE37A]#####[/] [#FCE383]#####[/] [#FCE48E]#...#[/] [#FCE499].....[/] [#FCE5A4].###.[/] [#FCE6B0]#...#[/] [#FCE6BC]#####[/] [#FBE7C9]#...#[/] [#FBE8D6]#...#[/] [#FBE8E4]#...#[/] [#FBE9F2]#####[/]
+  [#FDE047]#...#[/] [#FDE049]..#..[/] [#FDE04D].....[/] [#FDE153]#...#[/] [#FDE159]..#..[/] [#FDE160].....[/] [#FDE268]#...#[/] [#FDE270]#...#[/] [#FCE37A]#....[/] [#FCE383]#....[/] [#FCE48E].#.#.[/] [#FCE499].....[/] [#FCE5A4]#...#[/] [#FCE6B0]##.##[/] [#FCE6BC]..#..[/] [#FBE7C9].#.#.[/] [#FBE8D6]#...#[/] [#FBE8E4]##.##[/] [#FBE9F2]..#..[/]
+  [#FDE047]#####[/] [#FDE049]..#..[/] [#FDE04D].....[/] [#FDE153]#####[/] [#FDE159]..#..[/] [#FDE160].....[/] [#FDE268]####.[/] [#FDE270]#...#[/] [#FCE37A]####.[/] [#FCE383]####.[/] [#FCE48E]..#..[/] [#FCE499].....[/] [#FCE5A4]#####[/] [#FCE6B0]#.#.#[/] [#FCE6BC]..#..[/] [#FBE7C9]..#..[/] [#FBE8D6]#...#[/] [#FBE8E4]#.#.#[/] [#FBE9F2]..#..[/]
+  [#FDE047]#...#[/] [#FDE049]..#..[/] [#FDE04D].....[/] [#FDE153]#...#[/] [#FDE159]..#..[/] [#FDE160].....[/] [#FDE268]#....[/] [#FDE270]#...#[/] [#FCE37A]#....[/] [#FCE383]#....[/] [#FCE48E]..#..[/] [#FCE499].....[/] [#FCE5A4]#...#[/] [#FCE6B0]#...#[/] [#FCE6BC]..#..[/] [#FBE7C9]..#..[/] [#FBE8D6]#...#[/] [#FBE8E4]#...#[/] [#FBE9F2]..#..[/]
+  [#FDE047]#...#[/] [#FDE049]#####[/] [#FDE04D].....[/] [#FDE153]#...#[/] [#FDE159]#####[/] [#FDE160].....[/] [#FDE268]#....[/] [#FDE270].###.[/] [#FCE37A]#....[/] [#FCE383]#....[/] [#FCE48E]..#..[/] [#FCE499].....[/] [#FCE5A4]#...#[/] [#FCE6B0]#...#[/] [#FCE6BC]#####[/] [#FBE7C9]..#..[/] [#FBE8D6].###.[/] [#FBE8E4]#...#[/] [#FBE9F2]#####[/]
+  [#665860]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F472B6]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                    Hi Hi Puffy AmiYumi                     [/]
+  [#F472B6]────────────────────────────────────────────────────────────[/]

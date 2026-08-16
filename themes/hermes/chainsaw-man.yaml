@@ -1,0 +1,90 @@
+name: chainsaw-man
+description: The devil hunter who is literally part chainsaw.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#E76B6B'
+  banner_accent: '#E76B6B'
+  banner_dim: '#605A54'
+  banner_text: '#F5F0E8'
+  ui_accent: '#DC2626'
+  ui_label: '#E5E7EB'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F5F0E8'
+  input_rule: '#F97316'
+  response_border: '#DC2626'
+  status_bar_bg: '#221D18'
+  status_bar_text: '#F5F0E8'
+  status_bar_strong: '#DC2626'
+  status_bar_dim: '#605A54'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221D18'
+  completion_menu_bg: '#0F0904'
+  completion_menu_current_bg: '#51120F'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#48110E'
+  session_label: '#E5E7EB'
+  session_border: '#605A54'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Chainsaw Man Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Chainsaw Man '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Chainsaw Man Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#DC2626].####[/] [#DD2C2B]#...#[/] [#DE3635].###.[/] [#E04342]#####[/] [#E15251]#...#[/] [#E46461].####[/] [#E67774].###.[/] [#E98D88]#...#[/] [#ECA39E].....[/] [#EFBBB6]#...#[/] [#F2D5CE].###.[/] [#F5F0E8]#...#[/]
+  [#DC2626]#....[/] [#DD2C2B]#...#[/] [#DE3635]#...#[/] [#E04342]..#..[/] [#E15251]##..#[/] [#E46461]#....[/] [#E67774]#...#[/] [#E98D88]#...#[/] [#ECA39E].....[/] [#EFBBB6]##.##[/] [#F2D5CE]#...#[/] [#F5F0E8]##..#[/]
+  [#DC2626]#....[/] [#DD2C2B]#####[/] [#DE3635]#####[/] [#E04342]..#..[/] [#E15251]#.#.#[/] [#E46461].###.[/] [#E67774]#####[/] [#E98D88]#.#.#[/] [#ECA39E].....[/] [#EFBBB6]#.#.#[/] [#F2D5CE]#####[/] [#F5F0E8]#.#.#[/]
+  [#DC2626]#....[/] [#DD2C2B]#...#[/] [#DE3635]#...#[/] [#E04342]..#..[/] [#E15251]#..##[/] [#E46461]....#[/] [#E67774]#...#[/] [#E98D88]##.##[/] [#ECA39E].....[/] [#EFBBB6]#...#[/] [#F2D5CE]#...#[/] [#F5F0E8]#..##[/]
+  [#DC2626].####[/] [#DD2C2B]#...#[/] [#DE3635]#...#[/] [#E04342]#####[/] [#E15251]#...#[/] [#E46461]####.[/] [#E67774]#...#[/] [#E98D88]#...#[/] [#ECA39E].....[/] [#EFBBB6]#...#[/] [#F2D5CE]#...#[/] [#F5F0E8]#...#[/]
+  [#605A54]───────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F97316]────────────────────────────────────────────────────────────[/]
+  [bold #DC2626]                        Chainsaw Man                        [/]
+  [#F97316]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,23 @@
+{
+  "name": "The Life and Times of Juniper Lee",
+  "background": "#0F0818",
+  "foreground": "#F2EAF8",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#867430",
+  "black": "#08040C",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F87171",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F3EBF8",
+  "brightBlack": "#6A6272",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FA9494",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F2EAF8"
+}

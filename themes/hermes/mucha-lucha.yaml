@@ -1,0 +1,90 @@
+name: mucha-lucha
+description: Masked luchadores wrestling for honor at the International School of Lucha.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#F97316'
+  banner_accent: '#F97316'
+  banner_dim: '#625757'
+  banner_text: '#F7E9E9'
+  ui_accent: '#F97316'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#DC2626'
+  response_border: '#F97316'
+  status_bar_bg: '#251C1C'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#F97316'
+  status_bar_dim: '#625757'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251C1C'
+  completion_menu_bg: '#120808'
+  completion_menu_current_bg: '#5C2A0C'
+  completion_menu_meta_bg: '#0F0707'
+  completion_menu_meta_current_bg: '#53260C'
+  session_label: '#FACC15'
+  session_border: '#625757'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mucha Lucha! Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Mucha Lucha! '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Mucha Lucha! Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F97316]#...#[/] [#F9761C]#...#[/] [#F97C26].####[/] [#F98434]#...#[/] [#F98D44].###.[/] [#F89757].....[/] [#F8A36B]#....[/] [#F8AF81]#...#[/] [#F8BC99].####[/] [#F8CAB2]#...#[/] [#F7D9CD].###.[/] [#F7E9E9]..#..[/]
+  [#F97316]##.##[/] [#F9761C]#...#[/] [#F97C26]#....[/] [#F98434]#...#[/] [#F98D44]#...#[/] [#F89757].....[/] [#F8A36B]#....[/] [#F8AF81]#...#[/] [#F8BC99]#....[/] [#F8CAB2]#...#[/] [#F7D9CD]#...#[/] [#F7E9E9]..#..[/]
+  [#F97316]#.#.#[/] [#F9761C]#...#[/] [#F97C26]#....[/] [#F98434]#####[/] [#F98D44]#####[/] [#F89757].....[/] [#F8A36B]#....[/] [#F8AF81]#...#[/] [#F8BC99]#....[/] [#F8CAB2]#####[/] [#F7D9CD]#####[/] [#F7E9E9]..#..[/]
+  [#F97316]#...#[/] [#F9761C]#...#[/] [#F97C26]#....[/] [#F98434]#...#[/] [#F98D44]#...#[/] [#F89757].....[/] [#F8A36B]#....[/] [#F8AF81]#...#[/] [#F8BC99]#....[/] [#F8CAB2]#...#[/] [#F7D9CD]#...#[/] [#F7E9E9].....[/]
+  [#F97316]#...#[/] [#F9761C].###.[/] [#F97C26].####[/] [#F98434]#...#[/] [#F98D44]#...#[/] [#F89757].....[/] [#F8A36B]#####[/] [#F8AF81].###.[/] [#F8BC99].####[/] [#F8CAB2]#...#[/] [#F7D9CD]#...#[/] [#F7E9E9]..#..[/]
+  [#625757]───────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #F97316]                        Mucha Lucha!                        [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

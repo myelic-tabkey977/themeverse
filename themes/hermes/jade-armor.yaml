@@ -1,0 +1,90 @@
+name: jade-armor
+description: A teen girl discovers a legendary jade armor.
+colors:
+  banner_border: '#10B981'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#54615B'
+  banner_text: '#E7F5EE'
+  ui_accent: '#FDE047'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7F5EE'
+  input_rule: '#10B981'
+  response_border: '#FDE047'
+  status_bar_bg: '#19251F'
+  status_bar_text: '#E7F5EE'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#54615B'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#19251F'
+  completion_menu_bg: '#05120C'
+  completion_menu_current_bg: '#54541F'
+  completion_menu_meta_bg: '#040F0A'
+  completion_menu_meta_current_bg: '#4A4C1D'
+  session_label: '#F59E0B'
+  session_border: '#54615B'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Jade Armor Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Jade Armor '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Jade Armor Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]..###[/] [#FCE14D].###.[/] [#FBE258]####.[/] [#F9E467]#####[/] [#F6E678].....[/] [#F4E98C].###.[/] [#F1EBA2]####.[/] [#EEEEBA]#...#[/] [#EBF2D3].###.[/] [#E7F5EE]####.[/]
+  [#FDE047]...#.[/] [#FCE14D]#...#[/] [#FBE258]#...#[/] [#F9E467]#....[/] [#F6E678].....[/] [#F4E98C]#...#[/] [#F1EBA2]#...#[/] [#EEEEBA]##.##[/] [#EBF2D3]#...#[/] [#E7F5EE]#...#[/]
+  [#FDE047]...#.[/] [#FCE14D]#####[/] [#FBE258]#...#[/] [#F9E467]####.[/] [#F6E678].....[/] [#F4E98C]#####[/] [#F1EBA2]####.[/] [#EEEEBA]#.#.#[/] [#EBF2D3]#...#[/] [#E7F5EE]####.[/]
+  [#FDE047]#..#.[/] [#FCE14D]#...#[/] [#FBE258]#...#[/] [#F9E467]#....[/] [#F6E678].....[/] [#F4E98C]#...#[/] [#F1EBA2]#..#.[/] [#EEEEBA]#...#[/] [#EBF2D3]#...#[/] [#E7F5EE]#..#.[/]
+  [#FDE047].##..[/] [#FCE14D]#...#[/] [#FBE258]####.[/] [#F9E467]#####[/] [#F6E678].....[/] [#F4E98C]#...#[/] [#F1EBA2]#...#[/] [#EEEEBA]#...#[/] [#EBF2D3].###.[/] [#E7F5EE]#...#[/]
+  [#54615B]───────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#10B981]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                         Jade Armor                         [/]
+  [#10B981]────────────────────────────────────────────────────────────[/]

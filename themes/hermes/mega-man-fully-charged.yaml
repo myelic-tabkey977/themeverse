@@ -1,0 +1,90 @@
+name: mega-man-fully-charged
+description: The blue bomber reborn for a new generation.
+colors:
+  banner_border: '#2563EB'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#545A65'
+  banner_text: '#E5ECF7'
+  ui_accent: '#FDE047'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5ECF7'
+  input_rule: '#2563EB'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A1F29'
+  status_bar_text: '#E5ECF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#545A65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F29'
+  completion_menu_bg: '#060C16'
+  completion_menu_current_bg: '#555026'
+  completion_menu_meta_bg: '#050A13'
+  completion_menu_meta_current_bg: '#4B4724'
+  session_label: '#F8FAFC'
+  session_border: '#545A65'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Mega Man: Fully Charged Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Mega Man: Fully Charged '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Mega Man: Fully Charged Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE049]#####[/] [#FCE04C].####[/] [#FCE150].###.[/] [#FBE155].....[/] [#FAE15A]#...#[/] [#FAE260].###.[/] [#F9E267]#...#[/] [#F8E36E].....[/] [#F7E375].....[/] [#F6E47D]#####[/] [#F5E485]#...#[/] [#F3E58E]#....[/] [#F2E597]#....[/] [#F1E6A0]#...#[/] [#EFE7AA].....[/] [#EEE7B4].####[/] [#EDE8BF]#...#[/] [#EBE9C9].###.[/] [#EAEAD4]####.[/] [#E8EAE0].####[/] [#E7EBEB]#####[/] [#E5ECF7]####.[/]
+  [#FDE047]##.##[/] [#FDE049]#....[/] [#FCE04C]#....[/] [#FCE150]#...#[/] [#FBE155].....[/] [#FAE15A]##.##[/] [#FAE260]#...#[/] [#F9E267]##..#[/] [#F8E36E].....[/] [#F7E375].....[/] [#F6E47D]#....[/] [#F5E485]#...#[/] [#F3E58E]#....[/] [#F2E597]#....[/] [#F1E6A0].#.#.[/] [#EFE7AA].....[/] [#EEE7B4]#....[/] [#EDE8BF]#...#[/] [#EBE9C9]#...#[/] [#EAEAD4]#...#[/] [#E8EAE0]#....[/] [#E7EBEB]#....[/] [#E5ECF7]#...#[/]
+  [#FDE047]#.#.#[/] [#FDE049]####.[/] [#FCE04C]#..##[/] [#FCE150]#####[/] [#FBE155].....[/] [#FAE15A]#.#.#[/] [#FAE260]#####[/] [#F9E267]#.#.#[/] [#F8E36E].....[/] [#F7E375].....[/] [#F6E47D]####.[/] [#F5E485]#...#[/] [#F3E58E]#....[/] [#F2E597]#....[/] [#F1E6A0]..#..[/] [#EFE7AA].....[/] [#EEE7B4]#....[/] [#EDE8BF]#####[/] [#EBE9C9]#####[/] [#EAEAD4]####.[/] [#E8EAE0]#..##[/] [#E7EBEB]####.[/] [#E5ECF7]#...#[/]
+  [#FDE047]#...#[/] [#FDE049]#....[/] [#FCE04C]#...#[/] [#FCE150]#...#[/] [#FBE155].....[/] [#FAE15A]#...#[/] [#FAE260]#...#[/] [#F9E267]#..##[/] [#F8E36E].....[/] [#F7E375].....[/] [#F6E47D]#....[/] [#F5E485]#...#[/] [#F3E58E]#....[/] [#F2E597]#....[/] [#F1E6A0]..#..[/] [#EFE7AA].....[/] [#EEE7B4]#....[/] [#EDE8BF]#...#[/] [#EBE9C9]#...#[/] [#EAEAD4]#..#.[/] [#E8EAE0]#...#[/] [#E7EBEB]#....[/] [#E5ECF7]#...#[/]
+  [#FDE047]#...#[/] [#FDE049]#####[/] [#FCE04C].####[/] [#FCE150]#...#[/] [#FBE155].....[/] [#FAE15A]#...#[/] [#FAE260]#...#[/] [#F9E267]#...#[/] [#F8E36E].....[/] [#F7E375].....[/] [#F6E47D]#....[/] [#F5E485].###.[/] [#F3E58E]#####[/] [#F2E597]#####[/] [#F1E6A0]..#..[/] [#EFE7AA].....[/] [#EEE7B4].####[/] [#EDE8BF]#...#[/] [#EBE9C9]#...#[/] [#EAEAD4]#...#[/] [#E8EAE0].####[/] [#E7EBEB]#####[/] [#E5ECF7]####.[/]
+  [#545A65]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#2563EB]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                  Mega Man: Fully Charged                   [/]
+  [#2563EB]────────────────────────────────────────────────────────────[/]

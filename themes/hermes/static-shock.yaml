@@ -1,0 +1,90 @@
+name: static-shock
+description: Virgil Hawkins — the electric superhero of Dakota.
+colors:
+  banner_border: '#FACC15'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625F53'
+  banner_text: '#F9F6E6'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9F6E6'
+  input_rule: '#FACC15'
+  response_border: '#FDE047'
+  status_bar_bg: '#232118'
+  status_bar_text: '#F9F6E6'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625F53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#232118'
+  completion_menu_bg: '#100E04'
+  completion_menu_current_bg: '#5C5119'
+  completion_menu_meta_bg: '#0E0C03'
+  completion_menu_meta_current_bg: '#524917'
+  session_label: '#3B82F6'
+  session_border: '#625F53'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Static Shock Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Static Shock '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Static Shock Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE14B]#####[/] [#FDE253].###.[/] [#FCE35E]#####[/] [#FCE56A]#####[/] [#FCE778].####[/] [#FBE987].....[/] [#FBEB98].####[/] [#FBEEAA]#...#[/] [#FAF0BD].###.[/] [#FAF3D1].####[/] [#F9F6E6]#...#[/]
+  [#FDE047]#....[/] [#FDE14B]..#..[/] [#FDE253]#...#[/] [#FCE35E]..#..[/] [#FCE56A]..#..[/] [#FCE778]#....[/] [#FBE987].....[/] [#FBEB98]#....[/] [#FBEEAA]#...#[/] [#FAF0BD]#...#[/] [#FAF3D1]#....[/] [#F9F6E6]#..#.[/]
+  [#FDE047].###.[/] [#FDE14B]..#..[/] [#FDE253]#####[/] [#FCE35E]..#..[/] [#FCE56A]..#..[/] [#FCE778]#....[/] [#FBE987].....[/] [#FBEB98].###.[/] [#FBEEAA]#####[/] [#FAF0BD]#...#[/] [#FAF3D1]#....[/] [#F9F6E6]###..[/]
+  [#FDE047]....#[/] [#FDE14B]..#..[/] [#FDE253]#...#[/] [#FCE35E]..#..[/] [#FCE56A]..#..[/] [#FCE778]#....[/] [#FBE987].....[/] [#FBEB98]....#[/] [#FBEEAA]#...#[/] [#FAF0BD]#...#[/] [#FAF3D1]#....[/] [#F9F6E6]#..#.[/]
+  [#FDE047]####.[/] [#FDE14B]..#..[/] [#FDE253]#...#[/] [#FCE35E]..#..[/] [#FCE56A]#####[/] [#FCE778].####[/] [#FBE987].....[/] [#FBEB98]####.[/] [#FBEEAA]#...#[/] [#FAF0BD].###.[/] [#FAF3D1].####[/] [#F9F6E6]#...#[/]
+  [#625F53]───────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#FACC15]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                        Static Shock                        [/]
+  [#FACC15]────────────────────────────────────────────────────────────[/]

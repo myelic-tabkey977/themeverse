@@ -1,0 +1,90 @@
+name: g-gundam
+description: The Gundam Fight tournament decides Earth's fate.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5454'
+  banner_text: '#F6E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#22C55E'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#201818'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5454'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201818'
+  completion_menu_bg: '#0D0404'
+  completion_menu_current_bg: '#5A4A19'
+  completion_menu_meta_bg: '#0B0303'
+  completion_menu_meta_current_bg: '#504217'
+  session_label: '#22C55E'
+  session_border: '#5F5454'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mobile Fighter G Gundam Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Mobile Fighter G Gundam '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Mobile Fighter G Gundam Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE049].###.[/] [#FDE04B]####.[/] [#FDE04F]#####[/] [#FCE154]#....[/] [#FCE159]#####[/] [#FCE15E].....[/] [#FCE264]#####[/] [#FBE26B]#####[/] [#FBE271].####[/] [#FBE379]#...#[/] [#FBE380]#####[/] [#FAE488]#####[/] [#FAE491]####.[/] [#F9E599].....[/] [#F9E5A2].####[/] [#F9E6AB].....[/] [#F8E6B5].####[/] [#F8E7BF]#...#[/] [#F7E7C9]#...#[/] [#F7E8D3]####.[/] [#F6E8DE].###.[/] [#F6E9E9]#...#[/]
+  [#FDE047]##.##[/] [#FDE049]#...#[/] [#FDE04B]#...#[/] [#FDE04F]..#..[/] [#FCE154]#....[/] [#FCE159]#....[/] [#FCE15E].....[/] [#FCE264]#....[/] [#FBE26B]..#..[/] [#FBE271]#....[/] [#FBE379]#...#[/] [#FBE380]..#..[/] [#FAE488]#....[/] [#FAE491]#...#[/] [#F9E599].....[/] [#F9E5A2]#....[/] [#F9E6AB].....[/] [#F8E6B5]#....[/] [#F8E7BF]#...#[/] [#F7E7C9]##..#[/] [#F7E8D3]#...#[/] [#F6E8DE]#...#[/] [#F6E9E9]##.##[/]
+  [#FDE047]#.#.#[/] [#FDE049]#...#[/] [#FDE04B]####.[/] [#FDE04F]..#..[/] [#FCE154]#....[/] [#FCE159]####.[/] [#FCE15E].....[/] [#FCE264]####.[/] [#FBE26B]..#..[/] [#FBE271]#..##[/] [#FBE379]#####[/] [#FBE380]..#..[/] [#FAE488]####.[/] [#FAE491]####.[/] [#F9E599].....[/] [#F9E5A2]#..##[/] [#F9E6AB].....[/] [#F8E6B5]#..##[/] [#F8E7BF]#...#[/] [#F7E7C9]#.#.#[/] [#F7E8D3]#...#[/] [#F6E8DE]#####[/] [#F6E9E9]#.#.#[/]
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FDE04B]#...#[/] [#FDE04F]..#..[/] [#FCE154]#....[/] [#FCE159]#....[/] [#FCE15E].....[/] [#FCE264]#....[/] [#FBE26B]..#..[/] [#FBE271]#...#[/] [#FBE379]#...#[/] [#FBE380]..#..[/] [#FAE488]#....[/] [#FAE491]#..#.[/] [#F9E599].....[/] [#F9E5A2]#...#[/] [#F9E6AB].....[/] [#F8E6B5]#...#[/] [#F8E7BF]#...#[/] [#F7E7C9]#..##[/] [#F7E8D3]#...#[/] [#F6E8DE]#...#[/] [#F6E9E9]#...#[/]
+  [#FDE047]#...#[/] [#FDE049].###.[/] [#FDE04B]####.[/] [#FDE04F]#####[/] [#FCE154]#####[/] [#FCE159]#####[/] [#FCE15E].....[/] [#FCE264]#....[/] [#FBE26B]#####[/] [#FBE271].####[/] [#FBE379]#...#[/] [#FBE380]..#..[/] [#FAE488]#####[/] [#FAE491]#...#[/] [#F9E599].....[/] [#F9E5A2].####[/] [#F9E6AB].....[/] [#F8E6B5].####[/] [#F8E7BF].###.[/] [#F7E7C9]#...#[/] [#F7E8D3]####.[/] [#F6E8DE]#...#[/] [#F6E9E9]#...#[/]
+  [#5F5454]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                  Mobile Fighter G Gundam                   [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

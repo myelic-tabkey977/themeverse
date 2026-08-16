@@ -1,0 +1,90 @@
+name: bleach
+description: The substitute Soul Reaper with a very big sword.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#F36E6E'
+  banner_accent: '#F36E6E'
+  banner_dim: '#605A54'
+  banner_text: '#F5F1E8'
+  ui_accent: '#EF4444'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F5F1E8'
+  input_rule: '#F97316'
+  response_border: '#EF4444'
+  status_bar_bg: '#221D18'
+  status_bar_text: '#F5F1E8'
+  status_bar_strong: '#EF4444'
+  status_bar_dim: '#605A54'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221D18'
+  completion_menu_bg: '#0F0904'
+  completion_menu_current_bg: '#571C18'
+  completion_menu_meta_bg: '#0D0803'
+  completion_menu_meta_current_bg: '#4E1A16'
+  session_label: '#F8FAFC'
+  session_border: '#605A54'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Bleach Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Bleach '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Bleach Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#EF4444]####.[/] [#F05353]#....[/] [#F1706D]#####[/] [#F29490].###.[/] [#F3C0B9].####[/] [#F5F1E8]#...#[/]
+  [#EF4444]#...#[/] [#F05353]#....[/] [#F1706D]#....[/] [#F29490]#...#[/] [#F3C0B9]#....[/] [#F5F1E8]#...#[/]
+  [#EF4444]####.[/] [#F05353]#....[/] [#F1706D]####.[/] [#F29490]#####[/] [#F3C0B9]#....[/] [#F5F1E8]#####[/]
+  [#EF4444]#...#[/] [#F05353]#....[/] [#F1706D]#....[/] [#F29490]#...#[/] [#F3C0B9]#....[/] [#F5F1E8]#...#[/]
+  [#EF4444]####.[/] [#F05353]#####[/] [#F1706D]#####[/] [#F29490]#...#[/] [#F3C0B9].####[/] [#F5F1E8]#...#[/]
+  [#605A54]───────────────────────────────────[/]
+banner_hero: |-
+  [#F97316]────────────────────────────────────────────────────────────[/]
+  [bold #EF4444]                           Bleach                           [/]
+  [#F97316]────────────────────────────────────────────────────────────[/]

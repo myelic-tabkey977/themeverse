@@ -1,0 +1,23 @@
+{
+  "name": "Justice League",
+  "background": "#070D18",
+  "foreground": "#E5ECF7",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#827630",
+  "black": "#04060C",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F59E0B",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E6EDF7",
+  "brightBlack": "#606671",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#F8B648",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E5ECF7"
+}

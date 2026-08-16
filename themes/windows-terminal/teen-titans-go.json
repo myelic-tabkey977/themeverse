@@ -1,0 +1,23 @@
+{
+  "name": "Teen Titans Go!",
+  "background": "#0C0914",
+  "foreground": "#F1ECF8",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#84742E",
+  "black": "#06040A",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#38BDF8",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F2EDF8",
+  "brightBlack": "#68646F",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#6ACEFA",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F1ECF8"
+}

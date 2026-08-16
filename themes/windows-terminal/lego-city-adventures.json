@@ -1,0 +1,23 @@
+{
+  "name": "LEGO City Adventures",
+  "background": "#07101C",
+  "foreground": "#E7EEF8",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#827832",
+  "black": "#04080E",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F8FAFC",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E8EFF8",
+  "brightBlack": "#616974",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FAFBFD",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E7EEF8"
+}

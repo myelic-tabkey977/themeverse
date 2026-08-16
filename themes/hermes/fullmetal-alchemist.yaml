@@ -1,0 +1,90 @@
+name: fullmetal-alchemist
+description: The Fullmetal Alchemist bound by equivalent exchange.
+colors:
+  banner_border: '#D97706'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5E5851'
+  banner_text: '#F4EEE3'
+  ui_accent: '#FDE047'
+  ui_label: '#DC2626'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F4EEE3'
+  input_rule: '#D97706'
+  response_border: '#FDE047'
+  status_bar_bg: '#201C17'
+  status_bar_text: '#F4EEE3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5E5851'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201C17'
+  completion_menu_bg: '#0D0803'
+  completion_menu_current_bg: '#5A4D19'
+  completion_menu_meta_bg: '#0B0703'
+  completion_menu_meta_current_bg: '#504416'
+  session_label: '#DC2626'
+  session_border: '#5E5851'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Fullmetal Alchemist Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Fullmetal Alchemist '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Fullmetal Alchemist Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FDE049]#...#[/] [#FDE14D]#....[/] [#FCE152]#....[/] [#FCE157]#...#[/] [#FCE25E]#####[/] [#FBE365]#####[/] [#FBE36D].###.[/] [#FAE475]#....[/] [#FAE57E].....[/] [#F9E688].###.[/] [#F9E792]#....[/] [#F8E89C].####[/] [#F7E9A7]#...#[/] [#F7EAB2]#####[/] [#F6EBBE]#...#[/] [#F5ECCA]#####[/] [#F5EDD6].####[/] [#F4EEE3]#####[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FDE14D]#....[/] [#FCE152]#....[/] [#FCE157]##.##[/] [#FCE25E]#....[/] [#FBE365]..#..[/] [#FBE36D]#...#[/] [#FAE475]#....[/] [#FAE57E].....[/] [#F9E688]#...#[/] [#F9E792]#....[/] [#F8E89C]#....[/] [#F7E9A7]#...#[/] [#F7EAB2]#....[/] [#F6EBBE]##.##[/] [#F5ECCA]..#..[/] [#F5EDD6]#....[/] [#F4EEE3]..#..[/]
+  [#FDE047]####.[/] [#FDE049]#...#[/] [#FDE14D]#....[/] [#FCE152]#....[/] [#FCE157]#.#.#[/] [#FCE25E]####.[/] [#FBE365]..#..[/] [#FBE36D]#####[/] [#FAE475]#....[/] [#FAE57E].....[/] [#F9E688]#####[/] [#F9E792]#....[/] [#F8E89C]#....[/] [#F7E9A7]#####[/] [#F7EAB2]####.[/] [#F6EBBE]#.#.#[/] [#F5ECCA]..#..[/] [#F5EDD6].###.[/] [#F4EEE3]..#..[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FDE14D]#....[/] [#FCE152]#....[/] [#FCE157]#...#[/] [#FCE25E]#....[/] [#FBE365]..#..[/] [#FBE36D]#...#[/] [#FAE475]#....[/] [#FAE57E].....[/] [#F9E688]#...#[/] [#F9E792]#....[/] [#F8E89C]#....[/] [#F7E9A7]#...#[/] [#F7EAB2]#....[/] [#F6EBBE]#...#[/] [#F5ECCA]..#..[/] [#F5EDD6]....#[/] [#F4EEE3]..#..[/]
+  [#FDE047]#....[/] [#FDE049].###.[/] [#FDE14D]#####[/] [#FCE152]#####[/] [#FCE157]#...#[/] [#FCE25E]#####[/] [#FBE365]..#..[/] [#FBE36D]#...#[/] [#FAE475]#####[/] [#FAE57E].....[/] [#F9E688]#...#[/] [#F9E792]#####[/] [#F8E89C].####[/] [#F7E9A7]#...#[/] [#F7EAB2]#####[/] [#F6EBBE]#...#[/] [#F5ECCA]#####[/] [#F5EDD6]####.[/] [#F4EEE3]..#..[/]
+  [#5E5851]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#D97706]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                    Fullmetal Alchemist                     [/]
+  [#D97706]────────────────────────────────────────────────────────────[/]

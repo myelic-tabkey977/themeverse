@@ -1,0 +1,90 @@
+name: steins-gate
+description: The self-proclaimed mad scientist and his time machine.
+colors:
+  banner_border: '#94A3B8'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#5B5D60'
+  banner_text: '#EDEFF2'
+  ui_accent: '#38BDF8'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EDEFF2'
+  input_rule: '#94A3B8'
+  response_border: '#38BDF8'
+  status_bar_bg: '#1F2124'
+  status_bar_text: '#EDEFF2'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#5B5D60'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F2124'
+  completion_menu_bg: '#0C0E11'
+  completion_menu_current_bg: '#1A465B'
+  completion_menu_meta_bg: '#0A0C0E'
+  completion_menu_meta_current_bg: '#183F52'
+  session_label: '#FACC15'
+  session_border: '#5B5D60'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Steins;Gate Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Steins;Gate '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Steins;Gate Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8].####[/] [#3EBFF8]#####[/] [#48C1F7]#####[/] [#56C5F7]#####[/] [#66CAF6]#...#[/] [#78CFF6].####[/] [#8CD4F5].....[/] [#A2DAF4].####[/] [#BAE1F4].###.[/] [#D3E8F3]#####[/] [#EDEFF2]#####[/]
+  [#38BDF8]#....[/] [#3EBFF8]..#..[/] [#48C1F7]#....[/] [#56C5F7]..#..[/] [#66CAF6]##..#[/] [#78CFF6]#....[/] [#8CD4F5].....[/] [#A2DAF4]#....[/] [#BAE1F4]#...#[/] [#D3E8F3]..#..[/] [#EDEFF2]#....[/]
+  [#38BDF8].###.[/] [#3EBFF8]..#..[/] [#48C1F7]####.[/] [#56C5F7]..#..[/] [#66CAF6]#.#.#[/] [#78CFF6].###.[/] [#8CD4F5].....[/] [#A2DAF4]#..##[/] [#BAE1F4]#####[/] [#D3E8F3]..#..[/] [#EDEFF2]####.[/]
+  [#38BDF8]....#[/] [#3EBFF8]..#..[/] [#48C1F7]#....[/] [#56C5F7]..#..[/] [#66CAF6]#..##[/] [#78CFF6]....#[/] [#8CD4F5].....[/] [#A2DAF4]#...#[/] [#BAE1F4]#...#[/] [#D3E8F3]..#..[/] [#EDEFF2]#....[/]
+  [#38BDF8]####.[/] [#3EBFF8]..#..[/] [#48C1F7]#####[/] [#56C5F7]#####[/] [#66CAF6]#...#[/] [#78CFF6]####.[/] [#8CD4F5].....[/] [#A2DAF4].####[/] [#BAE1F4]#...#[/] [#D3E8F3]..#..[/] [#EDEFF2]#####[/]
+  [#5B5D60]─────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#94A3B8]────────────────────────────────────────────────────────────[/]
+  [bold #38BDF8]                        Steins;Gate                         [/]
+  [#94A3B8]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: jujutsu-kaisen
+description: The strongest sorcerer, hiding behind a blindfold.
+colors:
+  banner_border: '#60A5FA'
+  banner_title: '#22D3EE'
+  banner_accent: '#22D3EE'
+  banner_dim: '#555C66'
+  banner_text: '#E7EEF7'
+  ui_accent: '#22D3EE'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7EEF7'
+  input_rule: '#60A5FA'
+  response_border: '#22D3EE'
+  status_bar_bg: '#1A202A'
+  status_bar_text: '#E7EEF7'
+  status_bar_strong: '#22D3EE'
+  status_bar_dim: '#555C66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A202A'
+  completion_menu_bg: '#060D18'
+  completion_menu_current_bg: '#0F4C5C'
+  completion_menu_meta_bg: '#050B14'
+  completion_menu_meta_current_bg: '#0E4454'
+  session_label: '#F8FAFC'
+  session_border: '#555C66'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Jujutsu Kaisen Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Jujutsu Kaisen '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Jujutsu Kaisen Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#22D3EE]..###[/] [#26D4EE]#...#[/] [#2ED5EF]..###[/] [#38D6EF]#...#[/] [#44D8F0]#####[/] [#51D9F0].####[/] [#60DBF1]#...#[/] [#70DEF2].....[/] [#81E0F2]#...#[/] [#93E3F3].###.[/] [#A7E5F4]#####[/] [#BBE8F5].####[/] [#D1EBF6]#####[/] [#E7EEF7]#...#[/]
+  [#22D3EE]...#.[/] [#26D4EE]#...#[/] [#2ED5EF]...#.[/] [#38D6EF]#...#[/] [#44D8F0]..#..[/] [#51D9F0]#....[/] [#60DBF1]#...#[/] [#70DEF2].....[/] [#81E0F2]#..#.[/] [#93E3F3]#...#[/] [#A7E5F4]..#..[/] [#BBE8F5]#....[/] [#D1EBF6]#....[/] [#E7EEF7]##..#[/]
+  [#22D3EE]...#.[/] [#26D4EE]#...#[/] [#2ED5EF]...#.[/] [#38D6EF]#...#[/] [#44D8F0]..#..[/] [#51D9F0].###.[/] [#60DBF1]#...#[/] [#70DEF2].....[/] [#81E0F2]###..[/] [#93E3F3]#####[/] [#A7E5F4]..#..[/] [#BBE8F5].###.[/] [#D1EBF6]####.[/] [#E7EEF7]#.#.#[/]
+  [#22D3EE]#..#.[/] [#26D4EE]#...#[/] [#2ED5EF]#..#.[/] [#38D6EF]#...#[/] [#44D8F0]..#..[/] [#51D9F0]....#[/] [#60DBF1]#...#[/] [#70DEF2].....[/] [#81E0F2]#..#.[/] [#93E3F3]#...#[/] [#A7E5F4]..#..[/] [#BBE8F5]....#[/] [#D1EBF6]#....[/] [#E7EEF7]#..##[/]
+  [#22D3EE].##..[/] [#26D4EE].###.[/] [#2ED5EF].##..[/] [#38D6EF].###.[/] [#44D8F0]..#..[/] [#51D9F0]####.[/] [#60DBF1].###.[/] [#70DEF2].....[/] [#81E0F2]#...#[/] [#93E3F3]#...#[/] [#A7E5F4]#####[/] [#BBE8F5]####.[/] [#D1EBF6]#####[/] [#E7EEF7]#...#[/]
+  [#555C66]───────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#60A5FA]────────────────────────────────────────────────────────────[/]
+  [bold #22D3EE]                       Jujutsu Kaisen                       [/]
+  [#60A5FA]────────────────────────────────────────────────────────────[/]

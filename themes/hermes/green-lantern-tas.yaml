@@ -1,0 +1,90 @@
+name: green-lantern-tas
+description: Hal Jordan and Kilowog patrolling the universe.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#545E57'
+  banner_text: '#E7F5EB'
+  ui_accent: '#FDE047'
+  ui_label: '#86EFAC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7F5EB'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#19201C'
+  status_bar_text: '#E7F5EB'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#545E57'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#19201C'
+  completion_menu_bg: '#050D08'
+  completion_menu_current_bg: '#54511C'
+  completion_menu_meta_bg: '#040B07'
+  completion_menu_meta_current_bg: '#4A481A'
+  session_label: '#86EFAC'
+  session_border: '#545E57'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Green Lantern: The Animated Series Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Green Lantern: The Animated Series '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Green Lantern: The Animated Series Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE048]####.[/] [#FDE049]#####[/] [#FCE14B]#####[/] [#FCE14E]#...#[/] [#FCE151].....[/] [#FBE254]#....[/] [#FBE257].###.[/] [#FAE35B]#...#[/] [#FAE35E]#####[/] [#F9E462]#####[/] [#F9E467]####.[/] [#F8E56B]#...#[/] [#F8E570].....[/] [#F7E674].....[/] [#F6E679]#####[/] [#F6E77E]#...#[/] [#F5E884]#####[/] [#F4E889].....[/] [#F3E98F].###.[/] [#F3EA94]#...#[/] [#F2EB9A]#####[/] [#F1EBA0]#...#[/] [#F0ECA6].###.[/] [#EFEDAD]#####[/] [#EEEEB3]#####[/] [#EEEFBA]####.[/] [#EDF0C0].....[/] [#ECF0C7].####[/] [#EBF1CE]#####[/] [#EAF2D5]####.[/] [#E9F3DC]#####[/] [#E8F4E4]#####[/] [#E7F5EB].####[/]
+  [#FDE047]#....[/] [#FDE048]#...#[/] [#FDE049]#....[/] [#FCE14B]#....[/] [#FCE14E]##..#[/] [#FCE151].....[/] [#FBE254]#....[/] [#FBE257]#...#[/] [#FAE35B]##..#[/] [#FAE35E]..#..[/] [#F9E462]#....[/] [#F9E467]#...#[/] [#F8E56B]##..#[/] [#F8E570].....[/] [#F7E674].....[/] [#F6E679]..#..[/] [#F6E77E]#...#[/] [#F5E884]#....[/] [#F4E889].....[/] [#F3E98F]#...#[/] [#F3EA94]##..#[/] [#F2EB9A]..#..[/] [#F1EBA0]##.##[/] [#F0ECA6]#...#[/] [#EFEDAD]..#..[/] [#EEEEB3]#....[/] [#EEEFBA]#...#[/] [#EDF0C0].....[/] [#ECF0C7]#....[/] [#EBF1CE]#....[/] [#EAF2D5]#...#[/] [#E9F3DC]..#..[/] [#E8F4E4]#....[/] [#E7F5EB]#....[/]
+  [#FDE047]#..##[/] [#FDE048]####.[/] [#FDE049]####.[/] [#FCE14B]####.[/] [#FCE14E]#.#.#[/] [#FCE151].....[/] [#FBE254]#....[/] [#FBE257]#####[/] [#FAE35B]#.#.#[/] [#FAE35E]..#..[/] [#F9E462]####.[/] [#F9E467]####.[/] [#F8E56B]#.#.#[/] [#F8E570].....[/] [#F7E674].....[/] [#F6E679]..#..[/] [#F6E77E]#####[/] [#F5E884]####.[/] [#F4E889].....[/] [#F3E98F]#####[/] [#F3EA94]#.#.#[/] [#F2EB9A]..#..[/] [#F1EBA0]#.#.#[/] [#F0ECA6]#####[/] [#EFEDAD]..#..[/] [#EEEEB3]####.[/] [#EEEFBA]#...#[/] [#EDF0C0].....[/] [#ECF0C7].###.[/] [#EBF1CE]####.[/] [#EAF2D5]####.[/] [#E9F3DC]..#..[/] [#E8F4E4]####.[/] [#E7F5EB].###.[/]
+  [#FDE047]#...#[/] [#FDE048]#..#.[/] [#FDE049]#....[/] [#FCE14B]#....[/] [#FCE14E]#..##[/] [#FCE151].....[/] [#FBE254]#....[/] [#FBE257]#...#[/] [#FAE35B]#..##[/] [#FAE35E]..#..[/] [#F9E462]#....[/] [#F9E467]#..#.[/] [#F8E56B]#..##[/] [#F8E570].....[/] [#F7E674].....[/] [#F6E679]..#..[/] [#F6E77E]#...#[/] [#F5E884]#....[/] [#F4E889].....[/] [#F3E98F]#...#[/] [#F3EA94]#..##[/] [#F2EB9A]..#..[/] [#F1EBA0]#...#[/] [#F0ECA6]#...#[/] [#EFEDAD]..#..[/] [#EEEEB3]#....[/] [#EEEFBA]#...#[/] [#EDF0C0].....[/] [#ECF0C7]....#[/] [#EBF1CE]#....[/] [#EAF2D5]#..#.[/] [#E9F3DC]..#..[/] [#E8F4E4]#....[/] [#E7F5EB]....#[/]
+  [#FDE047].####[/] [#FDE048]#...#[/] [#FDE049]#####[/] [#FCE14B]#####[/] [#FCE14E]#...#[/] [#FCE151].....[/] [#FBE254]#####[/] [#FBE257]#...#[/] [#FAE35B]#...#[/] [#FAE35E]..#..[/] [#F9E462]#####[/] [#F9E467]#...#[/] [#F8E56B]#...#[/] [#F8E570].....[/] [#F7E674].....[/] [#F6E679]..#..[/] [#F6E77E]#...#[/] [#F5E884]#####[/] [#F4E889].....[/] [#F3E98F]#...#[/] [#F3EA94]#...#[/] [#F2EB9A]#####[/] [#F1EBA0]#...#[/] [#F0ECA6]#...#[/] [#EFEDAD]..#..[/] [#EEEEB3]#####[/] [#EEEFBA]####.[/] [#EDF0C0].....[/] [#ECF0C7]####.[/] [#EBF1CE]#####[/] [#EAF2D5]#...#[/] [#E9F3DC]#####[/] [#E8F4E4]#####[/] [#E7F5EB]####.[/]
+  [#545E57]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#22C55E]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]             Green Lantern: The Animated Series             [/]
+  [#22C55E]────────────────────────────────────────────────────────────[/]

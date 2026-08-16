@@ -1,0 +1,90 @@
+name: ed-edd-n-eddy
+description: Three friends, endless scams and one huge jawbreaker.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#FDBA74'
+  banner_accent: '#FDBA74'
+  banner_dim: '#625B52'
+  banner_text: '#F8EFE0'
+  ui_accent: '#FDBA74'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8EFE0'
+  input_rule: '#FB923C'
+  response_border: '#FDBA74'
+  status_bar_bg: '#251F19'
+  status_bar_text: '#F8EFE0'
+  status_bar_strong: '#FDBA74'
+  status_bar_dim: '#625B52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F19'
+  completion_menu_bg: '#120B05'
+  completion_menu_current_bg: '#5D4329'
+  completion_menu_meta_bg: '#0F0904'
+  completion_menu_meta_current_bg: '#543C24'
+  session_label: '#FDE047'
+  session_border: '#625B52'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Ed, Edd n Eddy Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Ed, Edd n Eddy '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Ed, Edd n Eddy Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDBA74]#####[/] [#FDBB76]####.[/] [#FDBD7B].....[/] [#FCC080].....[/] [#FCC386]#####[/] [#FCC78E]####.[/] [#FBCB96]####.[/] [#FBCF9F].....[/] [#FBD4A8]#...#[/] [#FAD9B2].....[/] [#FADEBD]#####[/] [#F9E3C8]####.[/] [#F9E9D4]####.[/] [#F8EFE0]#...#[/]
+  [#FDBA74]#....[/] [#FDBB76]#...#[/] [#FDBD7B].....[/] [#FCC080].....[/] [#FCC386]#....[/] [#FCC78E]#...#[/] [#FBCB96]#...#[/] [#FBCF9F].....[/] [#FBD4A8]##..#[/] [#FAD9B2].....[/] [#FADEBD]#....[/] [#F9E3C8]#...#[/] [#F9E9D4]#...#[/] [#F8EFE0].#.#.[/]
+  [#FDBA74]####.[/] [#FDBB76]#...#[/] [#FDBD7B].....[/] [#FCC080].....[/] [#FCC386]####.[/] [#FCC78E]#...#[/] [#FBCB96]#...#[/] [#FBCF9F].....[/] [#FBD4A8]#.#.#[/] [#FAD9B2].....[/] [#FADEBD]####.[/] [#F9E3C8]#...#[/] [#F9E9D4]#...#[/] [#F8EFE0]..#..[/]
+  [#FDBA74]#....[/] [#FDBB76]#...#[/] [#FDBD7B].....[/] [#FCC080].....[/] [#FCC386]#....[/] [#FCC78E]#...#[/] [#FBCB96]#...#[/] [#FBCF9F].....[/] [#FBD4A8]#..##[/] [#FAD9B2].....[/] [#FADEBD]#....[/] [#F9E3C8]#...#[/] [#F9E9D4]#...#[/] [#F8EFE0]..#..[/]
+  [#FDBA74]#####[/] [#FDBB76]####.[/] [#FDBD7B].....[/] [#FCC080].....[/] [#FCC386]#####[/] [#FCC78E]####.[/] [#FBCB96]####.[/] [#FBCF9F].....[/] [#FBD4A8]#...#[/] [#FAD9B2].....[/] [#FADEBD]#####[/] [#F9E3C8]####.[/] [#F9E9D4]####.[/] [#F8EFE0]..#..[/]
+  [#625B52]───────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#FB923C]────────────────────────────────────────────────────────────[/]
+  [bold #FDBA74]                       Ed, Edd n Eddy                       [/]
+  [#FB923C]────────────────────────────────────────────────────────────[/]

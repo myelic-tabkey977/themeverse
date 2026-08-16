@@ -1,0 +1,90 @@
+name: scooby-doo
+description: Mystery Inc. and the Mystery Machine solving spooky cases.
+colors:
+  banner_border: '#4ADE80'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#566357'
+  banner_text: '#E9F6EC'
+  ui_accent: '#FDE047'
+  ui_label: '#D97706'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F6EC'
+  input_rule: '#4ADE80'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B271B'
+  status_bar_text: '#E9F6EC'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#566357'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B271B'
+  completion_menu_bg: '#071407'
+  completion_menu_current_bg: '#56551B'
+  completion_menu_meta_bg: '#061106'
+  completion_menu_meta_current_bg: '#4C4D19'
+  session_label: '#D97706'
+  session_border: '#566357'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Scooby-Doo Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Scooby-Doo '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Scooby-Doo Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FCE14D].####[/] [#FBE258].###.[/] [#F9E467].###.[/] [#F7E778]####.[/] [#F5E98B]#...#[/] [#F2ECA1].....[/] [#EFEFB8]####.[/] [#ECF2D1].###.[/] [#E9F6EC].###.[/]
+  [#FDE047]#....[/] [#FCE14D]#....[/] [#FBE258]#...#[/] [#F9E467]#...#[/] [#F7E778]#...#[/] [#F5E98B].#.#.[/] [#F2ECA1].....[/] [#EFEFB8]#...#[/] [#ECF2D1]#...#[/] [#E9F6EC]#...#[/]
+  [#FDE047].###.[/] [#FCE14D]#....[/] [#FBE258]#...#[/] [#F9E467]#...#[/] [#F7E778]####.[/] [#F5E98B]..#..[/] [#F2ECA1]#####[/] [#EFEFB8]#...#[/] [#ECF2D1]#...#[/] [#E9F6EC]#...#[/]
+  [#FDE047]....#[/] [#FCE14D]#....[/] [#FBE258]#...#[/] [#F9E467]#...#[/] [#F7E778]#...#[/] [#F5E98B]..#..[/] [#F2ECA1].....[/] [#EFEFB8]#...#[/] [#ECF2D1]#...#[/] [#E9F6EC]#...#[/]
+  [#FDE047]####.[/] [#FCE14D].####[/] [#FBE258].###.[/] [#F9E467].###.[/] [#F7E778]####.[/] [#F5E98B]..#..[/] [#F2ECA1].....[/] [#EFEFB8]####.[/] [#ECF2D1].###.[/] [#E9F6EC].###.[/]
+  [#566357]───────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#4ADE80]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                         Scooby-Doo                         [/]
+  [#4ADE80]────────────────────────────────────────────────────────────[/]

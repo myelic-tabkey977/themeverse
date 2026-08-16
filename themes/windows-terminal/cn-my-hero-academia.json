@@ -1,0 +1,23 @@
+{
+  "name": "My Hero Academia",
+  "background": "#05120B",
+  "foreground": "#E8F6ED",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#817929",
+  "black": "#020906",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#EF4444",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E9F6EE",
+  "brightBlack": "#606D65",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#F37373",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E8F6ED"
+}

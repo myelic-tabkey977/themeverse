@@ -1,0 +1,23 @@
+{
+  "name": "Mr. Bean: The Animated Series",
+  "background": "#100D03",
+  "foreground": "#F9F5E4",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#867625",
+  "black": "#080602",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#64748B",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F9F6E5",
+  "brightBlack": "#6D6A5D",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#8B97A8",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F9F5E4"
+}

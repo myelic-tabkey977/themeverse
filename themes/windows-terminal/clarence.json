@@ -1,0 +1,23 @@
+{
+  "name": "Clarence",
+  "background": "#121008",
+  "foreground": "#F9F5E8",
+  "cursorColor": "#FB923C",
+  "selectionBackground": "#865122",
+  "black": "#090804",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#38BDF8",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F9F6E9",
+  "brightBlack": "#6E6C62",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#6ACEFA",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F9F5E8"
+}

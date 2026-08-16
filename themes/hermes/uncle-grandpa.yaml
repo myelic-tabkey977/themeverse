@@ -1,0 +1,90 @@
+name: uncle-grandpa
+description: Everyone's magical uncle and grandpa who only exists to help.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#645962'
+  banner_text: '#FAECF4'
+  ui_accent: '#A3E635'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#FAECF4'
+  input_rule: '#F472B6'
+  response_border: '#A3E635'
+  status_bar_bg: '#271E27'
+  status_bar_text: '#FAECF4'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#645962'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#271E27'
+  completion_menu_bg: '#140A14'
+  completion_menu_current_bg: '#42501F'
+  completion_menu_meta_bg: '#110811'
+  completion_menu_meta_current_bg: '#3C481D'
+  session_label: '#38BDF8'
+  session_border: '#645962'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Uncle Grandpa Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Uncle Grandpa '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Uncle Grandpa Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635]#...#[/] [#A5E63A]#...#[/] [#A9E642].####[/] [#AEE74D]#....[/] [#B4E75A]#####[/] [#BAE868].....[/] [#C2E879].####[/] [#CAE98A]####.[/] [#D2E99D].###.[/] [#DCEAB1]#...#[/] [#E5EBC6]####.[/] [#EFEBDD]####.[/] [#FAECF4].###.[/]
+  [#A3E635]#...#[/] [#A5E63A]##..#[/] [#A9E642]#....[/] [#AEE74D]#....[/] [#B4E75A]#....[/] [#BAE868].....[/] [#C2E879]#....[/] [#CAE98A]#...#[/] [#D2E99D]#...#[/] [#DCEAB1]##..#[/] [#E5EBC6]#...#[/] [#EFEBDD]#...#[/] [#FAECF4]#...#[/]
+  [#A3E635]#...#[/] [#A5E63A]#.#.#[/] [#A9E642]#....[/] [#AEE74D]#....[/] [#B4E75A]####.[/] [#BAE868].....[/] [#C2E879]#..##[/] [#CAE98A]####.[/] [#D2E99D]#####[/] [#DCEAB1]#.#.#[/] [#E5EBC6]#...#[/] [#EFEBDD]####.[/] [#FAECF4]#####[/]
+  [#A3E635]#...#[/] [#A5E63A]#..##[/] [#A9E642]#....[/] [#AEE74D]#....[/] [#B4E75A]#....[/] [#BAE868].....[/] [#C2E879]#...#[/] [#CAE98A]#..#.[/] [#D2E99D]#...#[/] [#DCEAB1]#..##[/] [#E5EBC6]#...#[/] [#EFEBDD]#....[/] [#FAECF4]#...#[/]
+  [#A3E635].###.[/] [#A5E63A]#...#[/] [#A9E642].####[/] [#AEE74D]#####[/] [#B4E75A]#####[/] [#BAE868].....[/] [#C2E879].####[/] [#CAE98A]#...#[/] [#D2E99D]#...#[/] [#DCEAB1]#...#[/] [#E5EBC6]####.[/] [#EFEBDD]#....[/] [#FAECF4]#...#[/]
+  [#645962]─────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F472B6]────────────────────────────────────────────────────────────[/]
+  [bold #A3E635]                       Uncle Grandpa                        [/]
+  [#F472B6]────────────────────────────────────────────────────────────[/]

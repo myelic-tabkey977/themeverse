@@ -1,0 +1,23 @@
+{
+  "name": "Mobile Suit Gundam",
+  "background": "#060C16",
+  "foreground": "#E5ECF7",
+  "cursorColor": "#FACC15",
+  "selectionBackground": "#806C16",
+  "black": "#03060B",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F8FAFC",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E6EDF7",
+  "brightBlack": "#5F6670",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FAFBFD",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E5ECF7"
+}

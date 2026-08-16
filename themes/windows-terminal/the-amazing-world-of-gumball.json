@@ -1,0 +1,23 @@
+{
+  "name": "The Amazing World of Gumball",
+  "background": "#130A12",
+  "foreground": "#F8EBF3",
+  "cursorColor": "#A3E635",
+  "selectionBackground": "#5B7824",
+  "black": "#0A0509",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#38BDF8",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F8ECF4",
+  "brightBlack": "#6F646C",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#6ACEFA",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F8EBF3"
+}

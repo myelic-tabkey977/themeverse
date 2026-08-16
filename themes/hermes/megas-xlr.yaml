@@ -1,0 +1,90 @@
+name: megas-xlr
+description: A giant robot from the future, a slacker driver and a mechanic.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625757'
+  banner_text: '#F7E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#9CA3AF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#251C1C'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625757'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251C1C'
+  completion_menu_bg: '#120808'
+  completion_menu_current_bg: '#5D4D1C'
+  completion_menu_meta_bg: '#0F0707'
+  completion_menu_meta_current_bg: '#54441A'
+  session_label: '#9CA3AF'
+  session_border: '#625757'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Megas XLR Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Megas XLR '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Megas XLR Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE04E]#####[/] [#FCE15B].####[/] [#FCE26C].###.[/] [#FBE380].####[/] [#FAE497].....[/] [#F9E6B0]#...#[/] [#F8E7CC]#....[/] [#F7E9E9]####.[/]
+  [#FDE047]##.##[/] [#FDE04E]#....[/] [#FCE15B]#....[/] [#FCE26C]#...#[/] [#FBE380]#....[/] [#FAE497].....[/] [#F9E6B0].#.#.[/] [#F8E7CC]#....[/] [#F7E9E9]#...#[/]
+  [#FDE047]#.#.#[/] [#FDE04E]####.[/] [#FCE15B]#..##[/] [#FCE26C]#####[/] [#FBE380].###.[/] [#FAE497].....[/] [#F9E6B0]..#..[/] [#F8E7CC]#....[/] [#F7E9E9]####.[/]
+  [#FDE047]#...#[/] [#FDE04E]#....[/] [#FCE15B]#...#[/] [#FCE26C]#...#[/] [#FBE380]....#[/] [#FAE497].....[/] [#F9E6B0].#.#.[/] [#F8E7CC]#....[/] [#F7E9E9]#..#.[/]
+  [#FDE047]#...#[/] [#FDE04E]#####[/] [#FCE15B].####[/] [#FCE26C]#...#[/] [#FBE380]####.[/] [#FAE497].....[/] [#F9E6B0]#...#[/] [#F8E7CC]#####[/] [#F7E9E9]#...#[/]
+  [#625757]─────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                         Megas XLR                          [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

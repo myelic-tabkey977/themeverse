@@ -1,0 +1,90 @@
+name: one-punch-man
+description: The hero who ends every fight with one punch.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#605555'
+  banner_text: '#F7E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#221919'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#605555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221919'
+  completion_menu_bg: '#0F0505'
+  completion_menu_current_bg: '#5B4B1A'
+  completion_menu_meta_bg: '#0D0404'
+  completion_menu_meta_current_bg: '#524217'
+  session_label: '#FACC15'
+  session_border: '#605555'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: One Punch Man Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ One Punch Man '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) One Punch Man Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].###.[/] [#FDE04B]#...#[/] [#FDE152]#####[/] [#FCE15B].....[/] [#FCE266]####.[/] [#FBE273]#...#[/] [#FBE380]#...#[/] [#FAE48F].####[/] [#FAE59F]#...#[/] [#F9E6B0].....[/] [#F8E7C2]#...#[/] [#F8E8D5].###.[/] [#F7E9E9]#...#[/]
+  [#FDE047]#...#[/] [#FDE04B]##..#[/] [#FDE152]#....[/] [#FCE15B].....[/] [#FCE266]#...#[/] [#FBE273]#...#[/] [#FBE380]##..#[/] [#FAE48F]#....[/] [#FAE59F]#...#[/] [#F9E6B0].....[/] [#F8E7C2]##.##[/] [#F8E8D5]#...#[/] [#F7E9E9]##..#[/]
+  [#FDE047]#...#[/] [#FDE04B]#.#.#[/] [#FDE152]####.[/] [#FCE15B].....[/] [#FCE266]####.[/] [#FBE273]#...#[/] [#FBE380]#.#.#[/] [#FAE48F]#....[/] [#FAE59F]#####[/] [#F9E6B0].....[/] [#F8E7C2]#.#.#[/] [#F8E8D5]#####[/] [#F7E9E9]#.#.#[/]
+  [#FDE047]#...#[/] [#FDE04B]#..##[/] [#FDE152]#....[/] [#FCE15B].....[/] [#FCE266]#....[/] [#FBE273]#...#[/] [#FBE380]#..##[/] [#FAE48F]#....[/] [#FAE59F]#...#[/] [#F9E6B0].....[/] [#F8E7C2]#...#[/] [#F8E8D5]#...#[/] [#F7E9E9]#..##[/]
+  [#FDE047].###.[/] [#FDE04B]#...#[/] [#FDE152]#####[/] [#FCE15B].....[/] [#FCE266]#....[/] [#FBE273].###.[/] [#FBE380]#...#[/] [#FAE48F].####[/] [#FAE59F]#...#[/] [#F9E6B0].....[/] [#F8E7C2]#...#[/] [#F8E8D5]#...#[/] [#F7E9E9]#...#[/]
+  [#605555]─────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                       One Punch Man                        [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: my-gym-partner-is-a-monkey
+description: A boy transferred to a school for animals.
+colors:
+  banner_border: '#D97706'
+  banner_title: '#FBBF24'
+  banner_accent: '#FBBF24'
+  banner_dim: '#615B53'
+  banner_text: '#F5EEE4'
+  ui_accent: '#FBBF24'
+  ui_label: '#84CC16'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F5EEE4'
+  input_rule: '#D97706'
+  response_border: '#FBBF24'
+  status_bar_bg: '#251F19'
+  status_bar_text: '#F5EEE4'
+  status_bar_strong: '#FBBF24'
+  status_bar_dim: '#615B53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F19'
+  completion_menu_bg: '#120C05'
+  completion_menu_current_bg: '#5D450F'
+  completion_menu_meta_bg: '#0F0A04'
+  completion_menu_meta_current_bg: '#533E0E'
+  session_label: '#84CC16'
+  session_border: '#615B53'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: My Gym Partner's a Monkey Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ My Gym Partner''s a Monkey '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) My Gym Partner's a Monkey Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FBBF24]#...#[/] [#FBBF26]#...#[/] [#FBC029].....[/] [#FBC12C].####[/] [#FBC231]#...#[/] [#FAC336]#...#[/] [#FAC53C].....[/] [#FAC642]####.[/] [#FAC849].###.[/] [#FACA50]####.[/] [#F9CC58]#####[/] [#F9CE60]#...#[/] [#F9D068]#####[/] [#F9D271]####.[/] [#F8D47A]..#..[/] [#F8D683].####[/] [#F8D98D].....[/] [#F7DB96].###.[/] [#F7DEA1].....[/] [#F7E0AB]#...#[/] [#F6E3B6].###.[/] [#F6E5C1]#...#[/] [#F6E8CD]#...#[/] [#F5EBD8]#####[/] [#F5EEE4]#...#[/]
+  [#FBBF24]##.##[/] [#FBBF26].#.#.[/] [#FBC029].....[/] [#FBC12C]#....[/] [#FBC231].#.#.[/] [#FAC336]##.##[/] [#FAC53C].....[/] [#FAC642]#...#[/] [#FAC849]#...#[/] [#FACA50]#...#[/] [#F9CC58]..#..[/] [#F9CE60]##..#[/] [#F9D068]#....[/] [#F9D271]#...#[/] [#F8D47A]..#..[/] [#F8D683]#....[/] [#F8D98D].....[/] [#F7DB96]#...#[/] [#F7DEA1].....[/] [#F7E0AB]##.##[/] [#F6E3B6]#...#[/] [#F6E5C1]##..#[/] [#F6E8CD]#..#.[/] [#F5EBD8]#....[/] [#F5EEE4].#.#.[/]
+  [#FBBF24]#.#.#[/] [#FBBF26]..#..[/] [#FBC029].....[/] [#FBC12C]#..##[/] [#FBC231]..#..[/] [#FAC336]#.#.#[/] [#FAC53C].....[/] [#FAC642]####.[/] [#FAC849]#####[/] [#FACA50]####.[/] [#F9CC58]..#..[/] [#F9CE60]#.#.#[/] [#F9D068]####.[/] [#F9D271]####.[/] [#F8D47A].....[/] [#F8D683].###.[/] [#F8D98D].....[/] [#F7DB96]#####[/] [#F7DEA1].....[/] [#F7E0AB]#.#.#[/] [#F6E3B6]#...#[/] [#F6E5C1]#.#.#[/] [#F6E8CD]###..[/] [#F5EBD8]####.[/] [#F5EEE4]..#..[/]
+  [#FBBF24]#...#[/] [#FBBF26]..#..[/] [#FBC029].....[/] [#FBC12C]#...#[/] [#FBC231]..#..[/] [#FAC336]#...#[/] [#FAC53C].....[/] [#FAC642]#....[/] [#FAC849]#...#[/] [#FACA50]#..#.[/] [#F9CC58]..#..[/] [#F9CE60]#..##[/] [#F9D068]#....[/] [#F9D271]#..#.[/] [#F8D47A].....[/] [#F8D683]....#[/] [#F8D98D].....[/] [#F7DB96]#...#[/] [#F7DEA1].....[/] [#F7E0AB]#...#[/] [#F6E3B6]#...#[/] [#F6E5C1]#..##[/] [#F6E8CD]#..#.[/] [#F5EBD8]#....[/] [#F5EEE4]..#..[/]
+  [#FBBF24]#...#[/] [#FBBF26]..#..[/] [#FBC029].....[/] [#FBC12C].####[/] [#FBC231]..#..[/] [#FAC336]#...#[/] [#FAC53C].....[/] [#FAC642]#....[/] [#FAC849]#...#[/] [#FACA50]#...#[/] [#F9CC58]..#..[/] [#F9CE60]#...#[/] [#F9D068]#####[/] [#F9D271]#...#[/] [#F8D47A].....[/] [#F8D683]####.[/] [#F8D98D].....[/] [#F7DB96]#...#[/] [#F7DEA1].....[/] [#F7E0AB]#...#[/] [#F6E3B6].###.[/] [#F6E5C1]#...#[/] [#F6E8CD]#...#[/] [#F5EBD8]#####[/] [#F5EEE4]..#..[/]
+  [#615B53]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#D97706]────────────────────────────────────────────────────────────[/]
+  [bold #FBBF24]                 My Gym Partner's a Monkey                  [/]
+  [#D97706]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: class-of-3000
+description: Andre 3000 teaches music at a school in Atlanta.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#655757'
+  banner_text: '#F9E9E9'
+  ui_accent: '#38BDF8'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9E9E9'
+  input_rule: '#EF4444'
+  response_border: '#38BDF8'
+  status_bar_bg: '#281C1C'
+  status_bar_text: '#F9E9E9'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#655757'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#281C1C'
+  completion_menu_bg: '#150808'
+  completion_menu_current_bg: '#204255'
+  completion_menu_meta_bg: '#120707'
+  completion_menu_meta_current_bg: '#1F3B4B'
+  session_label: '#FDE047'
+  session_border: '#655757'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Class of 3000 Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Class of 3000 '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Class of 3000 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8].####[/] [#3DBEF8]#....[/] [#45C0F7].###.[/] [#50C2F6].####[/] [#5DC5F5].####[/] [#6CC9F4].....[/] [#7CCDF3].###.[/] [#8ED1F1]#####[/] [#A1D5F0].....[/] [#B5DAEE]####.[/] [#CBDEED].###.[/] [#E1E4EB].###.[/] [#F9E9E9].###.[/]
+  [#38BDF8]#....[/] [#3DBEF8]#....[/] [#45C0F7]#...#[/] [#50C2F6]#....[/] [#5DC5F5]#....[/] [#6CC9F4].....[/] [#7CCDF3]#...#[/] [#8ED1F1]#....[/] [#A1D5F0].....[/] [#B5DAEE]....#[/] [#CBDEED]#..##[/] [#E1E4EB]#..##[/] [#F9E9E9]#..##[/]
+  [#38BDF8]#....[/] [#3DBEF8]#....[/] [#45C0F7]#####[/] [#50C2F6].###.[/] [#5DC5F5].###.[/] [#6CC9F4].....[/] [#7CCDF3]#...#[/] [#8ED1F1]####.[/] [#A1D5F0].....[/] [#B5DAEE].###.[/] [#CBDEED]#.#.#[/] [#E1E4EB]#.#.#[/] [#F9E9E9]#.#.#[/]
+  [#38BDF8]#....[/] [#3DBEF8]#....[/] [#45C0F7]#...#[/] [#50C2F6]....#[/] [#5DC5F5]....#[/] [#6CC9F4].....[/] [#7CCDF3]#...#[/] [#8ED1F1]#....[/] [#A1D5F0].....[/] [#B5DAEE]....#[/] [#CBDEED]##..#[/] [#E1E4EB]##..#[/] [#F9E9E9]##..#[/]
+  [#38BDF8].####[/] [#3DBEF8]#####[/] [#45C0F7]#...#[/] [#50C2F6]####.[/] [#5DC5F5]####.[/] [#6CC9F4].....[/] [#7CCDF3].###.[/] [#8ED1F1]#....[/] [#A1D5F0].....[/] [#B5DAEE]####.[/] [#CBDEED].###.[/] [#E1E4EB].###.[/] [#F9E9E9].###.[/]
+  [#655757]─────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#EF4444]────────────────────────────────────────────────────────────[/]
+  [bold #38BDF8]                       Class of 3000                        [/]
+  [#EF4444]────────────────────────────────────────────────────────────[/]

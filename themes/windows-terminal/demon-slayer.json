@@ -1,0 +1,23 @@
+{
+  "name": "Demon Slayer",
+  "background": "#04100A",
+  "foreground": "#E9F5EE",
+  "cursorColor": "#EF4444",
+  "selectionBackground": "#7A2A27",
+  "black": "#020805",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#94A3B8",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#EAF6EF",
+  "brightBlack": "#606C65",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#AFBACA",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E9F5EE"
+}

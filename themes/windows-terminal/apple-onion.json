@@ -1,0 +1,23 @@
+{
+  "name": "Apple & Onion",
+  "background": "#100B04",
+  "foreground": "#F8F0E6",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#867626",
+  "black": "#080602",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#4ADE80",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F8F1E7",
+  "brightBlack": "#6D675E",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#77E6A0",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F8F0E6"
+}

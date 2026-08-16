@@ -1,0 +1,90 @@
+name: supa-strikas
+description: The world's best street football team.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#556256'
+  banner_text: '#E8F6EA'
+  ui_accent: '#38BDF8'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F6EA'
+  input_rule: '#22C55E'
+  response_border: '#38BDF8'
+  status_bar_bg: '#1A251A'
+  status_bar_text: '#E8F6EA'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#556256'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A251A'
+  completion_menu_bg: '#061206'
+  completion_menu_current_bg: '#164953'
+  completion_menu_meta_bg: '#050F05'
+  completion_menu_meta_current_bg: '#14424A'
+  session_label: '#FACC15'
+  session_border: '#556256'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Supa Strikas Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Supa Strikas '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Supa Strikas Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8].####[/] [#3DBFF8]#...#[/] [#46C1F7]####.[/] [#51C5F6].###.[/] [#5FC9F5].....[/] [#6ECEF4].####[/] [#7FD4F2]#####[/] [#91DAF1]####.[/] [#A5E0EF]#####[/] [#BAE7EE]#...#[/] [#D1EEEC].###.[/] [#E8F6EA].####[/]
+  [#38BDF8]#....[/] [#3DBFF8]#...#[/] [#46C1F7]#...#[/] [#51C5F6]#...#[/] [#5FC9F5].....[/] [#6ECEF4]#....[/] [#7FD4F2]..#..[/] [#91DAF1]#...#[/] [#A5E0EF]..#..[/] [#BAE7EE]#..#.[/] [#D1EEEC]#...#[/] [#E8F6EA]#....[/]
+  [#38BDF8].###.[/] [#3DBFF8]#...#[/] [#46C1F7]####.[/] [#51C5F6]#####[/] [#5FC9F5].....[/] [#6ECEF4].###.[/] [#7FD4F2]..#..[/] [#91DAF1]####.[/] [#A5E0EF]..#..[/] [#BAE7EE]###..[/] [#D1EEEC]#####[/] [#E8F6EA].###.[/]
+  [#38BDF8]....#[/] [#3DBFF8]#...#[/] [#46C1F7]#....[/] [#51C5F6]#...#[/] [#5FC9F5].....[/] [#6ECEF4]....#[/] [#7FD4F2]..#..[/] [#91DAF1]#..#.[/] [#A5E0EF]..#..[/] [#BAE7EE]#..#.[/] [#D1EEEC]#...#[/] [#E8F6EA]....#[/]
+  [#38BDF8]####.[/] [#3DBFF8].###.[/] [#46C1F7]#....[/] [#51C5F6]#...#[/] [#5FC9F5].....[/] [#6ECEF4]####.[/] [#7FD4F2]..#..[/] [#91DAF1]#...#[/] [#A5E0EF]#####[/] [#BAE7EE]#...#[/] [#D1EEEC]#...#[/] [#E8F6EA]####.[/]
+  [#556256]───────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#22C55E]────────────────────────────────────────────────────────────[/]
+  [bold #38BDF8]                        Supa Strikas                        [/]
+  [#22C55E]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: flapjack
+description: A boy and a pirate captain searching for Candied Island.
+colors:
+  banner_border: '#2DD4BF'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556462'
+  banner_text: '#E5F6F4'
+  ui_accent: '#FDE047'
+  ui_label: '#F87171'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5F6F4'
+  input_rule: '#2DD4BF'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2927'
+  status_bar_text: '#E5F6F4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556462'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2927'
+  completion_menu_bg: '#071614'
+  completion_menu_current_bg: '#565724'
+  completion_menu_meta_bg: '#061311'
+  completion_menu_meta_current_bg: '#4C4F22'
+  session_label: '#F87171'
+  session_border: '#556462'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: The Marvelous Misadventures of Flapjack Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ The Marvelous Misadventures of Flapjack '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) The Marvelous Misadventures of Flapjack Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FDE048]#...#[/] [#FDE049]#####[/] [#FCE04B].....[/] [#FCE14D]#...#[/] [#FCE14F].###.[/] [#FBE152]####.[/] [#FBE255]#...#[/] [#FBE258]#####[/] [#FAE35B]#....[/] [#FAE35E].###.[/] [#F9E362]#...#[/] [#F9E466].####[/] [#F8E46A].....[/] [#F8E56E]#...#[/] [#F7E572]#####[/] [#F6E676].####[/] [#F6E77B].###.[/] [#F5E77F]####.[/] [#F5E884]#...#[/] [#F4E889]#####[/] [#F3E98E]#...#[/] [#F2EA93]#####[/] [#F2EA98]#...#[/] [#F1EB9E]####.[/] [#F0ECA3]#####[/] [#EFECA9].####[/] [#EFEDAF].....[/] [#EEEEB4].###.[/] [#EDEFBA]#####[/] [#ECEFC0].....[/] [#EBF0C6]#####[/] [#EAF1CD]#....[/] [#EAF2D3].###.[/] [#E9F3D9]####.[/] [#E8F3E0]..###[/] [#E7F4E7].###.[/] [#E6F5ED].####[/] [#E5F6F4]#...#[/]
+  [#FDE047]..#..[/] [#FDE048]#...#[/] [#FDE049]#....[/] [#FCE04B].....[/] [#FCE14D]##.##[/] [#FCE14F]#...#[/] [#FBE152]#...#[/] [#FBE255]#...#[/] [#FBE258]#....[/] [#FAE35B]#....[/] [#FAE35E]#...#[/] [#F9E362]#...#[/] [#F9E466]#....[/] [#F8E46A].....[/] [#F8E56E]##.##[/] [#F7E572]..#..[/] [#F6E676]#....[/] [#F6E77B]#...#[/] [#F5E77F]#...#[/] [#F5E884]#...#[/] [#F4E889]#....[/] [#F3E98E]##..#[/] [#F2EA93]..#..[/] [#F2EA98]#...#[/] [#F1EB9E]#...#[/] [#F0ECA3]#....[/] [#EFECA9]#....[/] [#EFEDAF].....[/] [#EEEEB4]#...#[/] [#EDEFBA]#....[/] [#ECEFC0].....[/] [#EBF0C6]#....[/] [#EAF1CD]#....[/] [#EAF2D3]#...#[/] [#E9F3D9]#...#[/] [#E8F3E0]...#.[/] [#E7F4E7]#...#[/] [#E6F5ED]#....[/] [#E5F6F4]#..#.[/]
+  [#FDE047]..#..[/] [#FDE048]#####[/] [#FDE049]####.[/] [#FCE04B].....[/] [#FCE14D]#.#.#[/] [#FCE14F]#####[/] [#FBE152]####.[/] [#FBE255]#...#[/] [#FBE258]####.[/] [#FAE35B]#....[/] [#FAE35E]#...#[/] [#F9E362]#...#[/] [#F9E466].###.[/] [#F8E46A].....[/] [#F8E56E]#.#.#[/] [#F7E572]..#..[/] [#F6E676].###.[/] [#F6E77B]#####[/] [#F5E77F]#...#[/] [#F5E884]#...#[/] [#F4E889]####.[/] [#F3E98E]#.#.#[/] [#F2EA93]..#..[/] [#F2EA98]#...#[/] [#F1EB9E]####.[/] [#F0ECA3]####.[/] [#EFECA9].###.[/] [#EFEDAF].....[/] [#EEEEB4]#...#[/] [#EDEFBA]####.[/] [#ECEFC0].....[/] [#EBF0C6]####.[/] [#EAF1CD]#....[/] [#EAF2D3]#####[/] [#E9F3D9]####.[/] [#E8F3E0]...#.[/] [#E7F4E7]#####[/] [#E6F5ED]#....[/] [#E5F6F4]###..[/]
+  [#FDE047]..#..[/] [#FDE048]#...#[/] [#FDE049]#....[/] [#FCE04B].....[/] [#FCE14D]#...#[/] [#FCE14F]#...#[/] [#FBE152]#..#.[/] [#FBE255].#.#.[/] [#FBE258]#....[/] [#FAE35B]#....[/] [#FAE35E]#...#[/] [#F9E362]#...#[/] [#F9E466]....#[/] [#F8E46A].....[/] [#F8E56E]#...#[/] [#F7E572]..#..[/] [#F6E676]....#[/] [#F6E77B]#...#[/] [#F5E77F]#...#[/] [#F5E884].#.#.[/] [#F4E889]#....[/] [#F3E98E]#..##[/] [#F2EA93]..#..[/] [#F2EA98]#...#[/] [#F1EB9E]#..#.[/] [#F0ECA3]#....[/] [#EFECA9]....#[/] [#EFEDAF].....[/] [#EEEEB4]#...#[/] [#EDEFBA]#....[/] [#ECEFC0].....[/] [#EBF0C6]#....[/] [#EAF1CD]#....[/] [#EAF2D3]#...#[/] [#E9F3D9]#....[/] [#E8F3E0]#..#.[/] [#E7F4E7]#...#[/] [#E6F5ED]#....[/] [#E5F6F4]#..#.[/]
+  [#FDE047]..#..[/] [#FDE048]#...#[/] [#FDE049]#####[/] [#FCE04B].....[/] [#FCE14D]#...#[/] [#FCE14F]#...#[/] [#FBE152]#...#[/] [#FBE255]..#..[/] [#FBE258]#####[/] [#FAE35B]#####[/] [#FAE35E].###.[/] [#F9E362].###.[/] [#F9E466]####.[/] [#F8E46A].....[/] [#F8E56E]#...#[/] [#F7E572]#####[/] [#F6E676]####.[/] [#F6E77B]#...#[/] [#F5E77F]####.[/] [#F5E884]..#..[/] [#F4E889]#####[/] [#F3E98E]#...#[/] [#F2EA93]..#..[/] [#F2EA98].###.[/] [#F1EB9E]#...#[/] [#F0ECA3]#####[/] [#EFECA9]####.[/] [#EFEDAF].....[/] [#EEEEB4].###.[/] [#EDEFBA]#....[/] [#ECEFC0].....[/] [#EBF0C6]#....[/] [#EAF1CD]#####[/] [#EAF2D3]#...#[/] [#E9F3D9]#....[/] [#E8F3E0].##..[/] [#E7F4E7]#...#[/] [#E6F5ED].####[/] [#E5F6F4]#...#[/]
+  [#556462]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#2DD4BF]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]          The Marvelous Misadventures of Flapjack           [/]
+  [#2DD4BF]────────────────────────────────────────────────────────────[/]

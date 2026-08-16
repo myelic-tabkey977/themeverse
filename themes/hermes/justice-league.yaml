@@ -1,0 +1,90 @@
+name: justice-league
+description: Earth's mightiest heroes united as one team.
+colors:
+  banner_border: '#2563EB'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#555B66'
+  banner_text: '#E5ECF7'
+  ui_accent: '#FDE047'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5ECF7'
+  input_rule: '#2563EB'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B202A'
+  status_bar_text: '#E5ECF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#555B66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B202A'
+  completion_menu_bg: '#070D18'
+  completion_menu_current_bg: '#565127'
+  completion_menu_meta_bg: '#060B14'
+  completion_menu_meta_current_bg: '#4C4825'
+  session_label: '#F59E0B'
+  session_border: '#555B66'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Justice League Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Justice League '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Justice League Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]..###[/] [#FCE04B]#...#[/] [#FCE152].####[/] [#FAE15B]#####[/] [#F9E265]#####[/] [#F7E371].####[/] [#F5E47E]#####[/] [#F4E58D].....[/] [#F1E69C]#....[/] [#EFE7AC]#####[/] [#EDE8BE].###.[/] [#EAE9D0].####[/] [#E8EBE3]#...#[/] [#E5ECF7]#####[/]
+  [#FDE047]...#.[/] [#FCE04B]#...#[/] [#FCE152]#....[/] [#FAE15B]..#..[/] [#F9E265]..#..[/] [#F7E371]#....[/] [#F5E47E]#....[/] [#F4E58D].....[/] [#F1E69C]#....[/] [#EFE7AC]#....[/] [#EDE8BE]#...#[/] [#EAE9D0]#....[/] [#E8EBE3]#...#[/] [#E5ECF7]#....[/]
+  [#FDE047]...#.[/] [#FCE04B]#...#[/] [#FCE152].###.[/] [#FAE15B]..#..[/] [#F9E265]..#..[/] [#F7E371]#....[/] [#F5E47E]####.[/] [#F4E58D].....[/] [#F1E69C]#....[/] [#EFE7AC]####.[/] [#EDE8BE]#####[/] [#EAE9D0]#..##[/] [#E8EBE3]#...#[/] [#E5ECF7]####.[/]
+  [#FDE047]#..#.[/] [#FCE04B]#...#[/] [#FCE152]....#[/] [#FAE15B]..#..[/] [#F9E265]..#..[/] [#F7E371]#....[/] [#F5E47E]#....[/] [#F4E58D].....[/] [#F1E69C]#....[/] [#EFE7AC]#....[/] [#EDE8BE]#...#[/] [#EAE9D0]#...#[/] [#E8EBE3]#...#[/] [#E5ECF7]#....[/]
+  [#FDE047].##..[/] [#FCE04B].###.[/] [#FCE152]####.[/] [#FAE15B]..#..[/] [#F9E265]#####[/] [#F7E371].####[/] [#F5E47E]#####[/] [#F4E58D].....[/] [#F1E69C]#####[/] [#EFE7AC]#####[/] [#EDE8BE]#...#[/] [#EAE9D0].####[/] [#E8EBE3].###.[/] [#E5ECF7]#####[/]
+  [#555B66]───────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#2563EB]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                       Justice League                       [/]
+  [#2563EB]────────────────────────────────────────────────────────────[/]

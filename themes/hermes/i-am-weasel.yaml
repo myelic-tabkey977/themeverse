@@ -1,0 +1,90 @@
+name: i-am-weasel
+description: I.M. Weasel, the brilliant one — and I.R. Baboon, his rival.
+colors:
+  banner_border: '#FACC15'
+  banner_title: '#F87171'
+  banner_accent: '#F87171'
+  banner_dim: '#606155'
+  banner_text: '#F8F4E4'
+  ui_accent: '#F87171'
+  ui_label: '#2DD4BF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8F4E4'
+  input_rule: '#FACC15'
+  response_border: '#F87171'
+  status_bar_bg: '#21251C'
+  status_bar_text: '#F8F4E4'
+  status_bar_strong: '#F87171'
+  status_bar_dim: '#606155'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#21251C'
+  completion_menu_bg: '#0E1208'
+  completion_menu_current_bg: '#59302A'
+  completion_menu_meta_bg: '#0C0F07'
+  completion_menu_meta_current_bg: '#502D25'
+  session_label: '#2DD4BF'
+  session_border: '#606155'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: I Am Weasel Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ I Am Weasel '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) I Am Weasel Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F87171]#####[/] [#F87575].....[/] [#F87D7B].###.[/] [#F88784]#...#[/] [#F8928E].....[/] [#F89F9A]#...#[/] [#F8AEA6]#####[/] [#F8BEB4].###.[/] [#F8CFC3].####[/] [#F8E1D3]#####[/] [#F8F4E4]#....[/]
+  [#F87171]..#..[/] [#F87575].....[/] [#F87D7B]#...#[/] [#F88784]##.##[/] [#F8928E].....[/] [#F89F9A]#...#[/] [#F8AEA6]#....[/] [#F8BEB4]#...#[/] [#F8CFC3]#....[/] [#F8E1D3]#....[/] [#F8F4E4]#....[/]
+  [#F87171]..#..[/] [#F87575].....[/] [#F87D7B]#####[/] [#F88784]#.#.#[/] [#F8928E].....[/] [#F89F9A]#.#.#[/] [#F8AEA6]####.[/] [#F8BEB4]#####[/] [#F8CFC3].###.[/] [#F8E1D3]####.[/] [#F8F4E4]#....[/]
+  [#F87171]..#..[/] [#F87575].....[/] [#F87D7B]#...#[/] [#F88784]#...#[/] [#F8928E].....[/] [#F89F9A]##.##[/] [#F8AEA6]#....[/] [#F8BEB4]#...#[/] [#F8CFC3]....#[/] [#F8E1D3]#....[/] [#F8F4E4]#....[/]
+  [#F87171]#####[/] [#F87575].....[/] [#F87D7B]#...#[/] [#F88784]#...#[/] [#F8928E].....[/] [#F89F9A]#...#[/] [#F8AEA6]#####[/] [#F8BEB4]#...#[/] [#F8CFC3]####.[/] [#F8E1D3]#####[/] [#F8F4E4]#####[/]
+  [#606155]─────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#FACC15]────────────────────────────────────────────────────────────[/]
+  [bold #F87171]                        I Am Weasel                         [/]
+  [#FACC15]────────────────────────────────────────────────────────────[/]

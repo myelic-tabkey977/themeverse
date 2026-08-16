@@ -1,0 +1,23 @@
+{
+  "name": "Batman: The Animated Series",
+  "background": "#05070B",
+  "foreground": "#E6EAF0",
+  "cursorColor": "#94A3B8",
+  "selectionBackground": "#4C5562",
+  "black": "#020406",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FACC15",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E7EBF1",
+  "brightBlack": "#5F6267",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FBD950",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E6EAF0"
+}

@@ -1,0 +1,90 @@
+name: victor-valentino
+description: Two brothers exploring a Mexican folklore town.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5864'
+  banner_text: '#F3EDF8'
+  ui_accent: '#FDE047'
+  ui_label: '#FB923C'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F3EDF8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#221C27'
+  status_bar_text: '#F3EDF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5864'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221C27'
+  completion_menu_bg: '#0F0814'
+  completion_menu_current_bg: '#5B4D24'
+  completion_menu_meta_bg: '#0D0711'
+  completion_menu_meta_current_bg: '#524422'
+  session_label: '#FB923C'
+  session_border: '#5F5864'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Victor and Valentino Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Victor and Valentino '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Victor and Valentino Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE049]#####[/] [#FDE04D].####[/] [#FCE152]#####[/] [#FCE158].###.[/] [#FCE25F]####.[/] [#FBE266].....[/] [#FBE36F].###.[/] [#FAE477]#...#[/] [#FAE481]####.[/] [#F9E58B].....[/] [#F9E695]#...#[/] [#F8E7A0].###.[/] [#F7E7AB]#....[/] [#F7E8B7]#####[/] [#F6E9C3]#...#[/] [#F5EAD0]#####[/] [#F5EBDD]#####[/] [#F4ECEA]#...#[/] [#F3EDF8].###.[/]
+  [#FDE047]#...#[/] [#FDE049]..#..[/] [#FDE04D]#....[/] [#FCE152]..#..[/] [#FCE158]#...#[/] [#FCE25F]#...#[/] [#FBE266].....[/] [#FBE36F]#...#[/] [#FAE477]##..#[/] [#FAE481]#...#[/] [#F9E58B].....[/] [#F9E695]#...#[/] [#F8E7A0]#...#[/] [#F7E7AB]#....[/] [#F7E8B7]#....[/] [#F6E9C3]##..#[/] [#F5EAD0]..#..[/] [#F5EBDD]..#..[/] [#F4ECEA]##..#[/] [#F3EDF8]#...#[/]
+  [#FDE047]#...#[/] [#FDE049]..#..[/] [#FDE04D]#....[/] [#FCE152]..#..[/] [#FCE158]#...#[/] [#FCE25F]####.[/] [#FBE266].....[/] [#FBE36F]#####[/] [#FAE477]#.#.#[/] [#FAE481]#...#[/] [#F9E58B].....[/] [#F9E695]#...#[/] [#F8E7A0]#####[/] [#F7E7AB]#....[/] [#F7E8B7]####.[/] [#F6E9C3]#.#.#[/] [#F5EAD0]..#..[/] [#F5EBDD]..#..[/] [#F4ECEA]#.#.#[/] [#F3EDF8]#...#[/]
+  [#FDE047].#.#.[/] [#FDE049]..#..[/] [#FDE04D]#....[/] [#FCE152]..#..[/] [#FCE158]#...#[/] [#FCE25F]#..#.[/] [#FBE266].....[/] [#FBE36F]#...#[/] [#FAE477]#..##[/] [#FAE481]#...#[/] [#F9E58B].....[/] [#F9E695].#.#.[/] [#F8E7A0]#...#[/] [#F7E7AB]#....[/] [#F7E8B7]#....[/] [#F6E9C3]#..##[/] [#F5EAD0]..#..[/] [#F5EBDD]..#..[/] [#F4ECEA]#..##[/] [#F3EDF8]#...#[/]
+  [#FDE047]..#..[/] [#FDE049]#####[/] [#FDE04D].####[/] [#FCE152]..#..[/] [#FCE158].###.[/] [#FCE25F]#...#[/] [#FBE266].....[/] [#FBE36F]#...#[/] [#FAE477]#...#[/] [#FAE481]####.[/] [#F9E58B].....[/] [#F9E695]..#..[/] [#F8E7A0]#...#[/] [#F7E7AB]#####[/] [#F7E8B7]#####[/] [#F6E9C3]#...#[/] [#F5EAD0]..#..[/] [#F5EBDD]#####[/] [#F4ECEA]#...#[/] [#F3EDF8].###.[/]
+  [#5F5864]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#A855F7]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                    Victor and Valentino                    [/]
+  [#A855F7]────────────────────────────────────────────────────────────[/]

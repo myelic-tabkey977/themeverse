@@ -1,0 +1,90 @@
+name: vinland-saga
+description: From revenge to redemption — the warrior who seeks a peaceful land.
+colors:
+  banner_border: '#64748B'
+  banner_title: '#F8FAFC'
+  banner_accent: '#F8FAFC'
+  banner_dim: '#595B5D'
+  banner_text: '#EBEDF0'
+  ui_accent: '#F8FAFC'
+  ui_label: '#D97706'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EBEDF0'
+  input_rule: '#64748B'
+  response_border: '#F8FAFC'
+  status_bar_bg: '#1E1F21'
+  status_bar_text: '#EBEDF0'
+  status_bar_strong: '#F8FAFC'
+  status_bar_dim: '#595B5D'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E1F21'
+  completion_menu_bg: '#0A0C0E'
+  completion_menu_current_bg: '#56585A'
+  completion_menu_meta_bg: '#080A0C'
+  completion_menu_meta_current_bg: '#4D4F51'
+  session_label: '#D97706'
+  session_border: '#595B5D'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Vinland Saga Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Vinland Saga '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Vinland Saga Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F8FAFC]#...#[/] [#F8FAFC]#####[/] [#F7F9FB]#...#[/] [#F6F8FA]#....[/] [#F5F7F9].###.[/] [#F4F6F8]#...#[/] [#F3F5F7]####.[/] [#F1F3F6].....[/] [#F0F2F5].####[/] [#EEF0F3].###.[/] [#EDEFF2].####[/] [#EBEDF0].###.[/]
+  [#F8FAFC]#...#[/] [#F8FAFC]..#..[/] [#F7F9FB]##..#[/] [#F6F8FA]#....[/] [#F5F7F9]#...#[/] [#F4F6F8]##..#[/] [#F3F5F7]#...#[/] [#F1F3F6].....[/] [#F0F2F5]#....[/] [#EEF0F3]#...#[/] [#EDEFF2]#....[/] [#EBEDF0]#...#[/]
+  [#F8FAFC]#...#[/] [#F8FAFC]..#..[/] [#F7F9FB]#.#.#[/] [#F6F8FA]#....[/] [#F5F7F9]#####[/] [#F4F6F8]#.#.#[/] [#F3F5F7]#...#[/] [#F1F3F6].....[/] [#F0F2F5].###.[/] [#EEF0F3]#####[/] [#EDEFF2]#..##[/] [#EBEDF0]#####[/]
+  [#F8FAFC].#.#.[/] [#F8FAFC]..#..[/] [#F7F9FB]#..##[/] [#F6F8FA]#....[/] [#F5F7F9]#...#[/] [#F4F6F8]#..##[/] [#F3F5F7]#...#[/] [#F1F3F6].....[/] [#F0F2F5]....#[/] [#EEF0F3]#...#[/] [#EDEFF2]#...#[/] [#EBEDF0]#...#[/]
+  [#F8FAFC]..#..[/] [#F8FAFC]#####[/] [#F7F9FB]#...#[/] [#F6F8FA]#####[/] [#F5F7F9]#...#[/] [#F4F6F8]#...#[/] [#F3F5F7]####.[/] [#F1F3F6].....[/] [#F0F2F5]####.[/] [#EEF0F3]#...#[/] [#EDEFF2].####[/] [#EBEDF0]#...#[/]
+  [#595B5D]───────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#64748B]────────────────────────────────────────────────────────────[/]
+  [bold #F8FAFC]                        Vinland Saga                        [/]
+  [#64748B]────────────────────────────────────────────────────────────[/]

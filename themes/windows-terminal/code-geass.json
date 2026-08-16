@@ -1,0 +1,23 @@
+{
+  "name": "Code Geass",
+  "background": "#0C0716",
+  "foreground": "#F2ECFA",
+  "cursorColor": "#FACC15",
+  "selectionBackground": "#836A16",
+  "black": "#06040B",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F8FAFC",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F3EDFA",
+  "brightBlack": "#686371",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FAFBFD",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F2ECFA"
+}

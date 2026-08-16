@@ -1,0 +1,90 @@
+name: courage-the-cowardly-dog
+description: A scaredy-cat dog protecting his owners in Nowhere.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5C5664'
+  banner_text: '#F0E8F8'
+  ui_accent: '#FDE047'
+  ui_label: '#F472B6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F0E8F8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#201C27'
+  status_bar_text: '#F0E8F8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5C5664'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201C27'
+  completion_menu_bg: '#0D0814'
+  completion_menu_current_bg: '#5A4D24'
+  completion_menu_meta_bg: '#0B0711'
+  completion_menu_meta_current_bg: '#504422'
+  session_label: '#F472B6'
+  session_border: '#5C5664'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Courage the Cowardly Dog Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Courage the Cowardly Dog '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Courage the Cowardly Dog Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE049].###.[/] [#FDE04C]#...#[/] [#FCE04F]####.[/] [#FCE154].###.[/] [#FCE159].####[/] [#FBE15F]#####[/] [#FBE165].....[/] [#FAE26B]#####[/] [#FAE272]#...#[/] [#F9E27A]#####[/] [#F9E382].....[/] [#F8E38A].####[/] [#F7E392].###.[/] [#F7E49B]#...#[/] [#F6E4A4].###.[/] [#F5E5AE]####.[/] [#F5E5B7]####.[/] [#F4E6C2]#....[/] [#F3E6CC]#...#[/] [#F2E6D7].....[/] [#F2E7E1]####.[/] [#F1E7ED].###.[/] [#F0E8F8].####[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FDE04C]#...#[/] [#FCE04F]#...#[/] [#FCE154]#...#[/] [#FCE159]#....[/] [#FBE15F]#....[/] [#FBE165].....[/] [#FAE26B]..#..[/] [#FAE272]#...#[/] [#F9E27A]#....[/] [#F9E382].....[/] [#F8E38A]#....[/] [#F7E392]#...#[/] [#F7E49B]#...#[/] [#F6E4A4]#...#[/] [#F5E5AE]#...#[/] [#F5E5B7]#...#[/] [#F4E6C2]#....[/] [#F3E6CC].#.#.[/] [#F2E6D7].....[/] [#F2E7E1]#...#[/] [#F1E7ED]#...#[/] [#F0E8F8]#....[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FDE04C]#...#[/] [#FCE04F]####.[/] [#FCE154]#####[/] [#FCE159]#..##[/] [#FBE15F]####.[/] [#FBE165].....[/] [#FAE26B]..#..[/] [#FAE272]#####[/] [#F9E27A]####.[/] [#F9E382].....[/] [#F8E38A]#....[/] [#F7E392]#...#[/] [#F7E49B]#.#.#[/] [#F6E4A4]#####[/] [#F5E5AE]####.[/] [#F5E5B7]#...#[/] [#F4E6C2]#....[/] [#F3E6CC]..#..[/] [#F2E6D7].....[/] [#F2E7E1]#...#[/] [#F1E7ED]#...#[/] [#F0E8F8]#..##[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FDE04C]#...#[/] [#FCE04F]#..#.[/] [#FCE154]#...#[/] [#FCE159]#...#[/] [#FBE15F]#....[/] [#FBE165].....[/] [#FAE26B]..#..[/] [#FAE272]#...#[/] [#F9E27A]#....[/] [#F9E382].....[/] [#F8E38A]#....[/] [#F7E392]#...#[/] [#F7E49B]##.##[/] [#F6E4A4]#...#[/] [#F5E5AE]#..#.[/] [#F5E5B7]#...#[/] [#F4E6C2]#....[/] [#F3E6CC]..#..[/] [#F2E6D7].....[/] [#F2E7E1]#...#[/] [#F1E7ED]#...#[/] [#F0E8F8]#...#[/]
+  [#FDE047].####[/] [#FDE049].###.[/] [#FDE04C].###.[/] [#FCE04F]#...#[/] [#FCE154]#...#[/] [#FCE159].####[/] [#FBE15F]#####[/] [#FBE165].....[/] [#FAE26B]..#..[/] [#FAE272]#...#[/] [#F9E27A]#####[/] [#F9E382].....[/] [#F8E38A].####[/] [#F7E392].###.[/] [#F7E49B]#...#[/] [#F6E4A4]#...#[/] [#F5E5AE]#...#[/] [#F5E5B7]####.[/] [#F4E6C2]#####[/] [#F3E6CC]..#..[/] [#F2E6D7].....[/] [#F2E7E1]####.[/] [#F1E7ED].###.[/] [#F0E8F8].####[/]
+  [#5C5664]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#A855F7]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                  Courage the Cowardly Dog                  [/]
+  [#A855F7]────────────────────────────────────────────────────────────[/]

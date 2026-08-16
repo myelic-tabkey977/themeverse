@@ -1,0 +1,90 @@
+name: zig-sharko
+description: A hyena's endless attempts to catch a mermaid.
+colors:
+  banner_border: '#22D3EE'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#546163'
+  banner_text: '#E6F5F7'
+  ui_accent: '#FDE047'
+  ui_label: '#FB923C'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6F5F7'
+  input_rule: '#22D3EE'
+  response_border: '#FDE047'
+  status_bar_bg: '#192527'
+  status_bar_text: '#E6F5F7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#546163'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#192527'
+  completion_menu_bg: '#051214'
+  completion_menu_current_bg: '#545424'
+  completion_menu_meta_bg: '#040F11'
+  completion_menu_meta_current_bg: '#4A4C22'
+  session_label: '#FB923C'
+  session_border: '#546163'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Zig & Sharko Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Zig & Sharko '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Zig & Sharko Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FCE14C]#####[/] [#FBE255].####[/] [#FAE360].....[/] [#F8E56E].###.[/] [#F6E67D].....[/] [#F4E88E].####[/] [#F1EBA0]#...#[/] [#EFEDB4].###.[/] [#ECF0C9]####.[/] [#E9F2E0]#...#[/] [#E6F5F7].###.[/]
+  [#FDE047]...#.[/] [#FCE14C]..#..[/] [#FBE255]#....[/] [#FAE360].....[/] [#F8E56E]#...#[/] [#F6E67D].....[/] [#F4E88E]#....[/] [#F1EBA0]#...#[/] [#EFEDB4]#...#[/] [#ECF0C9]#...#[/] [#E9F2E0]#..#.[/] [#E6F5F7]#...#[/]
+  [#FDE047]..#..[/] [#FCE14C]..#..[/] [#FBE255]#..##[/] [#FAE360].....[/] [#F8E56E]..#..[/] [#F6E67D].....[/] [#F4E88E].###.[/] [#F1EBA0]#####[/] [#EFEDB4]#####[/] [#ECF0C9]####.[/] [#E9F2E0]###..[/] [#E6F5F7]#...#[/]
+  [#FDE047].#...[/] [#FCE14C]..#..[/] [#FBE255]#...#[/] [#FAE360].....[/] [#F8E56E].#.#.[/] [#F6E67D].....[/] [#F4E88E]....#[/] [#F1EBA0]#...#[/] [#EFEDB4]#...#[/] [#ECF0C9]#..#.[/] [#E9F2E0]#..#.[/] [#E6F5F7]#...#[/]
+  [#FDE047]#####[/] [#FCE14C]#####[/] [#FBE255].####[/] [#FAE360].....[/] [#F8E56E]##..#[/] [#F6E67D].....[/] [#F4E88E]####.[/] [#F1EBA0]#...#[/] [#EFEDB4]#...#[/] [#ECF0C9]#...#[/] [#E9F2E0]#...#[/] [#E6F5F7].###.[/]
+  [#546163]───────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#22D3EE]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                        Zig & Sharko                        [/]
+  [#22D3EE]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,23 @@
+{
+  "name": "Space Dandy",
+  "background": "#0F0904",
+  "foreground": "#F7EFE5",
+  "cursorColor": "#22D3EE",
+  "selectionBackground": "#186E79",
+  "black": "#080402",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#A855F7",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F7F0E6",
+  "brightBlack": "#6C655E",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#BE80F9",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F7EFE5"
+}

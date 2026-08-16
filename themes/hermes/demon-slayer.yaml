@@ -1,0 +1,90 @@
+name: demon-slayer
+description: The kind-hearted demon slayer fighting to save his sister.
+colors:
+  banner_border: '#15803D'
+  banner_title: '#F36E6E'
+  banner_accent: '#F36E6E'
+  banner_dim: '#54605A'
+  banner_text: '#E9F5EE'
+  ui_accent: '#EF4444'
+  ui_label: '#94A3B8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F5EE'
+  input_rule: '#15803D'
+  response_border: '#EF4444'
+  status_bar_bg: '#18231E'
+  status_bar_text: '#E9F5EE'
+  status_bar_strong: '#EF4444'
+  status_bar_dim: '#54605A'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#18231E'
+  completion_menu_bg: '#04100A'
+  completion_menu_current_bg: '#4F211D'
+  completion_menu_meta_bg: '#030E08'
+  completion_menu_meta_current_bg: '#461F1A'
+  session_label: '#94A3B8'
+  session_border: '#54605A'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Demon Slayer Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Demon Slayer '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Demon Slayer Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#EF4444]####.[/] [#EF4949]#####[/] [#EF5251]#...#[/] [#EE5D5C].###.[/] [#EE6B69]#...#[/] [#ED7A78].....[/] [#ED8B88].####[/] [#EC9E9A]#....[/] [#EBB2AD].###.[/] [#EBC7C2]#...#[/] [#EADDD7]#####[/] [#E9F5EE]####.[/]
+  [#EF4444]#...#[/] [#EF4949]#....[/] [#EF5251]##.##[/] [#EE5D5C]#...#[/] [#EE6B69]##..#[/] [#ED7A78].....[/] [#ED8B88]#....[/] [#EC9E9A]#....[/] [#EBB2AD]#...#[/] [#EBC7C2].#.#.[/] [#EADDD7]#....[/] [#E9F5EE]#...#[/]
+  [#EF4444]#...#[/] [#EF4949]####.[/] [#EF5251]#.#.#[/] [#EE5D5C]#...#[/] [#EE6B69]#.#.#[/] [#ED7A78].....[/] [#ED8B88].###.[/] [#EC9E9A]#....[/] [#EBB2AD]#####[/] [#EBC7C2]..#..[/] [#EADDD7]####.[/] [#E9F5EE]####.[/]
+  [#EF4444]#...#[/] [#EF4949]#....[/] [#EF5251]#...#[/] [#EE5D5C]#...#[/] [#EE6B69]#..##[/] [#ED7A78].....[/] [#ED8B88]....#[/] [#EC9E9A]#....[/] [#EBB2AD]#...#[/] [#EBC7C2]..#..[/] [#EADDD7]#....[/] [#E9F5EE]#..#.[/]
+  [#EF4444]####.[/] [#EF4949]#####[/] [#EF5251]#...#[/] [#EE5D5C].###.[/] [#EE6B69]#...#[/] [#ED7A78].....[/] [#ED8B88]####.[/] [#EC9E9A]#####[/] [#EBB2AD]#...#[/] [#EBC7C2]..#..[/] [#EADDD7]#####[/] [#E9F5EE]#...#[/]
+  [#54605A]───────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#15803D]────────────────────────────────────────────────────────────[/]
+  [bold #EF4444]                        Demon Slayer                        [/]
+  [#15803D]────────────────────────────────────────────────────────────[/]

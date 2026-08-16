@@ -1,0 +1,90 @@
+name: beware-the-batman
+description: The 2013 Batman series focused on Detective Gordon and Katana.
+colors:
+  banner_border: '#475569'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#57585B'
+  banner_text: '#E9EBEE'
+  ui_accent: '#FACC15'
+  ui_label: '#DC2626'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9EBEE'
+  input_rule: '#475569'
+  response_border: '#FACC15'
+  status_bar_bg: '#1C1D1F'
+  status_bar_text: '#E9EBEE'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#57585B'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1C1D1F'
+  completion_menu_bg: '#08090C'
+  completion_menu_current_bg: '#55470F'
+  completion_menu_meta_bg: '#07080A'
+  completion_menu_meta_current_bg: '#4C400F'
+  session_label: '#DC2626'
+  session_border: '#57585B'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Beware the Batman Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Beware the Batman '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Beware the Batman Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]####.[/] [#FACC18]#####[/] [#F9CD1F]#...#[/] [#F9CF27].###.[/] [#F8D030]####.[/] [#F7D13B]#####[/] [#F6D347].....[/] [#F5D554]#####[/] [#F4D762]#...#[/] [#F3D971]#####[/] [#F2DB80].....[/] [#F0DE91]####.[/] [#EFE0A2].###.[/] [#EEE3B4]#####[/] [#ECE5C7]#...#[/] [#EBE8DA].###.[/] [#E9EBEE]#...#[/]
+  [#FACC15]#...#[/] [#FACC18]#....[/] [#F9CD1F]#...#[/] [#F9CF27]#...#[/] [#F8D030]#...#[/] [#F7D13B]#....[/] [#F6D347].....[/] [#F5D554]..#..[/] [#F4D762]#...#[/] [#F3D971]#....[/] [#F2DB80].....[/] [#F0DE91]#...#[/] [#EFE0A2]#...#[/] [#EEE3B4]..#..[/] [#ECE5C7]##.##[/] [#EBE8DA]#...#[/] [#E9EBEE]##..#[/]
+  [#FACC15]####.[/] [#FACC18]####.[/] [#F9CD1F]#.#.#[/] [#F9CF27]#####[/] [#F8D030]####.[/] [#F7D13B]####.[/] [#F6D347].....[/] [#F5D554]..#..[/] [#F4D762]#####[/] [#F3D971]####.[/] [#F2DB80].....[/] [#F0DE91]####.[/] [#EFE0A2]#####[/] [#EEE3B4]..#..[/] [#ECE5C7]#.#.#[/] [#EBE8DA]#####[/] [#E9EBEE]#.#.#[/]
+  [#FACC15]#...#[/] [#FACC18]#....[/] [#F9CD1F]##.##[/] [#F9CF27]#...#[/] [#F8D030]#..#.[/] [#F7D13B]#....[/] [#F6D347].....[/] [#F5D554]..#..[/] [#F4D762]#...#[/] [#F3D971]#....[/] [#F2DB80].....[/] [#F0DE91]#...#[/] [#EFE0A2]#...#[/] [#EEE3B4]..#..[/] [#ECE5C7]#...#[/] [#EBE8DA]#...#[/] [#E9EBEE]#..##[/]
+  [#FACC15]####.[/] [#FACC18]#####[/] [#F9CD1F]#...#[/] [#F9CF27]#...#[/] [#F8D030]#...#[/] [#F7D13B]#####[/] [#F6D347].....[/] [#F5D554]..#..[/] [#F4D762]#...#[/] [#F3D971]#####[/] [#F2DB80].....[/] [#F0DE91]####.[/] [#EFE0A2]#...#[/] [#EEE3B4]..#..[/] [#ECE5C7]#...#[/] [#EBE8DA]#...#[/] [#E9EBEE]#...#[/]
+  [#57585B]─────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#475569]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]                     Beware the Batman                      [/]
+  [#475569]────────────────────────────────────────────────────────────[/]

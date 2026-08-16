@@ -1,0 +1,23 @@
+{
+  "name": "Yu Yu Hakusho",
+  "background": "#070E18",
+  "foreground": "#E6EDF7",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#827730",
+  "black": "#04070C",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#4ADE80",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E7EEF7",
+  "brightBlack": "#606771",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#77E6A0",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E6EDF7"
+}

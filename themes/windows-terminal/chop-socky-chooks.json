@@ -1,0 +1,23 @@
+{
+  "name": "Chop Socky Chooks",
+  "background": "#120606",
+  "foreground": "#F9E9E9",
+  "cursorColor": "#FACC15",
+  "selectionBackground": "#86690E",
+  "black": "#090303",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F8FAFC",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F9EAEA",
+  "brightBlack": "#6E6161",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FAFBFD",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F9E9E9"
+}

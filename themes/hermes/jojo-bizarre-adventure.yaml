@@ -1,0 +1,90 @@
+name: jojo-bizarre-adventure
+description: Yare yare daze — the Stand user with a killer pose.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#22D3EE'
+  banner_accent: '#22D3EE'
+  banner_dim: '#5D5764'
+  banner_text: '#F2ECF8'
+  ui_accent: '#22D3EE'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F2ECF8'
+  input_rule: '#A855F7'
+  response_border: '#22D3EE'
+  status_bar_bg: '#201B27'
+  status_bar_text: '#F2ECF8'
+  status_bar_strong: '#22D3EE'
+  status_bar_dim: '#5D5764'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201B27'
+  completion_menu_bg: '#0D0714'
+  completion_menu_current_bg: '#14485A'
+  completion_menu_meta_bg: '#0B0611'
+  completion_menu_meta_current_bg: '#134051'
+  session_label: '#FACC15'
+  session_border: '#5D5764'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: JoJo's Bizarre Adventure Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ JoJo''s Bizarre Adventure '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) JoJo's Bizarre Adventure Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#22D3EE]..###[/] [#24D3EE].###.[/] [#27D4EE]..###[/] [#2CD4EE].###.[/] [#31D5EF]..#..[/] [#37D6EF].####[/] [#3ED6EF].....[/] [#45D7F0]####.[/] [#4DD8F0]#####[/] [#55D9F0]#####[/] [#5EDAF1].###.[/] [#67DBF1]####.[/] [#70DCF2]####.[/] [#7ADEF2]#####[/] [#85DFF3].....[/] [#90E0F3].###.[/] [#9BE2F4]####.[/] [#A6E3F4]#...#[/] [#B2E4F5]#####[/] [#BEE6F6]#...#[/] [#CBE7F6]#####[/] [#D7E9F7]#...#[/] [#E5EAF7]####.[/] [#F2ECF8]#####[/]
+  [#22D3EE]...#.[/] [#24D3EE]#...#[/] [#27D4EE]...#.[/] [#2CD4EE]#...#[/] [#31D5EF]..#..[/] [#37D6EF]#....[/] [#3ED6EF].....[/] [#45D7F0]#...#[/] [#4DD8F0]..#..[/] [#55D9F0]...#.[/] [#5EDAF1]#...#[/] [#67DBF1]#...#[/] [#70DCF2]#...#[/] [#7ADEF2]#....[/] [#85DFF3].....[/] [#90E0F3]#...#[/] [#9BE2F4]#...#[/] [#A6E3F4]#...#[/] [#B2E4F5]#....[/] [#BEE6F6]##..#[/] [#CBE7F6]..#..[/] [#D7E9F7]#...#[/] [#E5EAF7]#...#[/] [#F2ECF8]#....[/]
+  [#22D3EE]...#.[/] [#24D3EE]#...#[/] [#27D4EE]...#.[/] [#2CD4EE]#...#[/] [#31D5EF].....[/] [#37D6EF].###.[/] [#3ED6EF].....[/] [#45D7F0]####.[/] [#4DD8F0]..#..[/] [#55D9F0]..#..[/] [#5EDAF1]#####[/] [#67DBF1]####.[/] [#70DCF2]####.[/] [#7ADEF2]####.[/] [#85DFF3].....[/] [#90E0F3]#####[/] [#9BE2F4]#...#[/] [#A6E3F4]#...#[/] [#B2E4F5]####.[/] [#BEE6F6]#.#.#[/] [#CBE7F6]..#..[/] [#D7E9F7]#...#[/] [#E5EAF7]####.[/] [#F2ECF8]####.[/]
+  [#22D3EE]#..#.[/] [#24D3EE]#...#[/] [#27D4EE]#..#.[/] [#2CD4EE]#...#[/] [#31D5EF].....[/] [#37D6EF]....#[/] [#3ED6EF].....[/] [#45D7F0]#...#[/] [#4DD8F0]..#..[/] [#55D9F0].#...[/] [#5EDAF1]#...#[/] [#67DBF1]#..#.[/] [#70DCF2]#..#.[/] [#7ADEF2]#....[/] [#85DFF3].....[/] [#90E0F3]#...#[/] [#9BE2F4]#...#[/] [#A6E3F4].#.#.[/] [#B2E4F5]#....[/] [#BEE6F6]#..##[/] [#CBE7F6]..#..[/] [#D7E9F7]#...#[/] [#E5EAF7]#..#.[/] [#F2ECF8]#....[/]
+  [#22D3EE].##..[/] [#24D3EE].###.[/] [#27D4EE].##..[/] [#2CD4EE].###.[/] [#31D5EF].....[/] [#37D6EF]####.[/] [#3ED6EF].....[/] [#45D7F0]####.[/] [#4DD8F0]#####[/] [#55D9F0]#####[/] [#5EDAF1]#...#[/] [#67DBF1]#...#[/] [#70DCF2]#...#[/] [#7ADEF2]#####[/] [#85DFF3].....[/] [#90E0F3]#...#[/] [#9BE2F4]####.[/] [#A6E3F4]..#..[/] [#B2E4F5]#####[/] [#BEE6F6]#...#[/] [#CBE7F6]..#..[/] [#D7E9F7].###.[/] [#E5EAF7]#...#[/] [#F2ECF8]#####[/]
+  [#5D5764]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#A855F7]────────────────────────────────────────────────────────────[/]
+  [bold #22D3EE]                  JoJo's Bizarre Adventure                  [/]
+  [#A855F7]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,23 @@
+{
+  "name": "Cow and Chicken",
+  "background": "#140808",
+  "foreground": "#F8E9E9",
+  "cursorColor": "#F97316",
+  "selectionBackground": "#863E0F",
+  "black": "#0A0404",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FDE047",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F8EAEA",
+  "brightBlack": "#6F6262",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FEE875",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F8E9E9"
+}

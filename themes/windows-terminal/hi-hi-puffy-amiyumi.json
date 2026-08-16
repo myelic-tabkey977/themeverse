@@ -1,0 +1,23 @@
+{
+  "name": "Hi Hi Puffy AmiYumi",
+  "background": "#160A12",
+  "foreground": "#FBE9F2",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#8A752C",
+  "black": "#0B0509",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#38BDF8",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#FBEAF3",
+  "brightBlack": "#72636C",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#6ACEFA",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#FBE9F2"
+}

@@ -1,0 +1,90 @@
+name: whats-new-scooby-doo
+description: The 2000s Mystery Inc. — same gang, new mysteries.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556256'
+  banner_text: '#E8F6EA'
+  ui_accent: '#FDE047'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F6EA'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A251A'
+  status_bar_text: '#E8F6EA'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556256'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A251A'
+  completion_menu_bg: '#061206'
+  completion_menu_current_bg: '#55541B'
+  completion_menu_meta_bg: '#050F05'
+  completion_menu_meta_current_bg: '#4B4C18'
+  session_label: '#F59E0B'
+  session_border: '#556256'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: What's New, Scooby-Doo? Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ What''s New, Scooby-Doo? '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) What's New, Scooby-Doo? Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FCE14B].###.[/] [#FCE14F]#####[/] [#FBE254]..#..[/] [#FBE259].####[/] [#FAE35E].....[/] [#F9E464]#...#[/] [#F8E56B]#####[/] [#F8E672]#...#[/] [#F7E779].....[/] [#F6E881].....[/] [#F5E989].####[/] [#F3EA91].####[/] [#F2EB9A].###.[/] [#F1ECA3].###.[/] [#F0EEAC]####.[/] [#EFEFB6]#...#[/] [#EDF0C0].....[/] [#ECF2CA]####.[/] [#EBF3D4].###.[/] [#E9F5DF].###.[/] [#E8F6EA].###.[/]
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FCE14B]#...#[/] [#FCE14F]..#..[/] [#FBE254]..#..[/] [#FBE259]#....[/] [#FAE35E].....[/] [#F9E464]##..#[/] [#F8E56B]#....[/] [#F8E672]#...#[/] [#F7E779].....[/] [#F6E881].....[/] [#F5E989]#....[/] [#F3EA91]#....[/] [#F2EB9A]#...#[/] [#F1ECA3]#...#[/] [#F0EEAC]#...#[/] [#EFEFB6].#.#.[/] [#EDF0C0].....[/] [#ECF2CA]#...#[/] [#EBF3D4]#...#[/] [#E9F5DF]#...#[/] [#E8F6EA]....#[/]
+  [#FDE047]#.#.#[/] [#FDE049]#####[/] [#FCE14B]#####[/] [#FCE14F]..#..[/] [#FBE254].....[/] [#FBE259].###.[/] [#FAE35E].....[/] [#F9E464]#.#.#[/] [#F8E56B]####.[/] [#F8E672]#.#.#[/] [#F7E779].....[/] [#F6E881].....[/] [#F5E989].###.[/] [#F3EA91]#....[/] [#F2EB9A]#...#[/] [#F1ECA3]#...#[/] [#F0EEAC]####.[/] [#EFEFB6]..#..[/] [#EDF0C0]#####[/] [#ECF2CA]#...#[/] [#EBF3D4]#...#[/] [#E9F5DF]#...#[/] [#E8F6EA]..##.[/]
+  [#FDE047]##.##[/] [#FDE049]#...#[/] [#FCE14B]#...#[/] [#FCE14F]..#..[/] [#FBE254].....[/] [#FBE259]....#[/] [#FAE35E].....[/] [#F9E464]#..##[/] [#F8E56B]#....[/] [#F8E672]##.##[/] [#F7E779].....[/] [#F6E881].....[/] [#F5E989]....#[/] [#F3EA91]#....[/] [#F2EB9A]#...#[/] [#F1ECA3]#...#[/] [#F0EEAC]#...#[/] [#EFEFB6]..#..[/] [#EDF0C0].....[/] [#ECF2CA]#...#[/] [#EBF3D4]#...#[/] [#E9F5DF]#...#[/] [#E8F6EA].....[/]
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FCE14B]#...#[/] [#FCE14F]..#..[/] [#FBE254].....[/] [#FBE259]####.[/] [#FAE35E].....[/] [#F9E464]#...#[/] [#F8E56B]#####[/] [#F8E672]#...#[/] [#F7E779].....[/] [#F6E881].....[/] [#F5E989]####.[/] [#F3EA91].####[/] [#F2EB9A].###.[/] [#F1ECA3].###.[/] [#F0EEAC]####.[/] [#EFEFB6]..#..[/] [#EDF0C0].....[/] [#ECF2CA]####.[/] [#EBF3D4].###.[/] [#E9F5DF].###.[/] [#E8F6EA]..#..[/]
+  [#556256]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#22C55E]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                  What's New, Scooby-Doo?                   [/]
+  [#22C55E]────────────────────────────────────────────────────────────[/]

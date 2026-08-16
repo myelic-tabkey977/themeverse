@@ -1,0 +1,90 @@
+name: stoked
+description: Six teens working a summer at a surf resort.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625B54'
+  banner_text: '#F7EEE4'
+  ui_accent: '#FDE047'
+  ui_label: '#2DD4BF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EEE4'
+  input_rule: '#FB923C'
+  response_border: '#FDE047'
+  status_bar_bg: '#251F1A'
+  status_bar_text: '#F7EEE4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625B54'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251F1A'
+  completion_menu_bg: '#120C06'
+  completion_menu_current_bg: '#5D501B'
+  completion_menu_meta_bg: '#0F0A05'
+  completion_menu_meta_current_bg: '#544718'
+  session_label: '#2DD4BF'
+  session_border: '#625B54'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Stoked Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Stoked '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Stoked Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FCE155]#####[/] [#FBE46F].###.[/] [#FAE790]#...#[/] [#F9EAB7]#####[/] [#F7EEE4]####.[/]
+  [#FDE047]#....[/] [#FCE155]..#..[/] [#FBE46F]#...#[/] [#FAE790]#..#.[/] [#F9EAB7]#....[/] [#F7EEE4]#...#[/]
+  [#FDE047].###.[/] [#FCE155]..#..[/] [#FBE46F]#...#[/] [#FAE790]###..[/] [#F9EAB7]####.[/] [#F7EEE4]#...#[/]
+  [#FDE047]....#[/] [#FCE155]..#..[/] [#FBE46F]#...#[/] [#FAE790]#..#.[/] [#F9EAB7]#....[/] [#F7EEE4]#...#[/]
+  [#FDE047]####.[/] [#FCE155]..#..[/] [#FBE46F].###.[/] [#FAE790]#...#[/] [#F9EAB7]#####[/] [#F7EEE4]####.[/]
+  [#625B54]───────────────────────────────────[/]
+banner_hero: |-
+  [#FB923C]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                           Stoked                           [/]
+  [#FB923C]────────────────────────────────────────────────────────────[/]

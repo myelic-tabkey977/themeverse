@@ -1,0 +1,90 @@
+name: my-hero-academia
+description: The quirkless kid who became the symbol of hope.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#54625A'
+  banner_text: '#E8F6ED'
+  ui_accent: '#FDE047'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F6ED'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#19251F'
+  status_bar_text: '#E8F6ED'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#54625A'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#19251F'
+  completion_menu_bg: '#05120B'
+  completion_menu_current_bg: '#54541E'
+  completion_menu_meta_bg: '#040F09'
+  completion_menu_meta_current_bg: '#4A4C1C'
+  session_label: '#EF4444'
+  session_border: '#54625A'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: My Hero Academia Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ My Hero Academia '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) My Hero Academia Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE04A]#...#[/] [#FCE14F].....[/] [#FBE256]#...#[/] [#FAE35E]#####[/] [#F9E467]####.[/] [#F8E671].###.[/] [#F6E77C].....[/] [#F5E988].###.[/] [#F3EA94].####[/] [#F2ECA1].###.[/] [#F0EEAF]####.[/] [#EEF0BE]#####[/] [#ECF2CD]#...#[/] [#EAF4DD]#####[/] [#E8F6ED].###.[/]
+  [#FDE047]##.##[/] [#FDE04A].#.#.[/] [#FCE14F].....[/] [#FBE256]#...#[/] [#FAE35E]#....[/] [#F9E467]#...#[/] [#F8E671]#...#[/] [#F6E77C].....[/] [#F5E988]#...#[/] [#F3EA94]#....[/] [#F2ECA1]#...#[/] [#F0EEAF]#...#[/] [#EEF0BE]#....[/] [#ECF2CD]##.##[/] [#EAF4DD]..#..[/] [#E8F6ED]#...#[/]
+  [#FDE047]#.#.#[/] [#FDE04A]..#..[/] [#FCE14F].....[/] [#FBE256]#####[/] [#FAE35E]####.[/] [#F9E467]####.[/] [#F8E671]#...#[/] [#F6E77C].....[/] [#F5E988]#####[/] [#F3EA94]#....[/] [#F2ECA1]#####[/] [#F0EEAF]#...#[/] [#EEF0BE]####.[/] [#ECF2CD]#.#.#[/] [#EAF4DD]..#..[/] [#E8F6ED]#####[/]
+  [#FDE047]#...#[/] [#FDE04A]..#..[/] [#FCE14F].....[/] [#FBE256]#...#[/] [#FAE35E]#....[/] [#F9E467]#..#.[/] [#F8E671]#...#[/] [#F6E77C].....[/] [#F5E988]#...#[/] [#F3EA94]#....[/] [#F2ECA1]#...#[/] [#F0EEAF]#...#[/] [#EEF0BE]#....[/] [#ECF2CD]#...#[/] [#EAF4DD]..#..[/] [#E8F6ED]#...#[/]
+  [#FDE047]#...#[/] [#FDE04A]..#..[/] [#FCE14F].....[/] [#FBE256]#...#[/] [#FAE35E]#####[/] [#F9E467]#...#[/] [#F8E671].###.[/] [#F6E77C].....[/] [#F5E988]#...#[/] [#F3EA94].####[/] [#F2ECA1]#...#[/] [#F0EEAF]####.[/] [#EEF0BE]#####[/] [#ECF2CD]#...#[/] [#EAF4DD]#####[/] [#E8F6ED]#...#[/]
+  [#54625A]───────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#22C55E]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                      My Hero Academia                      [/]
+  [#22C55E]────────────────────────────────────────────────────────────[/]

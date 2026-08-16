@@ -1,0 +1,90 @@
+name: dragon-ball-super
+description: Gods of Destruction, tournaments and Ultra Instinct.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#5F5455'
+  banner_text: '#F7E9E9'
+  ui_accent: '#A3E635'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#DC2626'
+  response_border: '#A3E635'
+  status_bar_bg: '#20181A'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#5F5455'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#20181A'
+  completion_menu_bg: '#0D0406'
+  completion_menu_current_bg: '#3D4C15'
+  completion_menu_meta_bg: '#0B0305'
+  completion_menu_meta_current_bg: '#374313'
+  session_label: '#38BDF8'
+  session_border: '#5F5455'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Dragon Ball Super Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Dragon Ball Super '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Dragon Ball Super Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635]####.[/] [#A4E638]####.[/] [#A7E63D].###.[/] [#AAE644].####[/] [#AEE64C].###.[/] [#B2E754]#...#[/] [#B6E75E].....[/] [#BBE769]####.[/] [#C1E775].###.[/] [#C6E781]#....[/] [#CDE78E]#....[/] [#D3E89C].....[/] [#DAE8AA].####[/] [#E1E8B9]#...#[/] [#E8E8C8]####.[/] [#EFE9D8]#####[/] [#F7E9E9]####.[/]
+  [#A3E635]#...#[/] [#A4E638]#...#[/] [#A7E63D]#...#[/] [#AAE644]#....[/] [#AEE64C]#...#[/] [#B2E754]##..#[/] [#B6E75E].....[/] [#BBE769]#...#[/] [#C1E775]#...#[/] [#C6E781]#....[/] [#CDE78E]#....[/] [#D3E89C].....[/] [#DAE8AA]#....[/] [#E1E8B9]#...#[/] [#E8E8C8]#...#[/] [#EFE9D8]#....[/] [#F7E9E9]#...#[/]
+  [#A3E635]#...#[/] [#A4E638]####.[/] [#A7E63D]#####[/] [#AAE644]#..##[/] [#AEE64C]#...#[/] [#B2E754]#.#.#[/] [#B6E75E].....[/] [#BBE769]####.[/] [#C1E775]#####[/] [#C6E781]#....[/] [#CDE78E]#....[/] [#D3E89C].....[/] [#DAE8AA].###.[/] [#E1E8B9]#...#[/] [#E8E8C8]####.[/] [#EFE9D8]####.[/] [#F7E9E9]####.[/]
+  [#A3E635]#...#[/] [#A4E638]#..#.[/] [#A7E63D]#...#[/] [#AAE644]#...#[/] [#AEE64C]#...#[/] [#B2E754]#..##[/] [#B6E75E].....[/] [#BBE769]#...#[/] [#C1E775]#...#[/] [#C6E781]#....[/] [#CDE78E]#....[/] [#D3E89C].....[/] [#DAE8AA]....#[/] [#E1E8B9]#...#[/] [#E8E8C8]#....[/] [#EFE9D8]#....[/] [#F7E9E9]#..#.[/]
+  [#A3E635]####.[/] [#A4E638]#...#[/] [#A7E63D]#...#[/] [#AAE644].####[/] [#AEE64C].###.[/] [#B2E754]#...#[/] [#B6E75E].....[/] [#BBE769]####.[/] [#C1E775]#...#[/] [#C6E781]#####[/] [#CDE78E]#####[/] [#D3E89C].....[/] [#DAE8AA]####.[/] [#E1E8B9].###.[/] [#E8E8C8]#....[/] [#EFE9D8]#####[/] [#F7E9E9]#...#[/]
+  [#5F5455]─────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #A3E635]                     Dragon Ball Super                      [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

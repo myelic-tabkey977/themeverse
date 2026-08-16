@@ -1,0 +1,90 @@
+name: ben-10-omniverse
+description: New Omnitrix, new universe, same hero time.
+colors:
+  banner_border: '#22D3EE'
+  banner_title: '#F97316'
+  banner_accent: '#F97316'
+  banner_dim: '#545D61'
+  banner_text: '#E6F4F8'
+  ui_accent: '#F97316'
+  ui_label: '#FFFFFF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6F4F8'
+  input_rule: '#22D3EE'
+  response_border: '#F97316'
+  status_bar_bg: '#1A1F22'
+  status_bar_text: '#E6F4F8'
+  status_bar_strong: '#F97316'
+  status_bar_dim: '#545D61'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F22'
+  completion_menu_bg: '#060B0F'
+  completion_menu_current_bg: '#542C11'
+  completion_menu_meta_bg: '#05090D'
+  completion_menu_meta_current_bg: '#4A2811'
+  session_label: '#FFFFFF'
+  session_border: '#545D61'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Ben 10: Omniverse Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Ben 10: Omniverse '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Ben 10: Omniverse Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F97316]####.[/] [#F9751A]#####[/] [#F87920]#...#[/] [#F77D28].....[/] [#F78332]..#..[/] [#F68A3D].###.[/] [#F5914A].....[/] [#F49857].....[/] [#F2A166].###.[/] [#F1A975]#...#[/] [#F0B386]#...#[/] [#EEBD97]#####[/] [#EDC7A9]#...#[/] [#EBD1BC]#####[/] [#E9DDCF]####.[/] [#E8E8E3].####[/] [#E6F4F8]#####[/]
+  [#F97316]#...#[/] [#F9751A]#....[/] [#F87920]##..#[/] [#F77D28].....[/] [#F78332].##..[/] [#F68A3D]#..##[/] [#F5914A].....[/] [#F49857].....[/] [#F2A166]#...#[/] [#F1A975]##.##[/] [#F0B386]##..#[/] [#EEBD97]..#..[/] [#EDC7A9]#...#[/] [#EBD1BC]#....[/] [#E9DDCF]#...#[/] [#E8E8E3]#....[/] [#E6F4F8]#....[/]
+  [#F97316]####.[/] [#F9751A]####.[/] [#F87920]#.#.#[/] [#F77D28].....[/] [#F78332]..#..[/] [#F68A3D]#.#.#[/] [#F5914A].....[/] [#F49857].....[/] [#F2A166]#...#[/] [#F1A975]#.#.#[/] [#F0B386]#.#.#[/] [#EEBD97]..#..[/] [#EDC7A9]#...#[/] [#EBD1BC]####.[/] [#E9DDCF]####.[/] [#E8E8E3].###.[/] [#E6F4F8]####.[/]
+  [#F97316]#...#[/] [#F9751A]#....[/] [#F87920]#..##[/] [#F77D28].....[/] [#F78332]..#..[/] [#F68A3D]##..#[/] [#F5914A].....[/] [#F49857].....[/] [#F2A166]#...#[/] [#F1A975]#...#[/] [#F0B386]#..##[/] [#EEBD97]..#..[/] [#EDC7A9].#.#.[/] [#EBD1BC]#....[/] [#E9DDCF]#..#.[/] [#E8E8E3]....#[/] [#E6F4F8]#....[/]
+  [#F97316]####.[/] [#F9751A]#####[/] [#F87920]#...#[/] [#F77D28].....[/] [#F78332]#####[/] [#F68A3D].###.[/] [#F5914A].....[/] [#F49857].....[/] [#F2A166].###.[/] [#F1A975]#...#[/] [#F0B386]#...#[/] [#EEBD97]#####[/] [#EDC7A9]..#..[/] [#EBD1BC]#####[/] [#E9DDCF]#...#[/] [#E8E8E3]####.[/] [#E6F4F8]#####[/]
+  [#545D61]─────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#22D3EE]────────────────────────────────────────────────────────────[/]
+  [bold #F97316]                     Ben 10: Omniverse                      [/]
+  [#22D3EE]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: sailor-moon
+description: The crybaby guardian fighting evil by moonlight.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#635962'
+  banner_text: '#F9EBF3'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9EBF3'
+  input_rule: '#F472B6'
+  response_border: '#FDE047'
+  status_bar_bg: '#251E27'
+  status_bar_text: '#F9EBF3'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#635962'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251E27'
+  completion_menu_bg: '#120A14'
+  completion_menu_current_bg: '#5D4E24'
+  completion_menu_meta_bg: '#0F0811'
+  completion_menu_meta_current_bg: '#544622'
+  session_label: '#38BDF8'
+  session_border: '#635962'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Sailor Moon Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Sailor Moon '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Sailor Moon Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE04C].###.[/] [#FDE156]#####[/] [#FCE263]#....[/] [#FCE373].###.[/] [#FCE484]####.[/] [#FBE597].....[/] [#FBE6AC]#...#[/] [#FAE8C2].###.[/] [#FAE9DA].###.[/] [#F9EBF3]#...#[/]
+  [#FDE047]#....[/] [#FDE04C]#...#[/] [#FDE156]..#..[/] [#FCE263]#....[/] [#FCE373]#...#[/] [#FCE484]#...#[/] [#FBE597].....[/] [#FBE6AC]##.##[/] [#FAE8C2]#...#[/] [#FAE9DA]#...#[/] [#F9EBF3]##..#[/]
+  [#FDE047].###.[/] [#FDE04C]#####[/] [#FDE156]..#..[/] [#FCE263]#....[/] [#FCE373]#...#[/] [#FCE484]####.[/] [#FBE597].....[/] [#FBE6AC]#.#.#[/] [#FAE8C2]#...#[/] [#FAE9DA]#...#[/] [#F9EBF3]#.#.#[/]
+  [#FDE047]....#[/] [#FDE04C]#...#[/] [#FDE156]..#..[/] [#FCE263]#....[/] [#FCE373]#...#[/] [#FCE484]#..#.[/] [#FBE597].....[/] [#FBE6AC]#...#[/] [#FAE8C2]#...#[/] [#FAE9DA]#...#[/] [#F9EBF3]#..##[/]
+  [#FDE047]####.[/] [#FDE04C]#...#[/] [#FDE156]#####[/] [#FCE263]#####[/] [#FCE373].###.[/] [#FCE484]#...#[/] [#FBE597].....[/] [#FBE6AC]#...#[/] [#FAE8C2].###.[/] [#FAE9DA].###.[/] [#F9EBF3]#...#[/]
+  [#635962]─────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F472B6]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                        Sailor Moon                         [/]
+  [#F472B6]────────────────────────────────────────────────────────────[/]

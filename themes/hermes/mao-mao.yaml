@@ -1,0 +1,90 @@
+name: mao-mao
+description: A hot-tempered sheriff cat defending Pure Heart Valley.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#615B53'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#231F19'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#615B53'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231F19'
+  completion_menu_bg: '#100B05'
+  completion_menu_current_bg: '#5C4F1A'
+  completion_menu_meta_bg: '#0E0904'
+  completion_menu_meta_current_bg: '#524717'
+  session_label: '#A855F7'
+  session_border: '#615B53'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Mao Mao: Heroes of Pure Heart Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Mao Mao: Heroes of Pure Heart '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Mao Mao: Heroes of Pure Heart Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE048].###.[/] [#FDE04A].###.[/] [#FDE14D].....[/] [#FDE150]#...#[/] [#FDE153].###.[/] [#FCE157].###.[/] [#FCE25B].....[/] [#FCE25F].....[/] [#FCE364]#...#[/] [#FCE369]#####[/] [#FCE46E]####.[/] [#FBE473].###.[/] [#FBE579]#####[/] [#FBE57F].####[/] [#FBE685].....[/] [#FAE68B].###.[/] [#FAE792]#####[/] [#FAE898].....[/] [#FAE89F]####.[/] [#F9E9A6]#...#[/] [#F9EAAE]####.[/] [#F9EAB5]#####[/] [#F9EBBD].....[/] [#F8ECC4]#...#[/] [#F8EDCC]#####[/] [#F8EDD4].###.[/] [#F7EEDD]####.[/] [#F7EFE5]#####[/]
+  [#FDE047]##.##[/] [#FDE048]#...#[/] [#FDE04A]#...#[/] [#FDE14D].....[/] [#FDE150]##.##[/] [#FDE153]#...#[/] [#FCE157]#...#[/] [#FCE25B].....[/] [#FCE25F].....[/] [#FCE364]#...#[/] [#FCE369]#....[/] [#FCE46E]#...#[/] [#FBE473]#...#[/] [#FBE579]#....[/] [#FBE57F]#....[/] [#FBE685].....[/] [#FAE68B]#...#[/] [#FAE792]#....[/] [#FAE898].....[/] [#FAE89F]#...#[/] [#F9E9A6]#...#[/] [#F9EAAE]#...#[/] [#F9EAB5]#....[/] [#F9EBBD].....[/] [#F8ECC4]#...#[/] [#F8EDCC]#....[/] [#F8EDD4]#...#[/] [#F7EEDD]#...#[/] [#F7EFE5]..#..[/]
+  [#FDE047]#.#.#[/] [#FDE048]#####[/] [#FDE04A]#...#[/] [#FDE14D].....[/] [#FDE150]#.#.#[/] [#FDE153]#####[/] [#FCE157]#...#[/] [#FCE25B].....[/] [#FCE25F].....[/] [#FCE364]#####[/] [#FCE369]####.[/] [#FCE46E]####.[/] [#FBE473]#...#[/] [#FBE579]####.[/] [#FBE57F].###.[/] [#FBE685].....[/] [#FAE68B]#...#[/] [#FAE792]####.[/] [#FAE898].....[/] [#FAE89F]####.[/] [#F9E9A6]#...#[/] [#F9EAAE]####.[/] [#F9EAB5]####.[/] [#F9EBBD].....[/] [#F8ECC4]#####[/] [#F8EDCC]####.[/] [#F8EDD4]#####[/] [#F7EEDD]####.[/] [#F7EFE5]..#..[/]
+  [#FDE047]#...#[/] [#FDE048]#...#[/] [#FDE04A]#...#[/] [#FDE14D].....[/] [#FDE150]#...#[/] [#FDE153]#...#[/] [#FCE157]#...#[/] [#FCE25B].....[/] [#FCE25F].....[/] [#FCE364]#...#[/] [#FCE369]#....[/] [#FCE46E]#..#.[/] [#FBE473]#...#[/] [#FBE579]#....[/] [#FBE57F]....#[/] [#FBE685].....[/] [#FAE68B]#...#[/] [#FAE792]#....[/] [#FAE898].....[/] [#FAE89F]#....[/] [#F9E9A6]#...#[/] [#F9EAAE]#..#.[/] [#F9EAB5]#....[/] [#F9EBBD].....[/] [#F8ECC4]#...#[/] [#F8EDCC]#....[/] [#F8EDD4]#...#[/] [#F7EEDD]#..#.[/] [#F7EFE5]..#..[/]
+  [#FDE047]#...#[/] [#FDE048]#...#[/] [#FDE04A].###.[/] [#FDE14D].....[/] [#FDE150]#...#[/] [#FDE153]#...#[/] [#FCE157].###.[/] [#FCE25B].....[/] [#FCE25F].....[/] [#FCE364]#...#[/] [#FCE369]#####[/] [#FCE46E]#...#[/] [#FBE473].###.[/] [#FBE579]#####[/] [#FBE57F]####.[/] [#FBE685].....[/] [#FAE68B].###.[/] [#FAE792]#....[/] [#FAE898].....[/] [#FAE89F]#....[/] [#F9E9A6].###.[/] [#F9EAAE]#...#[/] [#F9EAB5]#####[/] [#F9EBBD].....[/] [#F8ECC4]#...#[/] [#F8EDCC]#####[/] [#F8EDD4]#...#[/] [#F7EEDD]#...#[/] [#F7EFE5]..#..[/]
+  [#615B53]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F97316]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]               Mao Mao: Heroes of Pure Heart                [/]
+  [#F97316]────────────────────────────────────────────────────────────[/]

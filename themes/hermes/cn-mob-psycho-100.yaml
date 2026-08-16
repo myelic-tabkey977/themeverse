@@ -1,0 +1,90 @@
+name: cn-mob-psycho-100
+description: A powerful psychic trying to live an ordinary life.
+colors:
+  banner_border: '#2DD4BF'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556463'
+  banner_text: '#E7F6F5'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7F6F5'
+  input_rule: '#2DD4BF'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A2827'
+  status_bar_text: '#E7F6F5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556463'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A2827'
+  completion_menu_bg: '#061514'
+  completion_menu_current_bg: '#555624'
+  completion_menu_meta_bg: '#051211'
+  completion_menu_meta_current_bg: '#4B4E22'
+  session_label: '#A855F7'
+  session_border: '#556463'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mob Psycho 100 Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Mob Psycho 100 '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Mob Psycho 100 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE04B].###.[/] [#FCE151]####.[/] [#FBE25A].....[/] [#F9E465]####.[/] [#F8E571].####[/] [#F6E77E]#...#[/] [#F4E98C].####[/] [#F2EB9B]#...#[/] [#F0EDAB].###.[/] [#EEEFBC].....[/] [#ECF1CE]..#..[/] [#E9F4E1].###.[/] [#E7F6F5].###.[/]
+  [#FDE047]##.##[/] [#FDE04B]#...#[/] [#FCE151]#...#[/] [#FBE25A].....[/] [#F9E465]#...#[/] [#F8E571]#....[/] [#F6E77E].#.#.[/] [#F4E98C]#....[/] [#F2EB9B]#...#[/] [#F0EDAB]#...#[/] [#EEEFBC].....[/] [#ECF1CE].##..[/] [#E9F4E1]#..##[/] [#E7F6F5]#..##[/]
+  [#FDE047]#.#.#[/] [#FDE04B]#...#[/] [#FCE151]####.[/] [#FBE25A].....[/] [#F9E465]####.[/] [#F8E571].###.[/] [#F6E77E]..#..[/] [#F4E98C]#....[/] [#F2EB9B]#####[/] [#F0EDAB]#...#[/] [#EEEFBC].....[/] [#ECF1CE]..#..[/] [#E9F4E1]#.#.#[/] [#E7F6F5]#.#.#[/]
+  [#FDE047]#...#[/] [#FDE04B]#...#[/] [#FCE151]#...#[/] [#FBE25A].....[/] [#F9E465]#....[/] [#F8E571]....#[/] [#F6E77E]..#..[/] [#F4E98C]#....[/] [#F2EB9B]#...#[/] [#F0EDAB]#...#[/] [#EEEFBC].....[/] [#ECF1CE]..#..[/] [#E9F4E1]##..#[/] [#E7F6F5]##..#[/]
+  [#FDE047]#...#[/] [#FDE04B].###.[/] [#FCE151]####.[/] [#FBE25A].....[/] [#F9E465]#....[/] [#F8E571]####.[/] [#F6E77E]..#..[/] [#F4E98C].####[/] [#F2EB9B]#...#[/] [#F0EDAB].###.[/] [#EEEFBC].....[/] [#ECF1CE]#####[/] [#E9F4E1].###.[/] [#E7F6F5].###.[/]
+  [#556463]───────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#2DD4BF]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                       Mob Psycho 100                       [/]
+  [#2DD4BF]────────────────────────────────────────────────────────────[/]

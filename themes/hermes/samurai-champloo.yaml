@@ -1,0 +1,90 @@
+name: samurai-champloo
+description: Hip-hop samurai road trip across Edo Japan.
+colors:
+  banner_border: '#F97316'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#615A52'
+  banner_text: '#F7EFE4'
+  ui_accent: '#FDE047'
+  ui_label: '#D97706'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE4'
+  input_rule: '#F97316'
+  response_border: '#FDE047'
+  status_bar_bg: '#231D17'
+  status_bar_text: '#F7EFE4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#615A52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231D17'
+  completion_menu_bg: '#100903'
+  completion_menu_current_bg: '#5C4E19'
+  completion_menu_meta_bg: '#0E0803'
+  completion_menu_meta_current_bg: '#524516'
+  session_label: '#D97706'
+  session_border: '#615A52'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Samurai Champloo Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Samurai Champloo '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Samurai Champloo Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE04A].###.[/] [#FDE14F]#...#[/] [#FCE155]#...#[/] [#FCE25D]####.[/] [#FCE365].###.[/] [#FBE46F]#####[/] [#FBE579].....[/] [#FBE684].####[/] [#FAE790]#...#[/] [#FAE89C].###.[/] [#F9E9AA]#...#[/] [#F9EBB7]####.[/] [#F8ECC6]#....[/] [#F8EED5].###.[/] [#F7EFE4].###.[/]
+  [#FDE047]#....[/] [#FDE04A]#...#[/] [#FDE14F]##.##[/] [#FCE155]#...#[/] [#FCE25D]#...#[/] [#FCE365]#...#[/] [#FBE46F]..#..[/] [#FBE579].....[/] [#FBE684]#....[/] [#FAE790]#...#[/] [#FAE89C]#...#[/] [#F9E9AA]##.##[/] [#F9EBB7]#...#[/] [#F8ECC6]#....[/] [#F8EED5]#...#[/] [#F7EFE4]#...#[/]
+  [#FDE047].###.[/] [#FDE04A]#####[/] [#FDE14F]#.#.#[/] [#FCE155]#...#[/] [#FCE25D]####.[/] [#FCE365]#####[/] [#FBE46F]..#..[/] [#FBE579].....[/] [#FBE684]#....[/] [#FAE790]#####[/] [#FAE89C]#####[/] [#F9E9AA]#.#.#[/] [#F9EBB7]####.[/] [#F8ECC6]#....[/] [#F8EED5]#...#[/] [#F7EFE4]#...#[/]
+  [#FDE047]....#[/] [#FDE04A]#...#[/] [#FDE14F]#...#[/] [#FCE155]#...#[/] [#FCE25D]#..#.[/] [#FCE365]#...#[/] [#FBE46F]..#..[/] [#FBE579].....[/] [#FBE684]#....[/] [#FAE790]#...#[/] [#FAE89C]#...#[/] [#F9E9AA]#...#[/] [#F9EBB7]#....[/] [#F8ECC6]#....[/] [#F8EED5]#...#[/] [#F7EFE4]#...#[/]
+  [#FDE047]####.[/] [#FDE04A]#...#[/] [#FDE14F]#...#[/] [#FCE155].###.[/] [#FCE25D]#...#[/] [#FCE365]#...#[/] [#FBE46F]#####[/] [#FBE579].....[/] [#FBE684].####[/] [#FAE790]#...#[/] [#FAE89C]#...#[/] [#F9E9AA]#...#[/] [#F9EBB7]#....[/] [#F8ECC6]#####[/] [#F8EED5].###.[/] [#F7EFE4].###.[/]
+  [#615A52]───────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F97316]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                      Samurai Champloo                      [/]
+  [#F97316]────────────────────────────────────────────────────────────[/]

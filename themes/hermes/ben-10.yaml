@@ -1,0 +1,90 @@
+name: ben-10
+description: Classic Omnitrix series — dial in a hero and save the world.
+colors:
+  banner_border: '#16C784'
+  banner_title: '#F5F5F5'
+  banner_accent: '#F5F5F5'
+  banner_dim: '#58605A'
+  banner_text: '#EAF7EE'
+  ui_accent: '#F5F5F5'
+  ui_label: '#A7F3D0'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EAF7EE'
+  input_rule: '#16C784'
+  response_border: '#F5F5F5'
+  status_bar_bg: '#1E211E'
+  status_bar_text: '#EAF7EE'
+  status_bar_strong: '#F5F5F5'
+  status_bar_dim: '#58605A'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E211E'
+  completion_menu_bg: '#0A0E0A'
+  completion_menu_current_bg: '#555855'
+  completion_menu_meta_bg: '#080C08'
+  completion_menu_meta_current_bg: '#4C4F4C'
+  session_label: '#A7F3D0'
+  session_border: '#58605A'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Ben 10 Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Ben 10 '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Ben 10 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F5F5F5]####.[/] [#F4F5F4]#####[/] [#F2F6F3]#...#[/] [#F0F6F2].....[/] [#EDF6F0]..#..[/] [#EAF7EE].###.[/]
+  [#F5F5F5]#...#[/] [#F4F5F4]#....[/] [#F2F6F3]##..#[/] [#F0F6F2].....[/] [#EDF6F0].##..[/] [#EAF7EE]#..##[/]
+  [#F5F5F5]####.[/] [#F4F5F4]####.[/] [#F2F6F3]#.#.#[/] [#F0F6F2].....[/] [#EDF6F0]..#..[/] [#EAF7EE]#.#.#[/]
+  [#F5F5F5]#...#[/] [#F4F5F4]#....[/] [#F2F6F3]#..##[/] [#F0F6F2].....[/] [#EDF6F0]..#..[/] [#EAF7EE]##..#[/]
+  [#F5F5F5]####.[/] [#F4F5F4]#####[/] [#F2F6F3]#...#[/] [#F0F6F2].....[/] [#EDF6F0]#####[/] [#EAF7EE].###.[/]
+  [#58605A]───────────────────────────────────[/]
+banner_hero: |-
+  [#16C784]────────────────────────────────────────────────────────────[/]
+  [bold #F5F5F5]                           Ben 10                           [/]
+  [#16C784]────────────────────────────────────────────────────────────[/]

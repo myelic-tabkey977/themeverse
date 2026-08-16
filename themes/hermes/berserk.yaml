@@ -1,0 +1,90 @@
+name: berserk
+description: The Black Swordsman dragging a titanic blade across a cursed world.
+colors:
+  banner_border: '#6B7280'
+  banner_title: '#E5E7EB'
+  banner_accent: '#E5E7EB'
+  banner_dim: '#5A5B5D'
+  banner_text: '#ECEEF1'
+  ui_accent: '#E5E7EB'
+  ui_label: '#DC2626'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#ECEEF1'
+  input_rule: '#6B7280'
+  response_border: '#E5E7EB'
+  status_bar_bg: '#1F1F21'
+  status_bar_text: '#ECEEF1'
+  status_bar_strong: '#E5E7EB'
+  status_bar_dim: '#5A5B5D'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1F21'
+  completion_menu_bg: '#0B0C0E'
+  completion_menu_current_bg: '#515255'
+  completion_menu_meta_bg: '#090A0C'
+  completion_menu_meta_current_bg: '#48494C'
+  session_label: '#DC2626'
+  session_border: '#5A5B5D'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Berserk Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Berserk '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Berserk Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#E5E7EB]####.[/] [#E5E7EB]#####[/] [#E6E8EC]####.[/] [#E7E9ED].####[/] [#E9EBEE]#####[/] [#EAECF0]####.[/] [#ECEEF1]#...#[/]
+  [#E5E7EB]#...#[/] [#E5E7EB]#....[/] [#E6E8EC]#...#[/] [#E7E9ED]#....[/] [#E9EBEE]#....[/] [#EAECF0]#...#[/] [#ECEEF1]#..#.[/]
+  [#E5E7EB]####.[/] [#E5E7EB]####.[/] [#E6E8EC]####.[/] [#E7E9ED].###.[/] [#E9EBEE]####.[/] [#EAECF0]####.[/] [#ECEEF1]###..[/]
+  [#E5E7EB]#...#[/] [#E5E7EB]#....[/] [#E6E8EC]#..#.[/] [#E7E9ED]....#[/] [#E9EBEE]#....[/] [#EAECF0]#..#.[/] [#ECEEF1]#..#.[/]
+  [#E5E7EB]####.[/] [#E5E7EB]#####[/] [#E6E8EC]#...#[/] [#E7E9ED]####.[/] [#E9EBEE]#####[/] [#EAECF0]#...#[/] [#ECEEF1]#...#[/]
+  [#5A5B5D]─────────────────────────────────────────[/]
+banner_hero: |-
+  [#6B7280]────────────────────────────────────────────────────────────[/]
+  [bold #E5E7EB]                          Berserk                           [/]
+  [#6B7280]────────────────────────────────────────────────────────────[/]

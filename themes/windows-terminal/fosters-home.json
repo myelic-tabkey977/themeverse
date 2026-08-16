@@ -1,0 +1,23 @@
+{
+  "name": "Foster's Home for Imaginary Friends",
+  "background": "#0B1420",
+  "foreground": "#EAF4FB",
+  "cursorColor": "#FDE68A",
+  "selectionBackground": "#847D55",
+  "black": "#060A10",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F9A8D4",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#EBF5FB",
+  "brightBlack": "#646E78",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FABEDF",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#EAF4FB"
+}

@@ -1,0 +1,90 @@
+name: sheep-in-the-big-city
+description: An escaped military sheep living in the big city.
+colors:
+  banner_border: '#E5E7EB'
+  banner_title: '#F87171'
+  banner_accent: '#F87171'
+  banner_dim: '#5D5F63'
+  banner_text: '#EDEFF2'
+  ui_accent: '#F87171'
+  ui_label: '#9CA3AF'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EDEFF2'
+  input_rule: '#E5E7EB'
+  response_border: '#F87171'
+  status_bar_bg: '#232529'
+  status_bar_text: '#EDEFF2'
+  status_bar_strong: '#F87171'
+  status_bar_dim: '#5D5F63'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#232529'
+  completion_menu_bg: '#101216'
+  completion_menu_current_bg: '#5A3033'
+  completion_menu_meta_bg: '#0E0F13'
+  completion_menu_meta_current_bg: '#512D2F'
+  session_label: '#9CA3AF'
+  session_border: '#5D5F63'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Sheep in the Big City Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Sheep in the Big City '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Sheep in the Big City Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F87171].####[/] [#F87272]#...#[/] [#F87575]#####[/] [#F77878]#####[/] [#F77C7D]####.[/] [#F78181].....[/] [#F68686]#####[/] [#F68B8C]#...#[/] [#F59192].....[/] [#F59798]#####[/] [#F49E9F]#...#[/] [#F4A4A6]#####[/] [#F3ACAD].....[/] [#F2B3B5]####.[/] [#F2BBBD]#####[/] [#F1C3C5].####[/] [#F0CBCD].....[/] [#EFD4D6].####[/] [#EFDDDF]#####[/] [#EEE6E8]#####[/] [#EDEFF2]#...#[/]
+  [#F87171]#....[/] [#F87272]#...#[/] [#F87575]#....[/] [#F77878]#....[/] [#F77C7D]#...#[/] [#F78181].....[/] [#F68686]..#..[/] [#F68B8C]##..#[/] [#F59192].....[/] [#F59798]..#..[/] [#F49E9F]#...#[/] [#F4A4A6]#....[/] [#F3ACAD].....[/] [#F2B3B5]#...#[/] [#F2BBBD]..#..[/] [#F1C3C5]#....[/] [#F0CBCD].....[/] [#EFD4D6]#....[/] [#EFDDDF]..#..[/] [#EEE6E8]..#..[/] [#EDEFF2].#.#.[/]
+  [#F87171].###.[/] [#F87272]#####[/] [#F87575]####.[/] [#F77878]####.[/] [#F77C7D]####.[/] [#F78181].....[/] [#F68686]..#..[/] [#F68B8C]#.#.#[/] [#F59192].....[/] [#F59798]..#..[/] [#F49E9F]#####[/] [#F4A4A6]####.[/] [#F3ACAD].....[/] [#F2B3B5]####.[/] [#F2BBBD]..#..[/] [#F1C3C5]#..##[/] [#F0CBCD].....[/] [#EFD4D6]#....[/] [#EFDDDF]..#..[/] [#EEE6E8]..#..[/] [#EDEFF2]..#..[/]
+  [#F87171]....#[/] [#F87272]#...#[/] [#F87575]#....[/] [#F77878]#....[/] [#F77C7D]#....[/] [#F78181].....[/] [#F68686]..#..[/] [#F68B8C]#..##[/] [#F59192].....[/] [#F59798]..#..[/] [#F49E9F]#...#[/] [#F4A4A6]#....[/] [#F3ACAD].....[/] [#F2B3B5]#...#[/] [#F2BBBD]..#..[/] [#F1C3C5]#...#[/] [#F0CBCD].....[/] [#EFD4D6]#....[/] [#EFDDDF]..#..[/] [#EEE6E8]..#..[/] [#EDEFF2]..#..[/]
+  [#F87171]####.[/] [#F87272]#...#[/] [#F87575]#####[/] [#F77878]#####[/] [#F77C7D]#....[/] [#F78181].....[/] [#F68686]#####[/] [#F68B8C]#...#[/] [#F59192].....[/] [#F59798]..#..[/] [#F49E9F]#...#[/] [#F4A4A6]#####[/] [#F3ACAD].....[/] [#F2B3B5]####.[/] [#F2BBBD]#####[/] [#F1C3C5].####[/] [#F0CBCD].....[/] [#EFD4D6].####[/] [#EFDDDF]#####[/] [#EEE6E8]..#..[/] [#EDEFF2]..#..[/]
+  [#5D5F63]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#E5E7EB]────────────────────────────────────────────────────────────[/]
+  [bold #F87171]                   Sheep in the Big City                    [/]
+  [#E5E7EB]────────────────────────────────────────────────────────────[/]

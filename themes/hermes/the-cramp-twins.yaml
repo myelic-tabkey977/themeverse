@@ -1,0 +1,90 @@
+name: the-cramp-twins
+description: Identical twin brothers with opposite personalities.
+colors:
+  banner_border: '#A3E635'
+  banner_title: '#4ADE80'
+  banner_accent: '#4ADE80'
+  banner_dim: '#5E6356'
+  banner_text: '#F0F6E6'
+  ui_accent: '#4ADE80'
+  ui_label: '#FDE047'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F0F6E6'
+  input_rule: '#A3E635'
+  response_border: '#4ADE80'
+  status_bar_bg: '#22271C'
+  status_bar_text: '#F0F6E6'
+  status_bar_strong: '#4ADE80'
+  status_bar_dim: '#5E6356'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#22271C'
+  completion_menu_bg: '#0F1408'
+  completion_menu_current_bg: '#22552E'
+  completion_menu_meta_bg: '#0D1107'
+  completion_menu_meta_current_bg: '#204D2A'
+  session_label: '#FDE047'
+  session_border: '#5E6356'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: The Cramp Twins Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ The Cramp Twins '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) The Cramp Twins Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#4ADE80]#####[/] [#4DDE82]#...#[/] [#53DF86]#####[/] [#5AE08A].....[/] [#63E290].####[/] [#6DE396]####.[/] [#79E59D].###.[/] [#85E6A4]#...#[/] [#92E8AC]####.[/] [#A0EAB5].....[/] [#AEECBE]#####[/] [#BEEFC7]#...#[/] [#CEF1D1]#####[/] [#DFF3DB]#...#[/] [#F0F6E6].####[/]
+  [#4ADE80]..#..[/] [#4DDE82]#...#[/] [#53DF86]#....[/] [#5AE08A].....[/] [#63E290]#....[/] [#6DE396]#...#[/] [#79E59D]#...#[/] [#85E6A4]##.##[/] [#92E8AC]#...#[/] [#A0EAB5].....[/] [#AEECBE]..#..[/] [#BEEFC7]#...#[/] [#CEF1D1]..#..[/] [#DFF3DB]##..#[/] [#F0F6E6]#....[/]
+  [#4ADE80]..#..[/] [#4DDE82]#####[/] [#53DF86]####.[/] [#5AE08A].....[/] [#63E290]#....[/] [#6DE396]####.[/] [#79E59D]#####[/] [#85E6A4]#.#.#[/] [#92E8AC]####.[/] [#A0EAB5].....[/] [#AEECBE]..#..[/] [#BEEFC7]#.#.#[/] [#CEF1D1]..#..[/] [#DFF3DB]#.#.#[/] [#F0F6E6].###.[/]
+  [#4ADE80]..#..[/] [#4DDE82]#...#[/] [#53DF86]#....[/] [#5AE08A].....[/] [#63E290]#....[/] [#6DE396]#..#.[/] [#79E59D]#...#[/] [#85E6A4]#...#[/] [#92E8AC]#....[/] [#A0EAB5].....[/] [#AEECBE]..#..[/] [#BEEFC7]##.##[/] [#CEF1D1]..#..[/] [#DFF3DB]#..##[/] [#F0F6E6]....#[/]
+  [#4ADE80]..#..[/] [#4DDE82]#...#[/] [#53DF86]#####[/] [#5AE08A].....[/] [#63E290].####[/] [#6DE396]#...#[/] [#79E59D]#...#[/] [#85E6A4]#...#[/] [#92E8AC]#....[/] [#A0EAB5].....[/] [#AEECBE]..#..[/] [#BEEFC7]#...#[/] [#CEF1D1]#####[/] [#DFF3DB]#...#[/] [#F0F6E6]####.[/]
+  [#5E6356]─────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#A3E635]────────────────────────────────────────────────────────────[/]
+  [bold #4ADE80]                      The Cramp Twins                       [/]
+  [#A3E635]────────────────────────────────────────────────────────────[/]

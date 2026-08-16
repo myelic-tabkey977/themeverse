@@ -1,0 +1,23 @@
+{
+  "name": "Mucha Lucha!",
+  "background": "#120808",
+  "foreground": "#F7E9E9",
+  "cursorColor": "#F97316",
+  "selectionBackground": "#863E0F",
+  "black": "#090404",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FACC15",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F7EAEA",
+  "brightBlack": "#6E6262",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FBD950",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F7E9E9"
+}

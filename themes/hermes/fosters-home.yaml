@@ -1,0 +1,90 @@
+name: fosters-home
+description: A mansion full of imaginary friends waiting for adoption.
+colors:
+  banner_border: '#7DD3FC'
+  banner_title: '#FDE68A'
+  banner_accent: '#FDE68A'
+  banner_dim: '#59626D'
+  banner_text: '#EAF4FB'
+  ui_accent: '#FDE68A'
+  ui_label: '#F9A8D4'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EAF4FB'
+  input_rule: '#7DD3FC'
+  response_border: '#FDE68A'
+  status_bar_bg: '#1F2732'
+  status_bar_text: '#EAF4FB'
+  status_bar_strong: '#FDE68A'
+  status_bar_dim: '#59626D'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F2732'
+  completion_menu_bg: '#0B1420'
+  completion_menu_current_bg: '#585742'
+  completion_menu_meta_bg: '#09111B'
+  completion_menu_meta_current_bg: '#4F4F3E'
+  session_label: '#F9A8D4'
+  session_border: '#59626D'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Foster's Home for Imaginary Friends Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Foster''s Home for Imaginary Friends '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Foster's Home for Imaginary Friends Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE68A]#####[/] [#FDE68B].###.[/] [#FDE68C].####[/] [#FDE68D]#####[/] [#FCE78F]#####[/] [#FCE790]####.[/] [#FCE792]..#..[/] [#FBE795].####[/] [#FBE897].....[/] [#FAE899]#...#[/] [#FAE89C].###.[/] [#FAE99F]#...#[/] [#F9E9A2]#####[/] [#F9E9A5].....[/] [#F8EAA8]#####[/] [#F7EAAB].###.[/] [#F7EBAE]####.[/] [#F6EBB2].....[/] [#F6EBB6]#####[/] [#F5ECB9]#...#[/] [#F4ECBD].###.[/] [#F4EDC1].####[/] [#F3EDC5]#####[/] [#F2EEC9]#...#[/] [#F2EECD].###.[/] [#F1EFD1]####.[/] [#F0EFD6]#...#[/] [#F0F0DA].....[/] [#EFF0DE]#####[/] [#EEF1E3]####.[/] [#EDF2E8]#####[/] [#ECF2EC]#####[/] [#ECF3F1]#...#[/] [#EBF3F6]####.[/] [#EAF4FB].####[/]
+  [#FDE68A]#....[/] [#FDE68B]#...#[/] [#FDE68C]#....[/] [#FDE68D]..#..[/] [#FCE78F]#....[/] [#FCE790]#...#[/] [#FCE792]..#..[/] [#FBE795]#....[/] [#FBE897].....[/] [#FAE899]#...#[/] [#FAE89C]#...#[/] [#FAE99F]##.##[/] [#F9E9A2]#....[/] [#F9E9A5].....[/] [#F8EAA8]#....[/] [#F7EAAB]#...#[/] [#F7EBAE]#...#[/] [#F6EBB2].....[/] [#F6EBB6]..#..[/] [#F5ECB9]##.##[/] [#F4ECBD]#...#[/] [#F4EDC1]#....[/] [#F3EDC5]..#..[/] [#F2EEC9]##..#[/] [#F2EECD]#...#[/] [#F1EFD1]#...#[/] [#F0EFD6].#.#.[/] [#F0F0DA].....[/] [#EFF0DE]#....[/] [#EEF1E3]#...#[/] [#EDF2E8]..#..[/] [#ECF2EC]#....[/] [#ECF3F1]##..#[/] [#EBF3F6]#...#[/] [#EAF4FB]#....[/]
+  [#FDE68A]####.[/] [#FDE68B]#...#[/] [#FDE68C].###.[/] [#FDE68D]..#..[/] [#FCE78F]####.[/] [#FCE790]####.[/] [#FCE792].....[/] [#FBE795].###.[/] [#FBE897].....[/] [#FAE899]#####[/] [#FAE89C]#...#[/] [#FAE99F]#.#.#[/] [#F9E9A2]####.[/] [#F9E9A5].....[/] [#F8EAA8]####.[/] [#F7EAAB]#...#[/] [#F7EBAE]####.[/] [#F6EBB2].....[/] [#F6EBB6]..#..[/] [#F5ECB9]#.#.#[/] [#F4ECBD]#####[/] [#F4EDC1]#..##[/] [#F3EDC5]..#..[/] [#F2EEC9]#.#.#[/] [#F2EECD]#####[/] [#F1EFD1]####.[/] [#F0EFD6]..#..[/] [#F0F0DA].....[/] [#EFF0DE]####.[/] [#EEF1E3]####.[/] [#EDF2E8]..#..[/] [#ECF2EC]####.[/] [#ECF3F1]#.#.#[/] [#EBF3F6]#...#[/] [#EAF4FB].###.[/]
+  [#FDE68A]#....[/] [#FDE68B]#...#[/] [#FDE68C]....#[/] [#FDE68D]..#..[/] [#FCE78F]#....[/] [#FCE790]#..#.[/] [#FCE792].....[/] [#FBE795]....#[/] [#FBE897].....[/] [#FAE899]#...#[/] [#FAE89C]#...#[/] [#FAE99F]#...#[/] [#F9E9A2]#....[/] [#F9E9A5].....[/] [#F8EAA8]#....[/] [#F7EAAB]#...#[/] [#F7EBAE]#..#.[/] [#F6EBB2].....[/] [#F6EBB6]..#..[/] [#F5ECB9]#...#[/] [#F4ECBD]#...#[/] [#F4EDC1]#...#[/] [#F3EDC5]..#..[/] [#F2EEC9]#..##[/] [#F2EECD]#...#[/] [#F1EFD1]#..#.[/] [#F0EFD6]..#..[/] [#F0F0DA].....[/] [#EFF0DE]#....[/] [#EEF1E3]#..#.[/] [#EDF2E8]..#..[/] [#ECF2EC]#....[/] [#ECF3F1]#..##[/] [#EBF3F6]#...#[/] [#EAF4FB]....#[/]
+  [#FDE68A]#....[/] [#FDE68B].###.[/] [#FDE68C]####.[/] [#FDE68D]..#..[/] [#FCE78F]#####[/] [#FCE790]#...#[/] [#FCE792].....[/] [#FBE795]####.[/] [#FBE897].....[/] [#FAE899]#...#[/] [#FAE89C].###.[/] [#FAE99F]#...#[/] [#F9E9A2]#####[/] [#F9E9A5].....[/] [#F8EAA8]#....[/] [#F7EAAB].###.[/] [#F7EBAE]#...#[/] [#F6EBB2].....[/] [#F6EBB6]#####[/] [#F5ECB9]#...#[/] [#F4ECBD]#...#[/] [#F4EDC1].####[/] [#F3EDC5]#####[/] [#F2EEC9]#...#[/] [#F2EECD]#...#[/] [#F1EFD1]#...#[/] [#F0EFD6]..#..[/] [#F0F0DA].....[/] [#EFF0DE]#....[/] [#EEF1E3]#...#[/] [#EDF2E8]#####[/] [#ECF2EC]#####[/] [#ECF3F1]#...#[/] [#EBF3F6]####.[/] [#EAF4FB]####.[/]
+  [#59626D]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#7DD3FC]────────────────────────────────────────────────────────────[/]
+  [bold #FDE68A]            Foster's Home for Imaginary Friends             [/]
+  [#7DD3FC]────────────────────────────────────────────────────────────[/]

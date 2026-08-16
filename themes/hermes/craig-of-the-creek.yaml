@@ -1,0 +1,90 @@
+name: craig-of-the-creek
+description: Craig and his crew exploring the kid-ruled creek.
+colors:
+  banner_border: '#14B8A6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#556360'
+  banner_text: '#E6F5F2'
+  ui_accent: '#FDE047'
+  ui_label: '#FB923C'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6F5F2'
+  input_rule: '#14B8A6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2825'
+  status_bar_text: '#E6F5F2'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#556360'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2825'
+  completion_menu_bg: '#071512'
+  completion_menu_current_bg: '#565623'
+  completion_menu_meta_bg: '#06120F'
+  completion_menu_meta_current_bg: '#4C4E21'
+  session_label: '#FB923C'
+  session_border: '#556360'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Craig of the Creek Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Craig of the Creek '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Craig of the Creek Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE049]####.[/] [#FCE14E].###.[/] [#FBE254]#####[/] [#FAE25B].####[/] [#F9E362].....[/] [#F8E46B].###.[/] [#F7E674]#####[/] [#F6E77E].....[/] [#F4E889]#####[/] [#F3E994]#...#[/] [#F1EBA0]#####[/] [#EFECAC].....[/] [#EEEEB9].####[/] [#ECF0C7]####.[/] [#EAF1D5]#####[/] [#E8F3E3]#####[/] [#E6F5F2]#...#[/]
+  [#FDE047]#....[/] [#FDE049]#...#[/] [#FCE14E]#...#[/] [#FBE254]..#..[/] [#FAE25B]#....[/] [#F9E362].....[/] [#F8E46B]#...#[/] [#F7E674]#....[/] [#F6E77E].....[/] [#F4E889]..#..[/] [#F3E994]#...#[/] [#F1EBA0]#....[/] [#EFECAC].....[/] [#EEEEB9]#....[/] [#ECF0C7]#...#[/] [#EAF1D5]#....[/] [#E8F3E3]#....[/] [#E6F5F2]#..#.[/]
+  [#FDE047]#....[/] [#FDE049]####.[/] [#FCE14E]#####[/] [#FBE254]..#..[/] [#FAE25B]#..##[/] [#F9E362].....[/] [#F8E46B]#...#[/] [#F7E674]####.[/] [#F6E77E].....[/] [#F4E889]..#..[/] [#F3E994]#####[/] [#F1EBA0]####.[/] [#EFECAC].....[/] [#EEEEB9]#....[/] [#ECF0C7]####.[/] [#EAF1D5]####.[/] [#E8F3E3]####.[/] [#E6F5F2]###..[/]
+  [#FDE047]#....[/] [#FDE049]#..#.[/] [#FCE14E]#...#[/] [#FBE254]..#..[/] [#FAE25B]#...#[/] [#F9E362].....[/] [#F8E46B]#...#[/] [#F7E674]#....[/] [#F6E77E].....[/] [#F4E889]..#..[/] [#F3E994]#...#[/] [#F1EBA0]#....[/] [#EFECAC].....[/] [#EEEEB9]#....[/] [#ECF0C7]#..#.[/] [#EAF1D5]#....[/] [#E8F3E3]#....[/] [#E6F5F2]#..#.[/]
+  [#FDE047].####[/] [#FDE049]#...#[/] [#FCE14E]#...#[/] [#FBE254]#####[/] [#FAE25B].####[/] [#F9E362].....[/] [#F8E46B].###.[/] [#F7E674]#....[/] [#F6E77E].....[/] [#F4E889]..#..[/] [#F3E994]#...#[/] [#F1EBA0]#####[/] [#EFECAC].....[/] [#EEEEB9].####[/] [#ECF0C7]#...#[/] [#EAF1D5]#####[/] [#E8F3E3]#####[/] [#E6F5F2]#...#[/]
+  [#556360]───────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#14B8A6]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                     Craig of the Creek                     [/]
+  [#14B8A6]────────────────────────────────────────────────────────────[/]

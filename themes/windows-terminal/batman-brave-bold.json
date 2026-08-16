@@ -1,0 +1,23 @@
+{
+  "name": "Batman: The Brave and the Bold",
+  "background": "#0C0803",
+  "foreground": "#F3EEE4",
+  "cursorColor": "#FACC15",
+  "selectionBackground": "#836A0C",
+  "black": "#060402",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#E5E7EB",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F4EFE5",
+  "brightBlack": "#68645D",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#ECEDF0",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F3EEE4"
+}

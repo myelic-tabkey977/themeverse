@@ -1,0 +1,90 @@
+name: bakugan
+description: Battle brawlers with cards that spring into creatures.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#555B65'
+  banner_text: '#E6EDF7'
+  ui_accent: '#FDE047'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EDF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1B2029'
+  status_bar_text: '#E6EDF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#555B65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B2029'
+  completion_menu_bg: '#070D16'
+  completion_menu_current_bg: '#565126'
+  completion_menu_meta_bg: '#060B13'
+  completion_menu_meta_current_bg: '#4C4824'
+  session_label: '#EF4444'
+  session_border: '#555B65'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Bakugan Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Bakugan '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Bakugan Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]####.[/] [#FBE153].###.[/] [#F9E369]#...#[/] [#F5E585]#...#[/] [#F0E7A7].####[/] [#ECEACD].###.[/] [#E6EDF7]#...#[/]
+  [#FDE047]#...#[/] [#FBE153]#...#[/] [#F9E369]#..#.[/] [#F5E585]#...#[/] [#F0E7A7]#....[/] [#ECEACD]#...#[/] [#E6EDF7]##..#[/]
+  [#FDE047]####.[/] [#FBE153]#####[/] [#F9E369]###..[/] [#F5E585]#...#[/] [#F0E7A7]#..##[/] [#ECEACD]#####[/] [#E6EDF7]#.#.#[/]
+  [#FDE047]#...#[/] [#FBE153]#...#[/] [#F9E369]#..#.[/] [#F5E585]#...#[/] [#F0E7A7]#...#[/] [#ECEACD]#...#[/] [#E6EDF7]#..##[/]
+  [#FDE047]####.[/] [#FBE153]#...#[/] [#F9E369]#...#[/] [#F5E585].###.[/] [#F0E7A7].####[/] [#ECEACD]#...#[/] [#E6EDF7]#...#[/]
+  [#555B65]─────────────────────────────────────────[/]
+banner_hero: |-
+  [#3B82F6]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                          Bakugan                           [/]
+  [#3B82F6]────────────────────────────────────────────────────────────[/]

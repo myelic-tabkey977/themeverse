@@ -1,0 +1,90 @@
+name: space-ghost-coast-to-coast
+description: A retired superhero hosts a talk show.
+colors:
+  banner_border: '#64748B'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#595B5E'
+  banner_text: '#EBEDF0'
+  ui_accent: '#FDE047'
+  ui_label: '#F472B6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#EBEDF0'
+  input_rule: '#64748B'
+  response_border: '#FDE047'
+  status_bar_bg: '#1F2023'
+  status_bar_text: '#EBEDF0'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#595B5E'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F2023'
+  completion_menu_bg: '#0B0D10'
+  completion_menu_current_bg: '#585122'
+  completion_menu_meta_bg: '#090B0E'
+  completion_menu_meta_current_bg: '#4F481F'
+  session_label: '#F472B6'
+  session_border: '#595B5E'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Space Ghost Coast to Coast Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Space Ghost Coast to Coast '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Space Ghost Coast to Coast Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE048]####.[/] [#FDE04B].###.[/] [#FCE14E].####[/] [#FCE152]#####[/] [#FBE156].....[/] [#FBE25B].####[/] [#FAE260]#...#[/] [#FAE266].###.[/] [#F9E36C].####[/] [#F8E372]#####[/] [#F8E478].....[/] [#F7E47F].####[/] [#F6E586].###.[/] [#F5E58E].###.[/] [#F5E696].####[/] [#F4E79E]#####[/] [#F3E7A6].....[/] [#F2E8AE]#####[/] [#F1E9B7].###.[/] [#F0E9C0].....[/] [#EFEAC9].####[/] [#EEEBD3].###.[/] [#EDEBDC].###.[/] [#ECECE6].####[/] [#EBEDF0]#####[/]
+  [#FDE047]#....[/] [#FDE048]#...#[/] [#FDE04B]#...#[/] [#FCE14E]#....[/] [#FCE152]#....[/] [#FBE156].....[/] [#FBE25B]#....[/] [#FAE260]#...#[/] [#FAE266]#...#[/] [#F9E36C]#....[/] [#F8E372]..#..[/] [#F8E478].....[/] [#F7E47F]#....[/] [#F6E586]#...#[/] [#F5E58E]#...#[/] [#F5E696]#....[/] [#F4E79E]..#..[/] [#F3E7A6].....[/] [#F2E8AE]..#..[/] [#F1E9B7]#...#[/] [#F0E9C0].....[/] [#EFEAC9]#....[/] [#EEEBD3]#...#[/] [#EDEBDC]#...#[/] [#ECECE6]#....[/] [#EBEDF0]..#..[/]
+  [#FDE047].###.[/] [#FDE048]####.[/] [#FDE04B]#####[/] [#FCE14E]#....[/] [#FCE152]####.[/] [#FBE156].....[/] [#FBE25B]#..##[/] [#FAE260]#####[/] [#FAE266]#...#[/] [#F9E36C].###.[/] [#F8E372]..#..[/] [#F8E478].....[/] [#F7E47F]#....[/] [#F6E586]#...#[/] [#F5E58E]#####[/] [#F5E696].###.[/] [#F4E79E]..#..[/] [#F3E7A6].....[/] [#F2E8AE]..#..[/] [#F1E9B7]#...#[/] [#F0E9C0].....[/] [#EFEAC9]#....[/] [#EEEBD3]#...#[/] [#EDEBDC]#####[/] [#ECECE6].###.[/] [#EBEDF0]..#..[/]
+  [#FDE047]....#[/] [#FDE048]#....[/] [#FDE04B]#...#[/] [#FCE14E]#....[/] [#FCE152]#....[/] [#FBE156].....[/] [#FBE25B]#...#[/] [#FAE260]#...#[/] [#FAE266]#...#[/] [#F9E36C]....#[/] [#F8E372]..#..[/] [#F8E478].....[/] [#F7E47F]#....[/] [#F6E586]#...#[/] [#F5E58E]#...#[/] [#F5E696]....#[/] [#F4E79E]..#..[/] [#F3E7A6].....[/] [#F2E8AE]..#..[/] [#F1E9B7]#...#[/] [#F0E9C0].....[/] [#EFEAC9]#....[/] [#EEEBD3]#...#[/] [#EDEBDC]#...#[/] [#ECECE6]....#[/] [#EBEDF0]..#..[/]
+  [#FDE047]####.[/] [#FDE048]#....[/] [#FDE04B]#...#[/] [#FCE14E].####[/] [#FCE152]#####[/] [#FBE156].....[/] [#FBE25B].####[/] [#FAE260]#...#[/] [#FAE266].###.[/] [#F9E36C]####.[/] [#F8E372]..#..[/] [#F8E478].....[/] [#F7E47F].####[/] [#F6E586].###.[/] [#F5E58E]#...#[/] [#F5E696]####.[/] [#F4E79E]..#..[/] [#F3E7A6].....[/] [#F2E8AE]..#..[/] [#F1E9B7].###.[/] [#F0E9C0].....[/] [#EFEAC9].####[/] [#EEEBD3].###.[/] [#EDEBDC]#...#[/] [#ECECE6]####.[/] [#EBEDF0]..#..[/]
+  [#595B5E]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#64748B]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                 Space Ghost Coast to Coast                 [/]
+  [#64748B]────────────────────────────────────────────────────────────[/]

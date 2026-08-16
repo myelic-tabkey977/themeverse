@@ -1,0 +1,90 @@
+name: ok-ko
+description: K.O. trains to be a hero at Lakewood Plaza Turbo.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625656'
+  banner_text: '#F8E9E9'
+  ui_accent: '#FDE047'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8E9E9'
+  input_rule: '#EF4444'
+  response_border: '#FDE047'
+  status_bar_bg: '#241B1B'
+  status_bar_text: '#F8E9E9'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625656'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#241B1B'
+  completion_menu_bg: '#110707'
+  completion_menu_current_bg: '#5D4C1B'
+  completion_menu_meta_bg: '#0E0606'
+  completion_menu_meta_current_bg: '#534419'
+  session_label: '#3B82F6'
+  session_border: '#625656'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: OK K.O.! Let's Be Heroes Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ OK K.O.! Let''s Be Heroes '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) OK K.O.! Let's Be Heroes Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].###.[/] [#FDE048]#...#[/] [#FDE04B].....[/] [#FDE04F]#...#[/] [#FDE153].....[/] [#FCE157].###.[/] [#FCE15D].....[/] [#FCE262]..#..[/] [#FCE268].....[/] [#FCE26F]#....[/] [#FCE375]#####[/] [#FBE37D]#####[/] [#FBE384]..#..[/] [#FBE48C].####[/] [#FBE494].....[/] [#FAE59C]####.[/] [#FAE5A5]#####[/] [#FAE6AE].....[/] [#FAE6B7]#...#[/] [#F9E7C1]#####[/] [#F9E7CA]####.[/] [#F9E8D4].###.[/] [#F8E8DF]#####[/] [#F8E9E9].####[/]
+  [#FDE047]#...#[/] [#FDE048]#..#.[/] [#FDE04B].....[/] [#FDE04F]#..#.[/] [#FDE153].....[/] [#FCE157]#...#[/] [#FCE15D].....[/] [#FCE262]..#..[/] [#FCE268].....[/] [#FCE26F]#....[/] [#FCE375]#....[/] [#FBE37D]..#..[/] [#FBE384]..#..[/] [#FBE48C]#....[/] [#FBE494].....[/] [#FAE59C]#...#[/] [#FAE5A5]#....[/] [#FAE6AE].....[/] [#FAE6B7]#...#[/] [#F9E7C1]#....[/] [#F9E7CA]#...#[/] [#F9E8D4]#...#[/] [#F8E8DF]#....[/] [#F8E9E9]#....[/]
+  [#FDE047]#...#[/] [#FDE048]###..[/] [#FDE04B].....[/] [#FDE04F]###..[/] [#FDE153].....[/] [#FCE157]#...#[/] [#FCE15D].....[/] [#FCE262]..#..[/] [#FCE268].....[/] [#FCE26F]#....[/] [#FCE375]####.[/] [#FBE37D]..#..[/] [#FBE384].....[/] [#FBE48C].###.[/] [#FBE494].....[/] [#FAE59C]####.[/] [#FAE5A5]####.[/] [#FAE6AE].....[/] [#FAE6B7]#####[/] [#F9E7C1]####.[/] [#F9E7CA]####.[/] [#F9E8D4]#...#[/] [#F8E8DF]####.[/] [#F8E9E9].###.[/]
+  [#FDE047]#...#[/] [#FDE048]#..#.[/] [#FDE04B].....[/] [#FDE04F]#..#.[/] [#FDE153]..##.[/] [#FCE157]#...#[/] [#FCE15D]..##.[/] [#FCE262].....[/] [#FCE268].....[/] [#FCE26F]#....[/] [#FCE375]#....[/] [#FBE37D]..#..[/] [#FBE384].....[/] [#FBE48C]....#[/] [#FBE494].....[/] [#FAE59C]#...#[/] [#FAE5A5]#....[/] [#FAE6AE].....[/] [#FAE6B7]#...#[/] [#F9E7C1]#....[/] [#F9E7CA]#..#.[/] [#F9E8D4]#...#[/] [#F8E8DF]#....[/] [#F8E9E9]....#[/]
+  [#FDE047].###.[/] [#FDE048]#...#[/] [#FDE04B].....[/] [#FDE04F]#...#[/] [#FDE153]..##.[/] [#FCE157].###.[/] [#FCE15D]..##.[/] [#FCE262]..#..[/] [#FCE268].....[/] [#FCE26F]#####[/] [#FCE375]#####[/] [#FBE37D]..#..[/] [#FBE384].....[/] [#FBE48C]####.[/] [#FBE494].....[/] [#FAE59C]####.[/] [#FAE5A5]#####[/] [#FAE6AE].....[/] [#FAE6B7]#...#[/] [#F9E7C1]#####[/] [#F9E7CA]#...#[/] [#F9E8D4].###.[/] [#F8E8DF]#####[/] [#F8E9E9]####.[/]
+  [#625656]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#EF4444]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                  OK K.O.! Let's Be Heroes                  [/]
+  [#EF4444]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: evangelion
+description: The biomechanical titan fighting Angels — and its own pilot.
+colors:
+  banner_border: '#7C3AED'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#5B5664'
+  banner_text: '#F0EAF8'
+  ui_accent: '#A3E635'
+  ui_label: '#22D3EE'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F0EAF8'
+  input_rule: '#7C3AED'
+  response_border: '#A3E635'
+  status_bar_bg: '#1F1B27'
+  status_bar_text: '#F0EAF8'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#5B5664'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1B27'
+  completion_menu_bg: '#0B0714'
+  completion_menu_current_bg: '#3C4E1F'
+  completion_menu_meta_bg: '#090611'
+  completion_menu_meta_current_bg: '#36451D'
+  session_label: '#22D3EE'
+  session_border: '#5B5664'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Neon Genesis Evangelion Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Neon Genesis Evangelion '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Neon Genesis Evangelion Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635]#...#[/] [#A4E637]#####[/] [#A5E63A].###.[/] [#A7E63F]#...#[/] [#A9E644].....[/] [#ABE64A].####[/] [#AEE751]#####[/] [#B1E758]#...#[/] [#B4E760]#####[/] [#B7E768].####[/] [#BBE771]#####[/] [#BEE77A].####[/] [#C2E884].....[/] [#C6E88E]#####[/] [#CAE898]#...#[/] [#CEE8A3].###.[/] [#D3E8AE]#...#[/] [#D7E9B9].####[/] [#DCE9C5]#####[/] [#E1E9D2]#....[/] [#E6E9DE]#####[/] [#EBEAEB].###.[/] [#F0EAF8]#...#[/]
+  [#A3E635]##..#[/] [#A4E637]#....[/] [#A5E63A]#...#[/] [#A7E63F]##..#[/] [#A9E644].....[/] [#ABE64A]#....[/] [#AEE751]#....[/] [#B1E758]##..#[/] [#B4E760]#....[/] [#B7E768]#....[/] [#BBE771]..#..[/] [#BEE77A]#....[/] [#C2E884].....[/] [#C6E88E]#....[/] [#CAE898]#...#[/] [#CEE8A3]#...#[/] [#D3E8AE]##..#[/] [#D7E9B9]#....[/] [#DCE9C5]#....[/] [#E1E9D2]#....[/] [#E6E9DE]..#..[/] [#EBEAEB]#...#[/] [#F0EAF8]##..#[/]
+  [#A3E635]#.#.#[/] [#A4E637]####.[/] [#A5E63A]#...#[/] [#A7E63F]#.#.#[/] [#A9E644].....[/] [#ABE64A]#..##[/] [#AEE751]####.[/] [#B1E758]#.#.#[/] [#B4E760]####.[/] [#B7E768].###.[/] [#BBE771]..#..[/] [#BEE77A].###.[/] [#C2E884].....[/] [#C6E88E]####.[/] [#CAE898]#...#[/] [#CEE8A3]#####[/] [#D3E8AE]#.#.#[/] [#D7E9B9]#..##[/] [#DCE9C5]####.[/] [#E1E9D2]#....[/] [#E6E9DE]..#..[/] [#EBEAEB]#...#[/] [#F0EAF8]#.#.#[/]
+  [#A3E635]#..##[/] [#A4E637]#....[/] [#A5E63A]#...#[/] [#A7E63F]#..##[/] [#A9E644].....[/] [#ABE64A]#...#[/] [#AEE751]#....[/] [#B1E758]#..##[/] [#B4E760]#....[/] [#B7E768]....#[/] [#BBE771]..#..[/] [#BEE77A]....#[/] [#C2E884].....[/] [#C6E88E]#....[/] [#CAE898].#.#.[/] [#CEE8A3]#...#[/] [#D3E8AE]#..##[/] [#D7E9B9]#...#[/] [#DCE9C5]#....[/] [#E1E9D2]#....[/] [#E6E9DE]..#..[/] [#EBEAEB]#...#[/] [#F0EAF8]#..##[/]
+  [#A3E635]#...#[/] [#A4E637]#####[/] [#A5E63A].###.[/] [#A7E63F]#...#[/] [#A9E644].....[/] [#ABE64A].####[/] [#AEE751]#####[/] [#B1E758]#...#[/] [#B4E760]#####[/] [#B7E768]####.[/] [#BBE771]#####[/] [#BEE77A]####.[/] [#C2E884].....[/] [#C6E88E]#####[/] [#CAE898]..#..[/] [#CEE8A3]#...#[/] [#D3E8AE]#...#[/] [#D7E9B9].####[/] [#DCE9C5]#####[/] [#E1E9D2]#####[/] [#E6E9DE]#####[/] [#EBEAEB].###.[/] [#F0EAF8]#...#[/]
+  [#5B5664]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#7C3AED]────────────────────────────────────────────────────────────[/]
+  [bold #A3E635]                  Neon Genesis Evangelion                   [/]
+  [#7C3AED]────────────────────────────────────────────────────────────[/]

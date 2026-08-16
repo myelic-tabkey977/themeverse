@@ -1,0 +1,90 @@
+name: batman-brave-bold
+description: Batman teaming up with heroes across the DC universe.
+colors:
+  banner_border: '#B45309'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#5D5852'
+  banner_text: '#F3EEE4'
+  ui_accent: '#FACC15'
+  ui_label: '#E5E7EB'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F3EEE4'
+  input_rule: '#B45309'
+  response_border: '#FACC15'
+  status_bar_bg: '#1F1C17'
+  status_bar_text: '#F3EEE4'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#5D5852'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1C17'
+  completion_menu_bg: '#0C0803'
+  completion_menu_current_bg: '#584709'
+  completion_menu_meta_bg: '#0A0703'
+  completion_menu_meta_current_bg: '#4F3F08'
+  session_label: '#E5E7EB'
+  session_border: '#5D5852'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Batman: The Brave and the Bold Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Batman: The Brave and the Bold '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Batman: The Brave and the Bold Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]####.[/] [#FACC16].###.[/] [#FACD19]#####[/] [#FACD1C]#...#[/] [#FACE20].###.[/] [#F9CE24]#...#[/] [#F9CF28].....[/] [#F9D02E].....[/] [#F9D133]#####[/] [#F9D239]#...#[/] [#F9D33F]#####[/] [#F8D445].....[/] [#F8D54C]####.[/] [#F8D653]####.[/] [#F8D75A].###.[/] [#F7D962]#...#[/] [#F7DA6A]#####[/] [#F7DB72].....[/] [#F7DD7A].###.[/] [#F6DE83]#...#[/] [#F6DF8C]####.[/] [#F6E195].....[/] [#F5E29E]#####[/] [#F5E4A7]#...#[/] [#F5E6B1]#####[/] [#F4E7BB].....[/] [#F4E9C5]####.[/] [#F4EBCF].###.[/] [#F3ECD9]#....[/] [#F3EEE4]####.[/]
+  [#FACC15]#...#[/] [#FACC16]#...#[/] [#FACD19]..#..[/] [#FACD1C]##.##[/] [#FACE20]#...#[/] [#F9CE24]##..#[/] [#F9CF28].....[/] [#F9D02E].....[/] [#F9D133]..#..[/] [#F9D239]#...#[/] [#F9D33F]#....[/] [#F8D445].....[/] [#F8D54C]#...#[/] [#F8D653]#...#[/] [#F8D75A]#...#[/] [#F7D962]#...#[/] [#F7DA6A]#....[/] [#F7DB72].....[/] [#F7DD7A]#...#[/] [#F6DE83]##..#[/] [#F6DF8C]#...#[/] [#F6E195].....[/] [#F5E29E]..#..[/] [#F5E4A7]#...#[/] [#F5E6B1]#....[/] [#F4E7BB].....[/] [#F4E9C5]#...#[/] [#F4EBCF]#...#[/] [#F3ECD9]#....[/] [#F3EEE4]#...#[/]
+  [#FACC15]####.[/] [#FACC16]#####[/] [#FACD19]..#..[/] [#FACD1C]#.#.#[/] [#FACE20]#####[/] [#F9CE24]#.#.#[/] [#F9CF28].....[/] [#F9D02E].....[/] [#F9D133]..#..[/] [#F9D239]#####[/] [#F9D33F]####.[/] [#F8D445].....[/] [#F8D54C]####.[/] [#F8D653]####.[/] [#F8D75A]#####[/] [#F7D962]#...#[/] [#F7DA6A]####.[/] [#F7DB72].....[/] [#F7DD7A]#####[/] [#F6DE83]#.#.#[/] [#F6DF8C]#...#[/] [#F6E195].....[/] [#F5E29E]..#..[/] [#F5E4A7]#####[/] [#F5E6B1]####.[/] [#F4E7BB].....[/] [#F4E9C5]####.[/] [#F4EBCF]#...#[/] [#F3ECD9]#....[/] [#F3EEE4]#...#[/]
+  [#FACC15]#...#[/] [#FACC16]#...#[/] [#FACD19]..#..[/] [#FACD1C]#...#[/] [#FACE20]#...#[/] [#F9CE24]#..##[/] [#F9CF28].....[/] [#F9D02E].....[/] [#F9D133]..#..[/] [#F9D239]#...#[/] [#F9D33F]#....[/] [#F8D445].....[/] [#F8D54C]#...#[/] [#F8D653]#..#.[/] [#F8D75A]#...#[/] [#F7D962].#.#.[/] [#F7DA6A]#....[/] [#F7DB72].....[/] [#F7DD7A]#...#[/] [#F6DE83]#..##[/] [#F6DF8C]#...#[/] [#F6E195].....[/] [#F5E29E]..#..[/] [#F5E4A7]#...#[/] [#F5E6B1]#....[/] [#F4E7BB].....[/] [#F4E9C5]#...#[/] [#F4EBCF]#...#[/] [#F3ECD9]#....[/] [#F3EEE4]#...#[/]
+  [#FACC15]####.[/] [#FACC16]#...#[/] [#FACD19]..#..[/] [#FACD1C]#...#[/] [#FACE20]#...#[/] [#F9CE24]#...#[/] [#F9CF28].....[/] [#F9D02E].....[/] [#F9D133]..#..[/] [#F9D239]#...#[/] [#F9D33F]#####[/] [#F8D445].....[/] [#F8D54C]####.[/] [#F8D653]#...#[/] [#F8D75A]#...#[/] [#F7D962]..#..[/] [#F7DA6A]#####[/] [#F7DB72].....[/] [#F7DD7A]#...#[/] [#F6DE83]#...#[/] [#F6DF8C]####.[/] [#F6E195].....[/] [#F5E29E]..#..[/] [#F5E4A7]#...#[/] [#F5E6B1]#####[/] [#F4E7BB].....[/] [#F4E9C5]####.[/] [#F4EBCF].###.[/] [#F3ECD9]#####[/] [#F3EEE4]####.[/]
+  [#5D5852]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#B45309]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]               Batman: The Brave and the Bold               [/]
+  [#B45309]────────────────────────────────────────────────────────────[/]

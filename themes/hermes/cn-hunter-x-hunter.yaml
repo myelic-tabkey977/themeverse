@@ -1,0 +1,90 @@
+name: cn-hunter-x-hunter
+description: Gon and Killua take the Hunter Exam and master Nen.
+colors:
+  banner_border: '#22C55E'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#546059'
+  banner_text: '#E8F6EC'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8F6EC'
+  input_rule: '#22C55E'
+  response_border: '#FDE047'
+  status_bar_bg: '#19231E'
+  status_bar_text: '#E8F6EC'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#546059'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#19231E'
+  completion_menu_bg: '#05100A'
+  completion_menu_current_bg: '#54531E'
+  completion_menu_meta_bg: '#040E08'
+  completion_menu_meta_current_bg: '#4A4A1B'
+  session_label: '#38BDF8'
+  session_border: '#546059'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Hunter x Hunter Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Hunter x Hunter '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Hunter x Hunter Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE04A]#...#[/] [#FCE150]#...#[/] [#FBE257]#####[/] [#FAE360]#####[/] [#F9E56A]####.[/] [#F7E675].....[/] [#F6E881]#...#[/] [#F4EA8E].....[/] [#F2EB9C]#...#[/] [#F0EDAB]#...#[/] [#EEEFBA]#...#[/] [#ECF1CA]#####[/] [#EAF4DB]#####[/] [#E8F6EC]####.[/]
+  [#FDE047]#...#[/] [#FDE04A]#...#[/] [#FCE150]##..#[/] [#FBE257]..#..[/] [#FAE360]#....[/] [#F9E56A]#...#[/] [#F7E675].....[/] [#F6E881].#.#.[/] [#F4EA8E].....[/] [#F2EB9C]#...#[/] [#F0EDAB]#...#[/] [#EEEFBA]##..#[/] [#ECF1CA]..#..[/] [#EAF4DB]#....[/] [#E8F6EC]#...#[/]
+  [#FDE047]#####[/] [#FDE04A]#...#[/] [#FCE150]#.#.#[/] [#FBE257]..#..[/] [#FAE360]####.[/] [#F9E56A]####.[/] [#F7E675].....[/] [#F6E881]..#..[/] [#F4EA8E].....[/] [#F2EB9C]#####[/] [#F0EDAB]#...#[/] [#EEEFBA]#.#.#[/] [#ECF1CA]..#..[/] [#EAF4DB]####.[/] [#E8F6EC]####.[/]
+  [#FDE047]#...#[/] [#FDE04A]#...#[/] [#FCE150]#..##[/] [#FBE257]..#..[/] [#FAE360]#....[/] [#F9E56A]#..#.[/] [#F7E675].....[/] [#F6E881].#.#.[/] [#F4EA8E].....[/] [#F2EB9C]#...#[/] [#F0EDAB]#...#[/] [#EEEFBA]#..##[/] [#ECF1CA]..#..[/] [#EAF4DB]#....[/] [#E8F6EC]#..#.[/]
+  [#FDE047]#...#[/] [#FDE04A].###.[/] [#FCE150]#...#[/] [#FBE257]..#..[/] [#FAE360]#####[/] [#F9E56A]#...#[/] [#F7E675].....[/] [#F6E881]#...#[/] [#F4EA8E].....[/] [#F2EB9C]#...#[/] [#F0EDAB].###.[/] [#EEEFBA]#...#[/] [#ECF1CA]..#..[/] [#EAF4DB]#####[/] [#E8F6EC]#...#[/]
+  [#546059]─────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#22C55E]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                      Hunter x Hunter                       [/]
+  [#22C55E]────────────────────────────────────────────────────────────[/]

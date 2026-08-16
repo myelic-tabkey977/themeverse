@@ -1,0 +1,23 @@
+{
+  "name": "Victor and Valentino",
+  "background": "#0F0814",
+  "foreground": "#F3EDF8",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#86742E",
+  "black": "#08040A",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FB923C",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F4EEF8",
+  "brightBlack": "#6A646F",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FCAD6D",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F3EDF8"
+}

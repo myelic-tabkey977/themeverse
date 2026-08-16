@@ -1,0 +1,23 @@
+{
+  "name": "Star Wars: The Clone Wars",
+  "background": "#050A14",
+  "foreground": "#E3EBF7",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#81752E",
+  "black": "#02050A",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#93C5FD",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E4ECF7",
+  "brightBlack": "#5E646F",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#AED4FE",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E3EBF7"
+}

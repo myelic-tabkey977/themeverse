@@ -1,0 +1,90 @@
+name: cn-jojo-bizarre-adventure
+description: Generations of Joestars and their Stands.
+colors:
+  banner_border: '#A855F7'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5D5764'
+  banner_text: '#F2ECF8'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F2ECF8'
+  input_rule: '#A855F7'
+  response_border: '#FDE047'
+  status_bar_bg: '#201B27'
+  status_bar_text: '#F2ECF8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5D5764'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201B27'
+  completion_menu_bg: '#0D0714'
+  completion_menu_current_bg: '#5A4C24'
+  completion_menu_meta_bg: '#0B0611'
+  completion_menu_meta_current_bg: '#504422'
+  session_label: '#FACC15'
+  session_border: '#5D5764'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: JoJo's Bizarre Adventure Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ JoJo''s Bizarre Adventure '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) JoJo's Bizarre Adventure Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]..###[/] [#FDE049].###.[/] [#FDE04C]..###[/] [#FCE14F].###.[/] [#FCE154]..#..[/] [#FCE159].####[/] [#FCE25F].....[/] [#FBE265]####.[/] [#FBE26B]#####[/] [#FAE372]#####[/] [#FAE37A].###.[/] [#F9E482]####.[/] [#F9E58A]####.[/] [#F8E592]#####[/] [#F8E69B].....[/] [#F7E6A4].###.[/] [#F7E7AE]####.[/] [#F6E8B7]#...#[/] [#F5E8C2]#####[/] [#F5E9CC]#...#[/] [#F4EAD7]#####[/] [#F3EAE1]#...#[/] [#F3EBED]####.[/] [#F2ECF8]#####[/]
+  [#FDE047]...#.[/] [#FDE049]#...#[/] [#FDE04C]...#.[/] [#FCE14F]#...#[/] [#FCE154]..#..[/] [#FCE159]#....[/] [#FCE25F].....[/] [#FBE265]#...#[/] [#FBE26B]..#..[/] [#FAE372]...#.[/] [#FAE37A]#...#[/] [#F9E482]#...#[/] [#F9E58A]#...#[/] [#F8E592]#....[/] [#F8E69B].....[/] [#F7E6A4]#...#[/] [#F7E7AE]#...#[/] [#F6E8B7]#...#[/] [#F5E8C2]#....[/] [#F5E9CC]##..#[/] [#F4EAD7]..#..[/] [#F3EAE1]#...#[/] [#F3EBED]#...#[/] [#F2ECF8]#....[/]
+  [#FDE047]...#.[/] [#FDE049]#...#[/] [#FDE04C]...#.[/] [#FCE14F]#...#[/] [#FCE154].....[/] [#FCE159].###.[/] [#FCE25F].....[/] [#FBE265]####.[/] [#FBE26B]..#..[/] [#FAE372]..#..[/] [#FAE37A]#####[/] [#F9E482]####.[/] [#F9E58A]####.[/] [#F8E592]####.[/] [#F8E69B].....[/] [#F7E6A4]#####[/] [#F7E7AE]#...#[/] [#F6E8B7]#...#[/] [#F5E8C2]####.[/] [#F5E9CC]#.#.#[/] [#F4EAD7]..#..[/] [#F3EAE1]#...#[/] [#F3EBED]####.[/] [#F2ECF8]####.[/]
+  [#FDE047]#..#.[/] [#FDE049]#...#[/] [#FDE04C]#..#.[/] [#FCE14F]#...#[/] [#FCE154].....[/] [#FCE159]....#[/] [#FCE25F].....[/] [#FBE265]#...#[/] [#FBE26B]..#..[/] [#FAE372].#...[/] [#FAE37A]#...#[/] [#F9E482]#..#.[/] [#F9E58A]#..#.[/] [#F8E592]#....[/] [#F8E69B].....[/] [#F7E6A4]#...#[/] [#F7E7AE]#...#[/] [#F6E8B7].#.#.[/] [#F5E8C2]#....[/] [#F5E9CC]#..##[/] [#F4EAD7]..#..[/] [#F3EAE1]#...#[/] [#F3EBED]#..#.[/] [#F2ECF8]#....[/]
+  [#FDE047].##..[/] [#FDE049].###.[/] [#FDE04C].##..[/] [#FCE14F].###.[/] [#FCE154].....[/] [#FCE159]####.[/] [#FCE25F].....[/] [#FBE265]####.[/] [#FBE26B]#####[/] [#FAE372]#####[/] [#FAE37A]#...#[/] [#F9E482]#...#[/] [#F9E58A]#...#[/] [#F8E592]#####[/] [#F8E69B].....[/] [#F7E6A4]#...#[/] [#F7E7AE]####.[/] [#F6E8B7]..#..[/] [#F5E8C2]#####[/] [#F5E9CC]#...#[/] [#F4EAD7]..#..[/] [#F3EAE1].###.[/] [#F3EBED]#...#[/] [#F2ECF8]#####[/]
+  [#5D5764]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#A855F7]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                  JoJo's Bizarre Adventure                  [/]
+  [#A855F7]────────────────────────────────────────────────────────────[/]

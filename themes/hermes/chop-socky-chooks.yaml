@@ -1,0 +1,90 @@
+name: chop-socky-chooks
+description: Three kung-fu chickens defending their fish-and-chip shop.
+colors:
+  banner_border: '#EF4444'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#635555'
+  banner_text: '#F9E9E9'
+  ui_accent: '#FACC15'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9E9E9'
+  input_rule: '#EF4444'
+  response_border: '#FACC15'
+  status_bar_bg: '#251A1A'
+  status_bar_text: '#F9E9E9'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#635555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251A1A'
+  completion_menu_bg: '#120606'
+  completion_menu_current_bg: '#5C450B'
+  completion_menu_meta_bg: '#0F0505'
+  completion_menu_meta_current_bg: '#533D0A'
+  session_label: '#F8FAFC'
+  session_border: '#635555'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Chop Socky Chooks Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Chop Socky Chooks '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Chop Socky Chooks Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15].####[/] [#FACC18]#...#[/] [#FACD1E].###.[/] [#FACE26]####.[/] [#FAD030].....[/] [#FAD13A].####[/] [#FAD346].###.[/] [#FAD452].####[/] [#FAD660]#...#[/] [#FAD86E]#...#[/] [#FADA7E].....[/] [#F9DD8E].####[/] [#F9DF9F]#...#[/] [#F9E1B0].###.[/] [#F9E4C3].###.[/] [#F9E6D5]#...#[/] [#F9E9E9].####[/]
+  [#FACC15]#....[/] [#FACC18]#...#[/] [#FACD1E]#...#[/] [#FACE26]#...#[/] [#FAD030].....[/] [#FAD13A]#....[/] [#FAD346]#...#[/] [#FAD452]#....[/] [#FAD660]#..#.[/] [#FAD86E].#.#.[/] [#FADA7E].....[/] [#F9DD8E]#....[/] [#F9DF9F]#...#[/] [#F9E1B0]#...#[/] [#F9E4C3]#...#[/] [#F9E6D5]#..#.[/] [#F9E9E9]#....[/]
+  [#FACC15]#....[/] [#FACC18]#####[/] [#FACD1E]#...#[/] [#FACE26]####.[/] [#FAD030].....[/] [#FAD13A].###.[/] [#FAD346]#...#[/] [#FAD452]#....[/] [#FAD660]###..[/] [#FAD86E]..#..[/] [#FADA7E].....[/] [#F9DD8E]#....[/] [#F9DF9F]#####[/] [#F9E1B0]#...#[/] [#F9E4C3]#...#[/] [#F9E6D5]###..[/] [#F9E9E9].###.[/]
+  [#FACC15]#....[/] [#FACC18]#...#[/] [#FACD1E]#...#[/] [#FACE26]#....[/] [#FAD030].....[/] [#FAD13A]....#[/] [#FAD346]#...#[/] [#FAD452]#....[/] [#FAD660]#..#.[/] [#FAD86E]..#..[/] [#FADA7E].....[/] [#F9DD8E]#....[/] [#F9DF9F]#...#[/] [#F9E1B0]#...#[/] [#F9E4C3]#...#[/] [#F9E6D5]#..#.[/] [#F9E9E9]....#[/]
+  [#FACC15].####[/] [#FACC18]#...#[/] [#FACD1E].###.[/] [#FACE26]#....[/] [#FAD030].....[/] [#FAD13A]####.[/] [#FAD346].###.[/] [#FAD452].####[/] [#FAD660]#...#[/] [#FAD86E]..#..[/] [#FADA7E].....[/] [#F9DD8E].####[/] [#F9DF9F]#...#[/] [#F9E1B0].###.[/] [#F9E4C3].###.[/] [#F9E6D5]#...#[/] [#F9E9E9]####.[/]
+  [#635555]─────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#EF4444]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]                     Chop Socky Chooks                      [/]
+  [#EF4444]────────────────────────────────────────────────────────────[/]

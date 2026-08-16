@@ -1,0 +1,90 @@
+name: scooby-doo-mystery-incorporated
+description: The darker serialized Mystery Inc. mystery.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#545C65'
+  banner_text: '#E6EEF7'
+  ui_accent: '#FDE047'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6EEF7'
+  input_rule: '#3B82F6'
+  response_border: '#FDE047'
+  status_bar_bg: '#1A2029'
+  status_bar_text: '#E6EEF7'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#545C65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A2029'
+  completion_menu_bg: '#060D16'
+  completion_menu_current_bg: '#555126'
+  completion_menu_meta_bg: '#050B13'
+  completion_menu_meta_current_bg: '#4B4824'
+  session_label: '#F59E0B'
+  session_border: '#545C65'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Scooby-Doo! Mystery Incorporated Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Scooby-Doo! Mystery Incorporated '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Scooby-Doo! Mystery Incorporated Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE048].####[/] [#FDE04A].###.[/] [#FCE04C].###.[/] [#FCE14F]####.[/] [#FCE152]#...#[/] [#FBE156].....[/] [#FBE25A]####.[/] [#FAE25E].###.[/] [#F9E263].###.[/] [#F9E367]..#..[/] [#F8E36C].....[/] [#F7E371]#...#[/] [#F7E477]#...#[/] [#F6E47C].####[/] [#F5E582]#####[/] [#F4E588]#####[/] [#F4E68E]####.[/] [#F3E695]#...#[/] [#F2E79B].....[/] [#F1E7A2]#####[/] [#F0E8A9]#...#[/] [#EFE8B0].####[/] [#EEE9B7].###.[/] [#EDEABF]####.[/] [#ECEAC6]####.[/] [#EBEBCE].###.[/] [#EAEBD6]####.[/] [#E9ECDE].###.[/] [#E8EDE6]#####[/] [#E7EDEF]#####[/] [#E6EEF7]####.[/]
+  [#FDE047]#....[/] [#FDE048]#....[/] [#FDE04A]#...#[/] [#FCE04C]#...#[/] [#FCE14F]#...#[/] [#FCE152].#.#.[/] [#FBE156].....[/] [#FBE25A]#...#[/] [#FAE25E]#...#[/] [#F9E263]#...#[/] [#F9E367]..#..[/] [#F8E36C].....[/] [#F7E371]##.##[/] [#F7E477].#.#.[/] [#F6E47C]#....[/] [#F5E582]..#..[/] [#F4E588]#....[/] [#F4E68E]#...#[/] [#F3E695].#.#.[/] [#F2E79B].....[/] [#F1E7A2]..#..[/] [#F0E8A9]##..#[/] [#EFE8B0]#....[/] [#EEE9B7]#...#[/] [#EDEABF]#...#[/] [#ECEAC6]#...#[/] [#EBEBCE]#...#[/] [#EAEBD6]#...#[/] [#E9ECDE]#...#[/] [#E8EDE6]..#..[/] [#E7EDEF]#....[/] [#E6EEF7]#...#[/]
+  [#FDE047].###.[/] [#FDE048]#....[/] [#FDE04A]#...#[/] [#FCE04C]#...#[/] [#FCE14F]####.[/] [#FCE152]..#..[/] [#FBE156]#####[/] [#FBE25A]#...#[/] [#FAE25E]#...#[/] [#F9E263]#...#[/] [#F9E367]..#..[/] [#F8E36C].....[/] [#F7E371]#.#.#[/] [#F7E477]..#..[/] [#F6E47C].###.[/] [#F5E582]..#..[/] [#F4E588]####.[/] [#F4E68E]####.[/] [#F3E695]..#..[/] [#F2E79B].....[/] [#F1E7A2]..#..[/] [#F0E8A9]#.#.#[/] [#EFE8B0]#....[/] [#EEE9B7]#...#[/] [#EDEABF]####.[/] [#ECEAC6]####.[/] [#EBEBCE]#...#[/] [#EAEBD6]####.[/] [#E9ECDE]#####[/] [#E8EDE6]..#..[/] [#E7EDEF]####.[/] [#E6EEF7]#...#[/]
+  [#FDE047]....#[/] [#FDE048]#....[/] [#FDE04A]#...#[/] [#FCE04C]#...#[/] [#FCE14F]#...#[/] [#FCE152]..#..[/] [#FBE156].....[/] [#FBE25A]#...#[/] [#FAE25E]#...#[/] [#F9E263]#...#[/] [#F9E367].....[/] [#F8E36C].....[/] [#F7E371]#...#[/] [#F7E477]..#..[/] [#F6E47C]....#[/] [#F5E582]..#..[/] [#F4E588]#....[/] [#F4E68E]#..#.[/] [#F3E695]..#..[/] [#F2E79B].....[/] [#F1E7A2]..#..[/] [#F0E8A9]#..##[/] [#EFE8B0]#....[/] [#EEE9B7]#...#[/] [#EDEABF]#..#.[/] [#ECEAC6]#....[/] [#EBEBCE]#...#[/] [#EAEBD6]#..#.[/] [#E9ECDE]#...#[/] [#E8EDE6]..#..[/] [#E7EDEF]#....[/] [#E6EEF7]#...#[/]
+  [#FDE047]####.[/] [#FDE048].####[/] [#FDE04A].###.[/] [#FCE04C].###.[/] [#FCE14F]####.[/] [#FCE152]..#..[/] [#FBE156].....[/] [#FBE25A]####.[/] [#FAE25E].###.[/] [#F9E263].###.[/] [#F9E367]..#..[/] [#F8E36C].....[/] [#F7E371]#...#[/] [#F7E477]..#..[/] [#F6E47C]####.[/] [#F5E582]..#..[/] [#F4E588]#####[/] [#F4E68E]#...#[/] [#F3E695]..#..[/] [#F2E79B].....[/] [#F1E7A2]#####[/] [#F0E8A9]#...#[/] [#EFE8B0].####[/] [#EEE9B7].###.[/] [#EDEABF]#...#[/] [#ECEAC6]#....[/] [#EBEBCE].###.[/] [#EAEBD6]#...#[/] [#E9ECDE]#...#[/] [#E8EDE6]..#..[/] [#E7EDEF]#####[/] [#E6EEF7]####.[/]
+  [#545C65]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#3B82F6]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]              Scooby-Doo! Mystery Incorporated              [/]
+  [#3B82F6]────────────────────────────────────────────────────────────[/]

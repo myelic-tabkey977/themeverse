@@ -1,0 +1,23 @@
+{
+  "name": "Generator Rex",
+  "background": "#04120B",
+  "foreground": "#DDF5EA",
+  "cursorColor": "#22D3EE",
+  "selectionBackground": "#13727C",
+  "black": "#020906",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#A7F3D0",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#DFF6EB",
+  "brightBlack": "#5B6D64",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#BDF6DC",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#DDF5EA"
+}

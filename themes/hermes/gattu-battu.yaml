@@ -1,0 +1,90 @@
+name: gattu-battu
+description: A boy and his faithful dog on everyday adventures.
+colors:
+  banner_border: '#F87171'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625656'
+  banner_text: '#F9EBEB'
+  ui_accent: '#FDE047'
+  ui_label: '#60A5FA'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9EBEB'
+  input_rule: '#F87171'
+  response_border: '#FDE047'
+  status_bar_bg: '#241A1A'
+  status_bar_text: '#F9EBEB'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625656'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#241A1A'
+  completion_menu_bg: '#110606'
+  completion_menu_current_bg: '#5D4C1B'
+  completion_menu_meta_bg: '#0E0505'
+  completion_menu_meta_current_bg: '#534318'
+  session_label: '#60A5FA'
+  session_border: '#625656'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Gattu Battu Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Gattu Battu '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Gattu Battu Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE04C].###.[/] [#FDE156]#####[/] [#FCE262]#####[/] [#FCE370]#...#[/] [#FCE481].....[/] [#FBE593]####.[/] [#FBE6A7].###.[/] [#FAE8BC]#####[/] [#FAE9D3]#####[/] [#F9EBEB]#...#[/]
+  [#FDE047]#....[/] [#FDE04C]#...#[/] [#FDE156]..#..[/] [#FCE262]..#..[/] [#FCE370]#...#[/] [#FCE481].....[/] [#FBE593]#...#[/] [#FBE6A7]#...#[/] [#FAE8BC]..#..[/] [#FAE9D3]..#..[/] [#F9EBEB]#...#[/]
+  [#FDE047]#..##[/] [#FDE04C]#####[/] [#FDE156]..#..[/] [#FCE262]..#..[/] [#FCE370]#...#[/] [#FCE481].....[/] [#FBE593]####.[/] [#FBE6A7]#####[/] [#FAE8BC]..#..[/] [#FAE9D3]..#..[/] [#F9EBEB]#...#[/]
+  [#FDE047]#...#[/] [#FDE04C]#...#[/] [#FDE156]..#..[/] [#FCE262]..#..[/] [#FCE370]#...#[/] [#FCE481].....[/] [#FBE593]#...#[/] [#FBE6A7]#...#[/] [#FAE8BC]..#..[/] [#FAE9D3]..#..[/] [#F9EBEB]#...#[/]
+  [#FDE047].####[/] [#FDE04C]#...#[/] [#FDE156]..#..[/] [#FCE262]..#..[/] [#FCE370].###.[/] [#FCE481].....[/] [#FBE593]####.[/] [#FBE6A7]#...#[/] [#FAE8BC]..#..[/] [#FAE9D3]..#..[/] [#F9EBEB].###.[/]
+  [#625656]─────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F87171]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                        Gattu Battu                         [/]
+  [#F87171]────────────────────────────────────────────────────────────[/]

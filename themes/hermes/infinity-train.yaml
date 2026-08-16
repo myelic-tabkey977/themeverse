@@ -1,0 +1,90 @@
+name: infinity-train
+description: Passengers ride an endless train solving their personal issues.
+colors:
+  banner_border: '#FB923C'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#615B54'
+  banner_text: '#F7EFE5'
+  ui_accent: '#FDE047'
+  ui_label: '#A855F7'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7EFE5'
+  input_rule: '#FB923C'
+  response_border: '#FDE047'
+  status_bar_bg: '#231F1A'
+  status_bar_text: '#F7EFE5'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#615B54'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#231F1A'
+  completion_menu_bg: '#100B06'
+  completion_menu_current_bg: '#5C4F1B'
+  completion_menu_meta_bg: '#0E0905'
+  completion_menu_meta_current_bg: '#524718'
+  session_label: '#A855F7'
+  session_border: '#615B54'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Infinity Train Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Infinity Train '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Infinity Train Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FDE04A]#...#[/] [#FDE151]#####[/] [#FCE259]#####[/] [#FCE362]#...#[/] [#FCE46D]#####[/] [#FBE579]#####[/] [#FBE685]#...#[/] [#FAE793].....[/] [#FAE9A2]#####[/] [#F9EAB2]####.[/] [#F8ECC2].###.[/] [#F8EDD3]#####[/] [#F7EFE5]#...#[/]
+  [#FDE047]..#..[/] [#FDE04A]##..#[/] [#FDE151]#....[/] [#FCE259]..#..[/] [#FCE362]##..#[/] [#FCE46D]..#..[/] [#FBE579]..#..[/] [#FBE685].#.#.[/] [#FAE793].....[/] [#FAE9A2]..#..[/] [#F9EAB2]#...#[/] [#F8ECC2]#...#[/] [#F8EDD3]..#..[/] [#F7EFE5]##..#[/]
+  [#FDE047]..#..[/] [#FDE04A]#.#.#[/] [#FDE151]####.[/] [#FCE259]..#..[/] [#FCE362]#.#.#[/] [#FCE46D]..#..[/] [#FBE579]..#..[/] [#FBE685]..#..[/] [#FAE793].....[/] [#FAE9A2]..#..[/] [#F9EAB2]####.[/] [#F8ECC2]#####[/] [#F8EDD3]..#..[/] [#F7EFE5]#.#.#[/]
+  [#FDE047]..#..[/] [#FDE04A]#..##[/] [#FDE151]#....[/] [#FCE259]..#..[/] [#FCE362]#..##[/] [#FCE46D]..#..[/] [#FBE579]..#..[/] [#FBE685]..#..[/] [#FAE793].....[/] [#FAE9A2]..#..[/] [#F9EAB2]#..#.[/] [#F8ECC2]#...#[/] [#F8EDD3]..#..[/] [#F7EFE5]#..##[/]
+  [#FDE047]#####[/] [#FDE04A]#...#[/] [#FDE151]#....[/] [#FCE259]#####[/] [#FCE362]#...#[/] [#FCE46D]#####[/] [#FBE579]..#..[/] [#FBE685]..#..[/] [#FAE793].....[/] [#FAE9A2]..#..[/] [#F9EAB2]#...#[/] [#F8ECC2]#...#[/] [#F8EDD3]#####[/] [#F7EFE5]#...#[/]
+  [#615B54]───────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#FB923C]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                       Infinity Train                       [/]
+  [#FB923C]────────────────────────────────────────────────────────────[/]

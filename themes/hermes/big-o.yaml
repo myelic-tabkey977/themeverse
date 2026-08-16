@@ -1,0 +1,90 @@
+name: big-o
+description: Roger Smith and the giant robot Big O in Paradigm City.
+colors:
+  banner_border: '#6B7280'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5A5B5D'
+  banner_text: '#ECEEF1'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#ECEEF1'
+  input_rule: '#6B7280'
+  response_border: '#FDE047'
+  status_bar_bg: '#1F1F21'
+  status_bar_text: '#ECEEF1'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5A5B5D'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1F21'
+  completion_menu_bg: '#0B0C0E'
+  completion_menu_current_bg: '#585020'
+  completion_menu_meta_bg: '#090A0C'
+  completion_menu_meta_current_bg: '#4F471E'
+  session_label: '#FACC15'
+  session_border: '#5A5B5D'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: The Big O Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ The Big O '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) The Big O Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#####[/] [#FCE14F]#...#[/] [#FBE25C]#####[/] [#F9E36E].....[/] [#F7E583]####.[/] [#F5E79B]#####[/] [#F2E9B5].####[/] [#EFEBD2].....[/] [#ECEEF1].###.[/]
+  [#FDE047]..#..[/] [#FCE14F]#...#[/] [#FBE25C]#....[/] [#F9E36E].....[/] [#F7E583]#...#[/] [#F5E79B]..#..[/] [#F2E9B5]#....[/] [#EFEBD2].....[/] [#ECEEF1]#...#[/]
+  [#FDE047]..#..[/] [#FCE14F]#####[/] [#FBE25C]####.[/] [#F9E36E].....[/] [#F7E583]####.[/] [#F5E79B]..#..[/] [#F2E9B5]#..##[/] [#EFEBD2].....[/] [#ECEEF1]#...#[/]
+  [#FDE047]..#..[/] [#FCE14F]#...#[/] [#FBE25C]#....[/] [#F9E36E].....[/] [#F7E583]#...#[/] [#F5E79B]..#..[/] [#F2E9B5]#...#[/] [#EFEBD2].....[/] [#ECEEF1]#...#[/]
+  [#FDE047]..#..[/] [#FCE14F]#...#[/] [#FBE25C]#####[/] [#F9E36E].....[/] [#F7E583]####.[/] [#F5E79B]#####[/] [#F2E9B5].####[/] [#EFEBD2].....[/] [#ECEEF1].###.[/]
+  [#5A5B5D]─────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#6B7280]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                         The Big O                          [/]
+  [#6B7280]────────────────────────────────────────────────────────────[/]

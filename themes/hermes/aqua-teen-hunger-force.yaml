@@ -1,0 +1,90 @@
+name: aqua-teen-hunger-force
+description: Master Shake, Frylock and Meatwad's bizarre suburban life.
+colors:
+  banner_border: '#4ADE80'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#576258'
+  banner_text: '#E9F6EC'
+  ui_accent: '#FDE047'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F6EC'
+  input_rule: '#4ADE80'
+  response_border: '#FDE047'
+  status_bar_bg: '#1C251D'
+  status_bar_text: '#E9F6EC'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#576258'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1C251D'
+  completion_menu_bg: '#081209'
+  completion_menu_current_bg: '#56541D'
+  completion_menu_meta_bg: '#070F08'
+  completion_menu_meta_current_bg: '#4D4C1A'
+  session_label: '#38BDF8'
+  session_border: '#576258'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Aqua Teen Hunger Force Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Aqua Teen Hunger Force '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Aqua Teen Hunger Force Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].###.[/] [#FDE049].###.[/] [#FCE14C]#...#[/] [#FCE150].###.[/] [#FBE255].....[/] [#FBE35A]#####[/] [#FAE360]#####[/] [#F9E467]#####[/] [#F8E56E]#...#[/] [#F7E675].....[/] [#F6E77D]#...#[/] [#F5E886]#...#[/] [#F4EA8E]#...#[/] [#F3EB97].####[/] [#F2ECA1]#####[/] [#F1EDAB]####.[/] [#F0EFB5].....[/] [#EEF0BF]#####[/] [#EDF1CA].###.[/] [#ECF3D5]####.[/] [#EAF4E0].####[/] [#E9F6EC]#####[/]
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FCE14C]#...#[/] [#FCE150]#...#[/] [#FBE255].....[/] [#FBE35A]..#..[/] [#FAE360]#....[/] [#F9E467]#....[/] [#F8E56E]##..#[/] [#F7E675].....[/] [#F6E77D]#...#[/] [#F5E886]#...#[/] [#F4EA8E]##..#[/] [#F3EB97]#....[/] [#F2ECA1]#....[/] [#F1EDAB]#...#[/] [#F0EFB5].....[/] [#EEF0BF]#....[/] [#EDF1CA]#...#[/] [#ECF3D5]#...#[/] [#EAF4E0]#....[/] [#E9F6EC]#....[/]
+  [#FDE047]#####[/] [#FDE049]#.#.#[/] [#FCE14C]#...#[/] [#FCE150]#####[/] [#FBE255].....[/] [#FBE35A]..#..[/] [#FAE360]####.[/] [#F9E467]####.[/] [#F8E56E]#.#.#[/] [#F7E675].....[/] [#F6E77D]#####[/] [#F5E886]#...#[/] [#F4EA8E]#.#.#[/] [#F3EB97]#..##[/] [#F2ECA1]####.[/] [#F1EDAB]####.[/] [#F0EFB5].....[/] [#EEF0BF]####.[/] [#EDF1CA]#...#[/] [#ECF3D5]####.[/] [#EAF4E0]#....[/] [#E9F6EC]####.[/]
+  [#FDE047]#...#[/] [#FDE049]#..##[/] [#FCE14C]#...#[/] [#FCE150]#...#[/] [#FBE255].....[/] [#FBE35A]..#..[/] [#FAE360]#....[/] [#F9E467]#....[/] [#F8E56E]#..##[/] [#F7E675].....[/] [#F6E77D]#...#[/] [#F5E886]#...#[/] [#F4EA8E]#..##[/] [#F3EB97]#...#[/] [#F2ECA1]#....[/] [#F1EDAB]#..#.[/] [#F0EFB5].....[/] [#EEF0BF]#....[/] [#EDF1CA]#...#[/] [#ECF3D5]#..#.[/] [#EAF4E0]#....[/] [#E9F6EC]#....[/]
+  [#FDE047]#...#[/] [#FDE049].##.#[/] [#FCE14C].###.[/] [#FCE150]#...#[/] [#FBE255].....[/] [#FBE35A]..#..[/] [#FAE360]#####[/] [#F9E467]#####[/] [#F8E56E]#...#[/] [#F7E675].....[/] [#F6E77D]#...#[/] [#F5E886].###.[/] [#F4EA8E]#...#[/] [#F3EB97].####[/] [#F2ECA1]#####[/] [#F1EDAB]#...#[/] [#F0EFB5].....[/] [#EEF0BF]#....[/] [#EDF1CA].###.[/] [#ECF3D5]#...#[/] [#EAF4E0].####[/] [#E9F6EC]#####[/]
+  [#576258]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#4ADE80]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                   Aqua Teen Hunger Force                   [/]
+  [#4ADE80]────────────────────────────────────────────────────────────[/]

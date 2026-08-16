@@ -1,0 +1,23 @@
+{
+  "name": "Out of Jimmy's Head",
+  "background": "#081409",
+  "foreground": "#E9F7EB",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#827A28",
+  "black": "#040A04",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#22D3EE",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#EAF7EC",
+  "brightBlack": "#626F63",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#59DEF2",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E9F7EB"
+}

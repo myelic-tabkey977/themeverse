@@ -1,0 +1,90 @@
+name: code-geass
+description: The masked prince who will tear down an empire.
+colors:
+  banner_border: '#7C3AED'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#5C5766'
+  banner_text: '#F2ECFA'
+  ui_accent: '#FACC15'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F2ECFA'
+  input_rule: '#7C3AED'
+  response_border: '#FACC15'
+  status_bar_bg: '#1F1B29'
+  status_bar_text: '#F2ECFA'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#5C5766'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1F1B29'
+  completion_menu_bg: '#0C0716'
+  completion_menu_current_bg: '#584616'
+  completion_menu_meta_bg: '#0A0613'
+  completion_menu_meta_current_bg: '#4F3E16'
+  session_label: '#F8FAFC'
+  session_border: '#5C5766'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Code Geass Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Code Geass '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Code Geass Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15].####[/] [#FACD1D].###.[/] [#F9CF2D]####.[/] [#F8D241]#####[/] [#F8D559].....[/] [#F7D974].####[/] [#F6DD92]#####[/] [#F5E2B2].###.[/] [#F3E7D5].####[/] [#F2ECFA].####[/]
+  [#FACC15]#....[/] [#FACD1D]#...#[/] [#F9CF2D]#...#[/] [#F8D241]#....[/] [#F8D559].....[/] [#F7D974]#....[/] [#F6DD92]#....[/] [#F5E2B2]#...#[/] [#F3E7D5]#....[/] [#F2ECFA]#....[/]
+  [#FACC15]#....[/] [#FACD1D]#...#[/] [#F9CF2D]#...#[/] [#F8D241]####.[/] [#F8D559].....[/] [#F7D974]#..##[/] [#F6DD92]####.[/] [#F5E2B2]#####[/] [#F3E7D5].###.[/] [#F2ECFA].###.[/]
+  [#FACC15]#....[/] [#FACD1D]#...#[/] [#F9CF2D]#...#[/] [#F8D241]#....[/] [#F8D559].....[/] [#F7D974]#...#[/] [#F6DD92]#....[/] [#F5E2B2]#...#[/] [#F3E7D5]....#[/] [#F2ECFA]....#[/]
+  [#FACC15].####[/] [#FACD1D].###.[/] [#F9CF2D]####.[/] [#F8D241]#####[/] [#F8D559].....[/] [#F7D974].####[/] [#F6DD92]#####[/] [#F5E2B2]#...#[/] [#F3E7D5]####.[/] [#F2ECFA]####.[/]
+  [#5C5766]───────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#7C3AED]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]                         Code Geass                         [/]
+  [#7C3AED]────────────────────────────────────────────────────────────[/]

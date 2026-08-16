@@ -1,0 +1,90 @@
+name: the-amazing-world-of-gumball
+description: A blue cat and a goldfish navigating Elmore's chaos.
+colors:
+  banner_border: '#F472B6'
+  banner_title: '#A3E635'
+  banner_accent: '#A3E635'
+  banner_dim: '#635961'
+  banner_text: '#F8EBF3'
+  ui_accent: '#A3E635'
+  ui_label: '#38BDF8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F8EBF3'
+  input_rule: '#F472B6'
+  response_border: '#A3E635'
+  status_bar_bg: '#261E25'
+  status_bar_text: '#F8EBF3'
+  status_bar_strong: '#A3E635'
+  status_bar_dim: '#635961'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#261E25'
+  completion_menu_bg: '#130A12'
+  completion_menu_current_bg: '#41501D'
+  completion_menu_meta_bg: '#10080F'
+  completion_menu_meta_current_bg: '#3B481C'
+  session_label: '#38BDF8'
+  session_border: '#635961'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: The Amazing World of Gumball Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ The Amazing World of Gumball '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) The Amazing World of Gumball Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#A3E635]#####[/] [#A4E636]#...#[/] [#A5E639]#####[/] [#A6E63C].....[/] [#A8E640].###.[/] [#AAE644]#...#[/] [#ACE749].###.[/] [#AEE74E]#####[/] [#B1E754]#####[/] [#B3E75A]#...#[/] [#B6E760].####[/] [#B9E766].....[/] [#BCE76D]#...#[/] [#BFE874].###.[/] [#C3E87C]####.[/] [#C6E884]#....[/] [#CAE88C]####.[/] [#CDE894].....[/] [#D1E99C].###.[/] [#D5E9A5]#####[/] [#D9E9AE].....[/] [#DDE9B7].####[/] [#E2EAC1]#...#[/] [#E6EACA]#...#[/] [#EAEAD4]####.[/] [#EFEADE].###.[/] [#F3EBE9]#....[/] [#F8EBF3]#....[/]
+  [#A3E635]..#..[/] [#A4E636]#...#[/] [#A5E639]#....[/] [#A6E63C].....[/] [#A8E640]#...#[/] [#AAE644]##.##[/] [#ACE749]#...#[/] [#AEE74E]...#.[/] [#B1E754]..#..[/] [#B3E75A]##..#[/] [#B6E760]#....[/] [#B9E766].....[/] [#BCE76D]#...#[/] [#BFE874]#...#[/] [#C3E87C]#...#[/] [#C6E884]#....[/] [#CAE88C]#...#[/] [#CDE894].....[/] [#D1E99C]#...#[/] [#D5E9A5]#....[/] [#D9E9AE].....[/] [#DDE9B7]#....[/] [#E2EAC1]#...#[/] [#E6EACA]##.##[/] [#EAEAD4]#...#[/] [#EFEADE]#...#[/] [#F3EBE9]#....[/] [#F8EBF3]#....[/]
+  [#A3E635]..#..[/] [#A4E636]#####[/] [#A5E639]####.[/] [#A6E63C].....[/] [#A8E640]#####[/] [#AAE644]#.#.#[/] [#ACE749]#####[/] [#AEE74E]..#..[/] [#B1E754]..#..[/] [#B3E75A]#.#.#[/] [#B6E760]#..##[/] [#B9E766].....[/] [#BCE76D]#.#.#[/] [#BFE874]#...#[/] [#C3E87C]####.[/] [#C6E884]#....[/] [#CAE88C]#...#[/] [#CDE894].....[/] [#D1E99C]#...#[/] [#D5E9A5]####.[/] [#D9E9AE].....[/] [#DDE9B7]#..##[/] [#E2EAC1]#...#[/] [#E6EACA]#.#.#[/] [#EAEAD4]####.[/] [#EFEADE]#####[/] [#F3EBE9]#....[/] [#F8EBF3]#....[/]
+  [#A3E635]..#..[/] [#A4E636]#...#[/] [#A5E639]#....[/] [#A6E63C].....[/] [#A8E640]#...#[/] [#AAE644]#...#[/] [#ACE749]#...#[/] [#AEE74E].#...[/] [#B1E754]..#..[/] [#B3E75A]#..##[/] [#B6E760]#...#[/] [#B9E766].....[/] [#BCE76D]##.##[/] [#BFE874]#...#[/] [#C3E87C]#..#.[/] [#C6E884]#....[/] [#CAE88C]#...#[/] [#CDE894].....[/] [#D1E99C]#...#[/] [#D5E9A5]#....[/] [#D9E9AE].....[/] [#DDE9B7]#...#[/] [#E2EAC1]#...#[/] [#E6EACA]#...#[/] [#EAEAD4]#...#[/] [#EFEADE]#...#[/] [#F3EBE9]#....[/] [#F8EBF3]#....[/]
+  [#A3E635]..#..[/] [#A4E636]#...#[/] [#A5E639]#####[/] [#A6E63C].....[/] [#A8E640]#...#[/] [#AAE644]#...#[/] [#ACE749]#...#[/] [#AEE74E]#####[/] [#B1E754]#####[/] [#B3E75A]#...#[/] [#B6E760].####[/] [#B9E766].....[/] [#BCE76D]#...#[/] [#BFE874].###.[/] [#C3E87C]#...#[/] [#C6E884]#####[/] [#CAE88C]####.[/] [#CDE894].....[/] [#D1E99C].###.[/] [#D5E9A5]#....[/] [#D9E9AE].....[/] [#DDE9B7].####[/] [#E2EAC1].###.[/] [#E6EACA]#...#[/] [#EAEAD4]####.[/] [#EFEADE]#...#[/] [#F3EBE9]#####[/] [#F8EBF3]#####[/]
+  [#635961]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F472B6]────────────────────────────────────────────────────────────[/]
+  [bold #A3E635]                The Amazing World of Gumball                [/]
+  [#F472B6]────────────────────────────────────────────────────────────[/]

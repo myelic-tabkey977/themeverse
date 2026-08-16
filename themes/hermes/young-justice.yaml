@@ -1,0 +1,90 @@
+name: young-justice
+description: The teen sidekicks operating as a covert team.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#F87171'
+  banner_accent: '#F87171'
+  banner_dim: '#5F5555'
+  banner_text: '#F6E9E9'
+  ui_accent: '#F87171'
+  ui_label: '#94A3B8'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#F87171'
+  status_bar_bg: '#201919'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#F87171'
+  status_bar_dim: '#5F5555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201919'
+  completion_menu_bg: '#0D0505'
+  completion_menu_current_bg: '#582828'
+  completion_menu_meta_bg: '#0B0404'
+  completion_menu_meta_current_bg: '#4F2323'
+  session_label: '#94A3B8'
+  session_border: '#5F5555'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Young Justice Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Young Justice '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Young Justice Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#F87171]#...#[/] [#F87474].###.[/] [#F87979]#...#[/] [#F88080]#...#[/] [#F88888].####[/] [#F79191].....[/] [#F79B9B]..###[/] [#F7A6A6]#...#[/] [#F7B2B2].####[/] [#F7BFBF]#####[/] [#F6CCCC]#####[/] [#F6DADA].####[/] [#F6E9E9]#####[/]
+  [#F87171].#.#.[/] [#F87474]#...#[/] [#F87979]#...#[/] [#F88080]##..#[/] [#F88888]#....[/] [#F79191].....[/] [#F79B9B]...#.[/] [#F7A6A6]#...#[/] [#F7B2B2]#....[/] [#F7BFBF]..#..[/] [#F6CCCC]..#..[/] [#F6DADA]#....[/] [#F6E9E9]#....[/]
+  [#F87171]..#..[/] [#F87474]#...#[/] [#F87979]#...#[/] [#F88080]#.#.#[/] [#F88888]#..##[/] [#F79191].....[/] [#F79B9B]...#.[/] [#F7A6A6]#...#[/] [#F7B2B2].###.[/] [#F7BFBF]..#..[/] [#F6CCCC]..#..[/] [#F6DADA]#....[/] [#F6E9E9]####.[/]
+  [#F87171]..#..[/] [#F87474]#...#[/] [#F87979]#...#[/] [#F88080]#..##[/] [#F88888]#...#[/] [#F79191].....[/] [#F79B9B]#..#.[/] [#F7A6A6]#...#[/] [#F7B2B2]....#[/] [#F7BFBF]..#..[/] [#F6CCCC]..#..[/] [#F6DADA]#....[/] [#F6E9E9]#....[/]
+  [#F87171]..#..[/] [#F87474].###.[/] [#F87979].###.[/] [#F88080]#...#[/] [#F88888].####[/] [#F79191].....[/] [#F79B9B].##..[/] [#F7A6A6].###.[/] [#F7B2B2]####.[/] [#F7BFBF]..#..[/] [#F6CCCC]#####[/] [#F6DADA].####[/] [#F6E9E9]#####[/]
+  [#5F5555]─────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #F87171]                       Young Justice                        [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

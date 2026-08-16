@@ -1,0 +1,23 @@
+{
+  "name": "The Cramp Twins",
+  "background": "#0F1408",
+  "foreground": "#F0F6E6",
+  "cursorColor": "#4ADE80",
+  "selectionBackground": "#2C7944",
+  "black": "#080A04",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FDE047",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F1F6E7",
+  "brightBlack": "#696E61",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FEE875",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F0F6E6"
+}

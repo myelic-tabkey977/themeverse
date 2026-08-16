@@ -1,0 +1,23 @@
+{
+  "name": "DreamWorks Dragons",
+  "background": "#100606",
+  "foreground": "#F7E9E9",
+  "cursorColor": "#38BDF8",
+  "selectionBackground": "#24627F",
+  "black": "#080303",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F59E0B",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#F7EAEA",
+  "brightBlack": "#6C6161",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#F8B648",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#F7E9E9"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ben 10: Omniverse",
+  "background": "#060B0F",
+  "foreground": "#E6F4F8",
+  "cursorColor": "#F97316",
+  "selectionBackground": "#803F12",
+  "black": "#030608",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FFFFFF",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E7F5F8",
+  "brightBlack": "#60686C",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FFFFFF",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E6F4F8"
+}

@@ -1,0 +1,90 @@
+name: one-piece
+description: The future Pirate King sails the Grand Line with his straw hat crew.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#38BDF8'
+  banner_accent: '#38BDF8'
+  banner_dim: '#605555'
+  banner_text: '#F7E9E9'
+  ui_accent: '#38BDF8'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F7E9E9'
+  input_rule: '#DC2626'
+  response_border: '#38BDF8'
+  status_bar_bg: '#221919'
+  status_bar_text: '#F7E9E9'
+  status_bar_strong: '#38BDF8'
+  status_bar_dim: '#605555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#221919'
+  completion_menu_bg: '#0F0505'
+  completion_menu_current_bg: '#1C4053'
+  completion_menu_meta_bg: '#0D0404'
+  completion_menu_meta_current_bg: '#1A3949'
+  session_label: '#FACC15'
+  session_border: '#605555'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: One Piece Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ One Piece '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) One Piece Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#38BDF8].###.[/] [#40BFF7]#...#[/] [#50C2F6]#####[/] [#64C7F5].....[/] [#7CCDF3]####.[/] [#96D3F1]#####[/] [#B4DAEE]#####[/] [#D4E1EC].####[/] [#F7E9E9]#####[/]
+  [#38BDF8]#...#[/] [#40BFF7]##..#[/] [#50C2F6]#....[/] [#64C7F5].....[/] [#7CCDF3]#...#[/] [#96D3F1]..#..[/] [#B4DAEE]#....[/] [#D4E1EC]#....[/] [#F7E9E9]#....[/]
+  [#38BDF8]#...#[/] [#40BFF7]#.#.#[/] [#50C2F6]####.[/] [#64C7F5].....[/] [#7CCDF3]####.[/] [#96D3F1]..#..[/] [#B4DAEE]####.[/] [#D4E1EC]#....[/] [#F7E9E9]####.[/]
+  [#38BDF8]#...#[/] [#40BFF7]#..##[/] [#50C2F6]#....[/] [#64C7F5].....[/] [#7CCDF3]#....[/] [#96D3F1]..#..[/] [#B4DAEE]#....[/] [#D4E1EC]#....[/] [#F7E9E9]#....[/]
+  [#38BDF8].###.[/] [#40BFF7]#...#[/] [#50C2F6]#####[/] [#64C7F5].....[/] [#7CCDF3]#....[/] [#96D3F1]#####[/] [#B4DAEE]#####[/] [#D4E1EC].####[/] [#F7E9E9]#####[/]
+  [#605555]─────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #38BDF8]                         One Piece                          [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

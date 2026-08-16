@@ -1,0 +1,90 @@
+name: krypto-superdog
+description: Superman's dog protecting Metropolis as a family pet.
+colors:
+  banner_border: '#3B82F6'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#555C66'
+  banner_text: '#E7EEF7'
+  ui_accent: '#FACC15'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E7EEF7'
+  input_rule: '#3B82F6'
+  response_border: '#FACC15'
+  status_bar_bg: '#1B212A'
+  status_bar_text: '#E7EEF7'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#555C66'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B212A'
+  completion_menu_bg: '#070E18'
+  completion_menu_current_bg: '#554B17'
+  completion_menu_meta_bg: '#060C14'
+  completion_menu_meta_current_bg: '#4B4317'
+  session_label: '#EF4444'
+  session_border: '#555C66'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Krypto the Superdog Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Krypto the Superdog '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Krypto the Superdog Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#...#[/] [#FACC18]####.[/] [#F9CD1D]#...#[/] [#F9CE24]####.[/] [#F8D02D]#####[/] [#F7D136].###.[/] [#F6D340].....[/] [#F5D44C]#####[/] [#F4D658]#...#[/] [#F3D865]#####[/] [#F2DA73].....[/] [#F1DC81].####[/] [#F0DF90]#...#[/] [#EEE1A0]####.[/] [#EDE3B0]#####[/] [#ECE6C1]####.[/] [#EAE8D2]####.[/] [#E9EBE4].###.[/] [#E7EEF7].####[/]
+  [#FACC15]#..#.[/] [#FACC18]#...#[/] [#F9CD1D].#.#.[/] [#F9CE24]#...#[/] [#F8D02D]..#..[/] [#F7D136]#...#[/] [#F6D340].....[/] [#F5D44C]..#..[/] [#F4D658]#...#[/] [#F3D865]#....[/] [#F2DA73].....[/] [#F1DC81]#....[/] [#F0DF90]#...#[/] [#EEE1A0]#...#[/] [#EDE3B0]#....[/] [#ECE6C1]#...#[/] [#EAE8D2]#...#[/] [#E9EBE4]#...#[/] [#E7EEF7]#....[/]
+  [#FACC15]###..[/] [#FACC18]####.[/] [#F9CD1D]..#..[/] [#F9CE24]####.[/] [#F8D02D]..#..[/] [#F7D136]#...#[/] [#F6D340].....[/] [#F5D44C]..#..[/] [#F4D658]#####[/] [#F3D865]####.[/] [#F2DA73].....[/] [#F1DC81].###.[/] [#F0DF90]#...#[/] [#EEE1A0]####.[/] [#EDE3B0]####.[/] [#ECE6C1]####.[/] [#EAE8D2]#...#[/] [#E9EBE4]#...#[/] [#E7EEF7]#..##[/]
+  [#FACC15]#..#.[/] [#FACC18]#..#.[/] [#F9CD1D]..#..[/] [#F9CE24]#....[/] [#F8D02D]..#..[/] [#F7D136]#...#[/] [#F6D340].....[/] [#F5D44C]..#..[/] [#F4D658]#...#[/] [#F3D865]#....[/] [#F2DA73].....[/] [#F1DC81]....#[/] [#F0DF90]#...#[/] [#EEE1A0]#....[/] [#EDE3B0]#....[/] [#ECE6C1]#..#.[/] [#EAE8D2]#...#[/] [#E9EBE4]#...#[/] [#E7EEF7]#...#[/]
+  [#FACC15]#...#[/] [#FACC18]#...#[/] [#F9CD1D]..#..[/] [#F9CE24]#....[/] [#F8D02D]..#..[/] [#F7D136].###.[/] [#F6D340].....[/] [#F5D44C]..#..[/] [#F4D658]#...#[/] [#F3D865]#####[/] [#F2DA73].....[/] [#F1DC81]####.[/] [#F0DF90].###.[/] [#EEE1A0]#....[/] [#EDE3B0]#####[/] [#ECE6C1]#...#[/] [#EAE8D2]####.[/] [#E9EBE4].###.[/] [#E7EEF7].####[/]
+  [#555C66]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#3B82F6]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]                    Krypto the Superdog                     [/]
+  [#3B82F6]────────────────────────────────────────────────────────────[/]

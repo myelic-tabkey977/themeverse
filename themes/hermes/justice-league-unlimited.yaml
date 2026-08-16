@@ -1,0 +1,90 @@
+name: justice-league-unlimited
+description: The expanded league with dozens of heroes in action.
+colors:
+  banner_border: '#1D4ED8'
+  banner_title: '#93C5FD'
+  banner_accent: '#93C5FD'
+  banner_dim: '#545A64'
+  banner_text: '#E4EBF6'
+  ui_accent: '#93C5FD'
+  ui_label: '#F59E0B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E4EBF6'
+  input_rule: '#1D4ED8'
+  response_border: '#93C5FD'
+  status_bar_bg: '#1A1F29'
+  status_bar_text: '#E4EBF6'
+  status_bar_strong: '#93C5FD'
+  status_bar_dim: '#545A64'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F29'
+  completion_menu_bg: '#060C16'
+  completion_menu_current_bg: '#334760'
+  completion_menu_meta_bg: '#050A13'
+  completion_menu_meta_current_bg: '#2D4057'
+  session_label: '#F59E0B'
+  session_border: '#545A64'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Justice League Unlimited Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Justice League Unlimited '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Justice League Unlimited Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#93C5FD]..###[/] [#94C5FD]#...#[/] [#95C6FD].####[/] [#97C7FD]#####[/] [#99C8FC]#####[/] [#9BC9FC].####[/] [#9ECAFC]#####[/] [#A1CBFC].....[/] [#A4CDFC]#....[/] [#A7CEFB]#####[/] [#AAD0FB].###.[/] [#AED2FB].####[/] [#B2D3FA]#...#[/] [#B5D5FA]#####[/] [#B9D7FA].....[/] [#BED9F9]#...#[/] [#C2DBF9]#...#[/] [#C6DDF9]#....[/] [#CBDFF8]#####[/] [#D0E2F8]#...#[/] [#D5E4F7]#####[/] [#DAE6F7]#####[/] [#DFE9F6]#####[/] [#E4EBF6]####.[/]
+  [#93C5FD]...#.[/] [#94C5FD]#...#[/] [#95C6FD]#....[/] [#97C7FD]..#..[/] [#99C8FC]..#..[/] [#9BC9FC]#....[/] [#9ECAFC]#....[/] [#A1CBFC].....[/] [#A4CDFC]#....[/] [#A7CEFB]#....[/] [#AAD0FB]#...#[/] [#AED2FB]#....[/] [#B2D3FA]#...#[/] [#B5D5FA]#....[/] [#B9D7FA].....[/] [#BED9F9]#...#[/] [#C2DBF9]##..#[/] [#C6DDF9]#....[/] [#CBDFF8]..#..[/] [#D0E2F8]##.##[/] [#D5E4F7]..#..[/] [#DAE6F7]..#..[/] [#DFE9F6]#....[/] [#E4EBF6]#...#[/]
+  [#93C5FD]...#.[/] [#94C5FD]#...#[/] [#95C6FD].###.[/] [#97C7FD]..#..[/] [#99C8FC]..#..[/] [#9BC9FC]#....[/] [#9ECAFC]####.[/] [#A1CBFC].....[/] [#A4CDFC]#....[/] [#A7CEFB]####.[/] [#AAD0FB]#####[/] [#AED2FB]#..##[/] [#B2D3FA]#...#[/] [#B5D5FA]####.[/] [#B9D7FA].....[/] [#BED9F9]#...#[/] [#C2DBF9]#.#.#[/] [#C6DDF9]#....[/] [#CBDFF8]..#..[/] [#D0E2F8]#.#.#[/] [#D5E4F7]..#..[/] [#DAE6F7]..#..[/] [#DFE9F6]####.[/] [#E4EBF6]#...#[/]
+  [#93C5FD]#..#.[/] [#94C5FD]#...#[/] [#95C6FD]....#[/] [#97C7FD]..#..[/] [#99C8FC]..#..[/] [#9BC9FC]#....[/] [#9ECAFC]#....[/] [#A1CBFC].....[/] [#A4CDFC]#....[/] [#A7CEFB]#....[/] [#AAD0FB]#...#[/] [#AED2FB]#...#[/] [#B2D3FA]#...#[/] [#B5D5FA]#....[/] [#B9D7FA].....[/] [#BED9F9]#...#[/] [#C2DBF9]#..##[/] [#C6DDF9]#....[/] [#CBDFF8]..#..[/] [#D0E2F8]#...#[/] [#D5E4F7]..#..[/] [#DAE6F7]..#..[/] [#DFE9F6]#....[/] [#E4EBF6]#...#[/]
+  [#93C5FD].##..[/] [#94C5FD].###.[/] [#95C6FD]####.[/] [#97C7FD]..#..[/] [#99C8FC]#####[/] [#9BC9FC].####[/] [#9ECAFC]#####[/] [#A1CBFC].....[/] [#A4CDFC]#####[/] [#A7CEFB]#####[/] [#AAD0FB]#...#[/] [#AED2FB].####[/] [#B2D3FA].###.[/] [#B5D5FA]#####[/] [#B9D7FA].....[/] [#BED9F9].###.[/] [#C2DBF9]#...#[/] [#C6DDF9]#####[/] [#CBDFF8]#####[/] [#D0E2F8]#...#[/] [#D5E4F7]#####[/] [#DAE6F7]..#..[/] [#DFE9F6]#####[/] [#E4EBF6]####.[/]
+  [#545A64]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#1D4ED8]────────────────────────────────────────────────────────────[/]
+  [bold #93C5FD]                  Justice League Unlimited                  [/]
+  [#1D4ED8]────────────────────────────────────────────────────────────[/]

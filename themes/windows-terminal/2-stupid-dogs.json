@@ -1,0 +1,23 @@
+{
+  "name": "2 Stupid Dogs",
+  "background": "#0A1120",
+  "foreground": "#E7EEF8",
+  "cursorColor": "#FBBF24",
+  "selectionBackground": "#826822",
+  "black": "#050810",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#F8FAFC",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E8EFF8",
+  "brightBlack": "#626976",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FAFBFD",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E7EEF8"
+}

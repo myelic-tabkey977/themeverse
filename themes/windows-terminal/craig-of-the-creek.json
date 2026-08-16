@@ -1,0 +1,23 @@
+{
+  "name": "Craig of the Creek",
+  "background": "#071512",
+  "foreground": "#E6F5F2",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#827A2C",
+  "black": "#040A09",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FB923C",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E7F6F3",
+  "brightBlack": "#606F6C",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FCAD6D",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E6F5F2"
+}

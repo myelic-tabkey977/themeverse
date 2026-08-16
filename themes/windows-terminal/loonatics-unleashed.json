@@ -1,0 +1,23 @@
+{
+  "name": "Loonatics Unleashed",
+  "background": "#0E1013",
+  "foreground": "#ECEEF1",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#86782D",
+  "black": "#07080A",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#2DD4BF",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#EDEFF2",
+  "brightBlack": "#67696C",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#62DFCF",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#ECEEF1"
+}

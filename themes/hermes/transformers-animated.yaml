@@ -1,0 +1,90 @@
+name: transformers-animated
+description: The Autobots as a repair crew in Detroit.
+colors:
+  banner_border: '#2563EB'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#545A65'
+  banner_text: '#E5ECF7'
+  ui_accent: '#FACC15'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E5ECF7'
+  input_rule: '#2563EB'
+  response_border: '#FACC15'
+  status_bar_bg: '#1A1F29'
+  status_bar_text: '#E5ECF7'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#545A65'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1A1F29'
+  completion_menu_bg: '#060C16'
+  completion_menu_current_bg: '#544916'
+  completion_menu_meta_bg: '#050A13'
+  completion_menu_meta_current_bg: '#4A4216'
+  session_label: '#EF4444'
+  session_border: '#545A65'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Transformers: Animated Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Transformers: Animated '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Transformers: Animated Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#####[/] [#FACC17]####.[/] [#F9CD1C].###.[/] [#F9CE21]#...#[/] [#F8CF28].####[/] [#F8D02F]#####[/] [#F7D138].###.[/] [#F6D240]####.[/] [#F5D44A]#...#[/] [#F4D554]#####[/] [#F3D75F]####.[/] [#F2D86B].####[/] [#F1DA77].....[/] [#F0DC83].....[/] [#EFDD90].###.[/] [#EDDF9D]#...#[/] [#ECE1AB]#####[/] [#EBE3BA]#...#[/] [#E9E5C8].###.[/] [#E8E8D7]#####[/] [#E6EAE7]#####[/] [#E5ECF7]####.[/]
+  [#FACC15]..#..[/] [#FACC17]#...#[/] [#F9CD1C]#...#[/] [#F9CE21]##..#[/] [#F8CF28]#....[/] [#F8D02F]#....[/] [#F7D138]#...#[/] [#F6D240]#...#[/] [#F5D44A]##.##[/] [#F4D554]#....[/] [#F3D75F]#...#[/] [#F2D86B]#....[/] [#F1DA77].....[/] [#F0DC83].....[/] [#EFDD90]#...#[/] [#EDDF9D]##..#[/] [#ECE1AB]..#..[/] [#EBE3BA]##.##[/] [#E9E5C8]#...#[/] [#E8E8D7]..#..[/] [#E6EAE7]#....[/] [#E5ECF7]#...#[/]
+  [#FACC15]..#..[/] [#FACC17]####.[/] [#F9CD1C]#####[/] [#F9CE21]#.#.#[/] [#F8CF28].###.[/] [#F8D02F]####.[/] [#F7D138]#...#[/] [#F6D240]####.[/] [#F5D44A]#.#.#[/] [#F4D554]####.[/] [#F3D75F]####.[/] [#F2D86B].###.[/] [#F1DA77].....[/] [#F0DC83].....[/] [#EFDD90]#####[/] [#EDDF9D]#.#.#[/] [#ECE1AB]..#..[/] [#EBE3BA]#.#.#[/] [#E9E5C8]#####[/] [#E8E8D7]..#..[/] [#E6EAE7]####.[/] [#E5ECF7]#...#[/]
+  [#FACC15]..#..[/] [#FACC17]#..#.[/] [#F9CD1C]#...#[/] [#F9CE21]#..##[/] [#F8CF28]....#[/] [#F8D02F]#....[/] [#F7D138]#...#[/] [#F6D240]#..#.[/] [#F5D44A]#...#[/] [#F4D554]#....[/] [#F3D75F]#..#.[/] [#F2D86B]....#[/] [#F1DA77].....[/] [#F0DC83].....[/] [#EFDD90]#...#[/] [#EDDF9D]#..##[/] [#ECE1AB]..#..[/] [#EBE3BA]#...#[/] [#E9E5C8]#...#[/] [#E8E8D7]..#..[/] [#E6EAE7]#....[/] [#E5ECF7]#...#[/]
+  [#FACC15]..#..[/] [#FACC17]#...#[/] [#F9CD1C]#...#[/] [#F9CE21]#...#[/] [#F8CF28]####.[/] [#F8D02F]#....[/] [#F7D138].###.[/] [#F6D240]#...#[/] [#F5D44A]#...#[/] [#F4D554]#####[/] [#F3D75F]#...#[/] [#F2D86B]####.[/] [#F1DA77].....[/] [#F0DC83].....[/] [#EFDD90]#...#[/] [#EDDF9D]#...#[/] [#ECE1AB]#####[/] [#EBE3BA]#...#[/] [#E9E5C8]#...#[/] [#E8E8D7]..#..[/] [#E6EAE7]#####[/] [#E5ECF7]####.[/]
+  [#545A65]───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#2563EB]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]                   Transformers: Animated                   [/]
+  [#2563EB]────────────────────────────────────────────────────────────[/]

@@ -1,0 +1,90 @@
+name: steven-universe
+description: A half-gem boy learning to protect Beach City with the Crystal Gems.
+colors:
+  banner_border: '#F9A8D4'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#635961'
+  banner_text: '#FAEDF4'
+  ui_accent: '#FDE047'
+  ui_label: '#93C5FD'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#FAEDF4'
+  input_rule: '#F9A8D4'
+  response_border: '#FDE047'
+  status_bar_bg: '#251E25'
+  status_bar_text: '#FAEDF4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#635961'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#251E25'
+  completion_menu_bg: '#120A12'
+  completion_menu_current_bg: '#5D4E23'
+  completion_menu_meta_bg: '#0F080F'
+  completion_menu_meta_current_bg: '#544621'
+  session_label: '#93C5FD'
+  session_border: '#635961'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Steven Universe Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Steven Universe '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Steven Universe Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE04A]#####[/] [#FDE150]#####[/] [#FDE158]#...#[/] [#FDE261]#####[/] [#FCE36C]#...#[/] [#FCE478].....[/] [#FCE584]#...#[/] [#FCE692]#...#[/] [#FBE7A0]#####[/] [#FBE8AF]#...#[/] [#FBE9BF]#####[/] [#FBEAD0]####.[/] [#FAECE2].####[/] [#FAEDF4]#####[/]
+  [#FDE047]#....[/] [#FDE04A]..#..[/] [#FDE150]#....[/] [#FDE158]#...#[/] [#FDE261]#....[/] [#FCE36C]##..#[/] [#FCE478].....[/] [#FCE584]#...#[/] [#FCE692]##..#[/] [#FBE7A0]..#..[/] [#FBE8AF]#...#[/] [#FBE9BF]#....[/] [#FBEAD0]#...#[/] [#FAECE2]#....[/] [#FAEDF4]#....[/]
+  [#FDE047].###.[/] [#FDE04A]..#..[/] [#FDE150]####.[/] [#FDE158]#...#[/] [#FDE261]####.[/] [#FCE36C]#.#.#[/] [#FCE478].....[/] [#FCE584]#...#[/] [#FCE692]#.#.#[/] [#FBE7A0]..#..[/] [#FBE8AF]#...#[/] [#FBE9BF]####.[/] [#FBEAD0]####.[/] [#FAECE2].###.[/] [#FAEDF4]####.[/]
+  [#FDE047]....#[/] [#FDE04A]..#..[/] [#FDE150]#....[/] [#FDE158].#.#.[/] [#FDE261]#....[/] [#FCE36C]#..##[/] [#FCE478].....[/] [#FCE584]#...#[/] [#FCE692]#..##[/] [#FBE7A0]..#..[/] [#FBE8AF].#.#.[/] [#FBE9BF]#....[/] [#FBEAD0]#..#.[/] [#FAECE2]....#[/] [#FAEDF4]#....[/]
+  [#FDE047]####.[/] [#FDE04A]..#..[/] [#FDE150]#####[/] [#FDE158]..#..[/] [#FDE261]#####[/] [#FCE36C]#...#[/] [#FCE478].....[/] [#FCE584].###.[/] [#FCE692]#...#[/] [#FBE7A0]#####[/] [#FBE8AF]..#..[/] [#FBE9BF]#####[/] [#FBEAD0]#...#[/] [#FAECE2]####.[/] [#FAEDF4]#####[/]
+  [#635961]─────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#F9A8D4]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                      Steven Universe                       [/]
+  [#F9A8D4]────────────────────────────────────────────────────────────[/]

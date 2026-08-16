@@ -1,0 +1,90 @@
+name: metalocalypse
+description: The world's greatest death metal band, Dethklok.
+colors:
+  banner_border: '#64748B'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#56575B'
+  banner_text: '#E8EBEF'
+  ui_accent: '#FACC15'
+  ui_label: '#EF4444'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E8EBEF'
+  input_rule: '#64748B'
+  response_border: '#FACC15'
+  status_bar_bg: '#1B1C1F'
+  status_bar_text: '#E8EBEF'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#56575B'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1B1C1F'
+  completion_menu_bg: '#07080B'
+  completion_menu_current_bg: '#55470E'
+  completion_menu_meta_bg: '#060709'
+  completion_menu_meta_current_bg: '#4B3F0E'
+  session_label: '#EF4444'
+  session_border: '#56575B'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Metalocalypse Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Metalocalypse '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Metalocalypse Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#...#[/] [#FACD1A]#####[/] [#F9CE24]#####[/] [#F8D030].###.[/] [#F7D23F]#....[/] [#F5D450].###.[/] [#F4D762].####[/] [#F2DA76].###.[/] [#F0DD8C]#....[/] [#EEE0A3]#...#[/] [#ECE4BB]####.[/] [#EAE7D4].####[/] [#E8EBEF]#####[/]
+  [#FACC15]##.##[/] [#FACD1A]#....[/] [#F9CE24]..#..[/] [#F8D030]#...#[/] [#F7D23F]#....[/] [#F5D450]#...#[/] [#F4D762]#....[/] [#F2DA76]#...#[/] [#F0DD8C]#....[/] [#EEE0A3].#.#.[/] [#ECE4BB]#...#[/] [#EAE7D4]#....[/] [#E8EBEF]#....[/]
+  [#FACC15]#.#.#[/] [#FACD1A]####.[/] [#F9CE24]..#..[/] [#F8D030]#####[/] [#F7D23F]#....[/] [#F5D450]#...#[/] [#F4D762]#....[/] [#F2DA76]#####[/] [#F0DD8C]#....[/] [#EEE0A3]..#..[/] [#ECE4BB]####.[/] [#EAE7D4].###.[/] [#E8EBEF]####.[/]
+  [#FACC15]#...#[/] [#FACD1A]#....[/] [#F9CE24]..#..[/] [#F8D030]#...#[/] [#F7D23F]#....[/] [#F5D450]#...#[/] [#F4D762]#....[/] [#F2DA76]#...#[/] [#F0DD8C]#....[/] [#EEE0A3]..#..[/] [#ECE4BB]#....[/] [#EAE7D4]....#[/] [#E8EBEF]#....[/]
+  [#FACC15]#...#[/] [#FACD1A]#####[/] [#F9CE24]..#..[/] [#F8D030]#...#[/] [#F7D23F]#####[/] [#F5D450].###.[/] [#F4D762].####[/] [#F2DA76]#...#[/] [#F0DD8C]#####[/] [#EEE0A3]..#..[/] [#ECE4BB]#....[/] [#EAE7D4]####.[/] [#E8EBEF]#####[/]
+  [#56575B]─────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#64748B]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]                       Metalocalypse                        [/]
+  [#64748B]────────────────────────────────────────────────────────────[/]

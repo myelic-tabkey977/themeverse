@@ -1,0 +1,90 @@
+name: gundam-00
+description: Celestial Being intervenes to end war with Gundams.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#5F5454'
+  banner_text: '#F6E8E8'
+  ui_accent: '#FDE047'
+  ui_label: '#FACC15'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E8E8'
+  input_rule: '#DC2626'
+  response_border: '#FDE047'
+  status_bar_bg: '#201819'
+  status_bar_text: '#F6E8E8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#5F5454'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#201819'
+  completion_menu_bg: '#0D0405'
+  completion_menu_current_bg: '#5A4A1A'
+  completion_menu_meta_bg: '#0B0304'
+  completion_menu_meta_current_bg: '#504217'
+  session_label: '#FACC15'
+  session_border: '#5F5454'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Mobile Suit Gundam 00 Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Mobile Suit Gundam 00 '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Mobile Suit Gundam 00 Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE049].###.[/] [#FDE04C]####.[/] [#FDE050]#####[/] [#FCE155]#....[/] [#FCE15B]#####[/] [#FCE161].....[/] [#FCE268].####[/] [#FBE270]#...#[/] [#FBE278]#####[/] [#FBE380]#####[/] [#FAE389].....[/] [#FAE492].####[/] [#F9E49B]#...#[/] [#F9E5A5]#...#[/] [#F8E5B0]####.[/] [#F8E6BA].###.[/] [#F8E6C5]#...#[/] [#F7E7D0].....[/] [#F7E7DC].###.[/] [#F6E8E8].###.[/]
+  [#FDE047]##.##[/] [#FDE049]#...#[/] [#FDE04C]#...#[/] [#FDE050]..#..[/] [#FCE155]#....[/] [#FCE15B]#....[/] [#FCE161].....[/] [#FCE268]#....[/] [#FBE270]#...#[/] [#FBE278]..#..[/] [#FBE380]..#..[/] [#FAE389].....[/] [#FAE492]#....[/] [#F9E49B]#...#[/] [#F9E5A5]##..#[/] [#F8E5B0]#...#[/] [#F8E6BA]#...#[/] [#F8E6C5]##.##[/] [#F7E7D0].....[/] [#F7E7DC]#..##[/] [#F6E8E8]#..##[/]
+  [#FDE047]#.#.#[/] [#FDE049]#...#[/] [#FDE04C]####.[/] [#FDE050]..#..[/] [#FCE155]#....[/] [#FCE15B]####.[/] [#FCE161].....[/] [#FCE268].###.[/] [#FBE270]#...#[/] [#FBE278]..#..[/] [#FBE380]..#..[/] [#FAE389].....[/] [#FAE492]#..##[/] [#F9E49B]#...#[/] [#F9E5A5]#.#.#[/] [#F8E5B0]#...#[/] [#F8E6BA]#####[/] [#F8E6C5]#.#.#[/] [#F7E7D0].....[/] [#F7E7DC]#.#.#[/] [#F6E8E8]#.#.#[/]
+  [#FDE047]#...#[/] [#FDE049]#...#[/] [#FDE04C]#...#[/] [#FDE050]..#..[/] [#FCE155]#....[/] [#FCE15B]#....[/] [#FCE161].....[/] [#FCE268]....#[/] [#FBE270]#...#[/] [#FBE278]..#..[/] [#FBE380]..#..[/] [#FAE389].....[/] [#FAE492]#...#[/] [#F9E49B]#...#[/] [#F9E5A5]#..##[/] [#F8E5B0]#...#[/] [#F8E6BA]#...#[/] [#F8E6C5]#...#[/] [#F7E7D0].....[/] [#F7E7DC]##..#[/] [#F6E8E8]##..#[/]
+  [#FDE047]#...#[/] [#FDE049].###.[/] [#FDE04C]####.[/] [#FDE050]#####[/] [#FCE155]#####[/] [#FCE15B]#####[/] [#FCE161].....[/] [#FCE268]####.[/] [#FBE270].###.[/] [#FBE278]#####[/] [#FBE380]..#..[/] [#FAE389].....[/] [#FAE492].####[/] [#F9E49B].###.[/] [#F9E5A5]#...#[/] [#F8E5B0]####.[/] [#F8E6BA]#...#[/] [#F8E6C5]#...#[/] [#F7E7D0].....[/] [#F7E7DC].###.[/] [#F6E8E8].###.[/]
+  [#5F5454]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                   Mobile Suit Gundam 00                    [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

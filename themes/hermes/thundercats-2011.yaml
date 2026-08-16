@@ -1,0 +1,90 @@
+name: thundercats-2011
+description: Lion-O and the ThunderCats rebuild after Thundera's fall.
+colors:
+  banner_border: '#DC2626'
+  banner_title: '#FACC15'
+  banner_accent: '#FACC15'
+  banner_dim: '#5F5555'
+  banner_text: '#F6E9E9'
+  ui_accent: '#FACC15'
+  ui_label: '#3B82F6'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F6E9E9'
+  input_rule: '#DC2626'
+  response_border: '#FACC15'
+  status_bar_bg: '#211919'
+  status_bar_text: '#F6E9E9'
+  status_bar_strong: '#FACC15'
+  status_bar_dim: '#5F5555'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#211919'
+  completion_menu_bg: '#0E0505'
+  completion_menu_current_bg: '#5A450A'
+  completion_menu_meta_bg: '#0C0404'
+  completion_menu_meta_current_bg: '#503D09'
+  session_label: '#3B82F6'
+  session_border: '#5F5555'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: ThunderCats (2011) Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ ThunderCats (2011) '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) ThunderCats (2011) Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FACC15]#####[/] [#FACC18]#...#[/] [#FACD1E]#...#[/] [#FACE25]#...#[/] [#FACF2D]####.[/] [#F9D137]#####[/] [#F9D241]####.[/] [#F9D44D].####[/] [#F9D559].###.[/] [#F8D767]#####[/] [#F8D975].####[/] [#F8DB83].....[/] [#F8DD93].....[/] [#F7DFA3].###.[/] [#F7E2B3].###.[/] [#F7E4C5]..#..[/] [#F6E6D7]..#..[/] [#F6E9E9].....[/]
+  [#FACC15]..#..[/] [#FACC18]#...#[/] [#FACD1E]#...#[/] [#FACE25]##..#[/] [#FACF2D]#...#[/] [#F9D137]#....[/] [#F9D241]#...#[/] [#F9D44D]#....[/] [#F9D559]#...#[/] [#F8D767]..#..[/] [#F8D975]#....[/] [#F8DB83].....[/] [#F8DD93].....[/] [#F7DFA3]....#[/] [#F7E2B3]#..##[/] [#F7E4C5].##..[/] [#F6E6D7].##..[/] [#F6E9E9].....[/]
+  [#FACC15]..#..[/] [#FACC18]#####[/] [#FACD1E]#...#[/] [#FACE25]#.#.#[/] [#FACF2D]#...#[/] [#F9D137]####.[/] [#F9D241]####.[/] [#F9D44D]#....[/] [#F9D559]#####[/] [#F8D767]..#..[/] [#F8D975].###.[/] [#F8DB83].....[/] [#F8DD93].....[/] [#F7DFA3].###.[/] [#F7E2B3]#.#.#[/] [#F7E4C5]..#..[/] [#F6E6D7]..#..[/] [#F6E9E9].....[/]
+  [#FACC15]..#..[/] [#FACC18]#...#[/] [#FACD1E]#...#[/] [#FACE25]#..##[/] [#FACF2D]#...#[/] [#F9D137]#....[/] [#F9D241]#..#.[/] [#F9D44D]#....[/] [#F9D559]#...#[/] [#F8D767]..#..[/] [#F8D975]....#[/] [#F8DB83].....[/] [#F8DD93].....[/] [#F7DFA3]#....[/] [#F7E2B3]##..#[/] [#F7E4C5]..#..[/] [#F6E6D7]..#..[/] [#F6E9E9].....[/]
+  [#FACC15]..#..[/] [#FACC18]#...#[/] [#FACD1E].###.[/] [#FACE25]#...#[/] [#FACF2D]####.[/] [#F9D137]#####[/] [#F9D241]#...#[/] [#F9D44D].####[/] [#F9D559]#...#[/] [#F8D767]..#..[/] [#F8D975]####.[/] [#F8DB83].....[/] [#F8DD93].....[/] [#F7DFA3]#####[/] [#F7E2B3].###.[/] [#F7E4C5]#####[/] [#F6E6D7]#####[/] [#F6E9E9].....[/]
+  [#5F5555]───────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#DC2626]────────────────────────────────────────────────────────────[/]
+  [bold #FACC15]                     ThunderCats (2011)                     [/]
+  [#DC2626]────────────────────────────────────────────────────────────[/]

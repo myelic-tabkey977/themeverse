@@ -1,0 +1,90 @@
+name: sword-art-online
+description: The black swordsman trapped in a deadly VRMMO.
+colors:
+  banner_border: '#22D3EE'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#536166'
+  banner_text: '#E6F4F8'
+  ui_accent: '#FDE047'
+  ui_label: '#F8FAFC'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E6F4F8'
+  input_rule: '#22D3EE'
+  response_border: '#FDE047'
+  status_bar_bg: '#18252A'
+  status_bar_text: '#E6F4F8'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#536166'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#18252A'
+  completion_menu_bg: '#041218'
+  completion_menu_current_bg: '#545427'
+  completion_menu_meta_bg: '#030F14'
+  completion_menu_meta_current_bg: '#4A4C25'
+  session_label: '#F8FAFC'
+  session_border: '#536166'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Sword Art Online Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Sword Art Online '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Sword Art Online Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047].####[/] [#FDE04A]#...#[/] [#FCE150].###.[/] [#FBE257]####.[/] [#FAE35F]####.[/] [#F9E469].....[/] [#F7E574].###.[/] [#F6E67F]####.[/] [#F4E88C]#####[/] [#F2E999].....[/] [#F0EBA7].###.[/] [#EFEDB6]#...#[/] [#EDEEC6]#....[/] [#EAF0D6]#####[/] [#E8F2E7]#...#[/] [#E6F4F8]#####[/]
+  [#FDE047]#....[/] [#FDE04A]#...#[/] [#FCE150]#...#[/] [#FBE257]#...#[/] [#FAE35F]#...#[/] [#F9E469].....[/] [#F7E574]#...#[/] [#F6E67F]#...#[/] [#F4E88C]..#..[/] [#F2E999].....[/] [#F0EBA7]#...#[/] [#EFEDB6]##..#[/] [#EDEEC6]#....[/] [#EAF0D6]..#..[/] [#E8F2E7]##..#[/] [#E6F4F8]#....[/]
+  [#FDE047].###.[/] [#FDE04A]#.#.#[/] [#FCE150]#...#[/] [#FBE257]####.[/] [#FAE35F]#...#[/] [#F9E469].....[/] [#F7E574]#####[/] [#F6E67F]####.[/] [#F4E88C]..#..[/] [#F2E999].....[/] [#F0EBA7]#...#[/] [#EFEDB6]#.#.#[/] [#EDEEC6]#....[/] [#EAF0D6]..#..[/] [#E8F2E7]#.#.#[/] [#E6F4F8]####.[/]
+  [#FDE047]....#[/] [#FDE04A]##.##[/] [#FCE150]#...#[/] [#FBE257]#..#.[/] [#FAE35F]#...#[/] [#F9E469].....[/] [#F7E574]#...#[/] [#F6E67F]#..#.[/] [#F4E88C]..#..[/] [#F2E999].....[/] [#F0EBA7]#...#[/] [#EFEDB6]#..##[/] [#EDEEC6]#....[/] [#EAF0D6]..#..[/] [#E8F2E7]#..##[/] [#E6F4F8]#....[/]
+  [#FDE047]####.[/] [#FDE04A]#...#[/] [#FCE150].###.[/] [#FBE257]#...#[/] [#FAE35F]####.[/] [#F9E469].....[/] [#F7E574]#...#[/] [#F6E67F]#...#[/] [#F4E88C]..#..[/] [#F2E999].....[/] [#F0EBA7].###.[/] [#EFEDB6]#...#[/] [#EDEEC6]#####[/] [#EAF0D6]#####[/] [#E8F2E7]#...#[/] [#E6F4F8]#####[/]
+  [#536166]───────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#22D3EE]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]                      Sword Art Online                      [/]
+  [#22D3EE]────────────────────────────────────────────────────────────[/]

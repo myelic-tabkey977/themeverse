@@ -1,0 +1,23 @@
+{
+  "name": "Duck Dodgers",
+  "background": "#070D16",
+  "foreground": "#E6EDF7",
+  "cursorColor": "#FDE047",
+  "selectionBackground": "#82762E",
+  "black": "#04060B",
+  "red": "#EF5350",
+  "green": "#4CAF50",
+  "yellow": "#FFA726",
+  "blue": "#FACC15",
+  "purple": "#BA68C8",
+  "cyan": "#4DD0E1",
+  "white": "#E7EEF7",
+  "brightBlack": "#606770",
+  "brightRed": "#F16D6A",
+  "brightGreen": "#67BB6A",
+  "brightYellow": "#FFB447",
+  "brightBlue": "#FBD950",
+  "brightPurple": "#C886D3",
+  "brightCyan": "#71D9E7",
+  "brightWhite": "#E6EDF7"
+}

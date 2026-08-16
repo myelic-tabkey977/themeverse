@@ -1,0 +1,90 @@
+name: mr-bean-animated
+description: The beloved bumbling everyman, animated.
+colors:
+  banner_border: '#FACC15'
+  banner_title: '#FDE047'
+  banner_accent: '#FDE047'
+  banner_dim: '#625E52'
+  banner_text: '#F9F5E4'
+  ui_accent: '#FDE047'
+  ui_label: '#64748B'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#F9F5E4'
+  input_rule: '#FACC15'
+  response_border: '#FDE047'
+  status_bar_bg: '#232017'
+  status_bar_text: '#F9F5E4'
+  status_bar_strong: '#FDE047'
+  status_bar_dim: '#625E52'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#232017'
+  completion_menu_bg: '#100D03'
+  completion_menu_current_bg: '#5C5119'
+  completion_menu_meta_bg: '#0E0B03'
+  completion_menu_meta_current_bg: '#524816'
+  session_label: '#64748B'
+  session_border: '#625E52'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: 'Mr. Bean: The Animated Series Agent'
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Mr. Bean: The Animated Series '
+  prompt_symbol: '◆ ❯ '
+  help_header: '(◆) Mr. Bean: The Animated Series Commands'
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE047]#...#[/] [#FDE048]####.[/] [#FDE04A].....[/] [#FDE14D].....[/] [#FDE14F]####.[/] [#FDE253]#####[/] [#FDE257].###.[/] [#FCE35B]#...#[/] [#FCE35F].....[/] [#FCE464].....[/] [#FCE469]#####[/] [#FCE56E]#...#[/] [#FCE673]#####[/] [#FCE779].....[/] [#FCE77F].###.[/] [#FBE885]#...#[/] [#FBE98B]#####[/] [#FBEA91]#...#[/] [#FBEB98].###.[/] [#FBEC9F]#####[/] [#FBEDA6]#####[/] [#FAEEAD]####.[/] [#FAEFB4].....[/] [#FAF0BC].####[/] [#FAF1C4]#####[/] [#FAF2CB]####.[/] [#F9F3D3]#####[/] [#F9F4DC]#####[/] [#F9F5E4].####[/]
+  [#FDE047]##.##[/] [#FDE048]#...#[/] [#FDE04A].....[/] [#FDE14D].....[/] [#FDE14F]#...#[/] [#FDE253]#....[/] [#FDE257]#...#[/] [#FCE35B]##..#[/] [#FCE35F].....[/] [#FCE464].....[/] [#FCE469]..#..[/] [#FCE56E]#...#[/] [#FCE673]#....[/] [#FCE779].....[/] [#FCE77F]#...#[/] [#FBE885]##..#[/] [#FBE98B]..#..[/] [#FBEA91]##.##[/] [#FBEB98]#...#[/] [#FBEC9F]..#..[/] [#FBEDA6]#....[/] [#FAEEAD]#...#[/] [#FAEFB4].....[/] [#FAF0BC]#....[/] [#FAF1C4]#....[/] [#FAF2CB]#...#[/] [#F9F3D3]..#..[/] [#F9F4DC]#....[/] [#F9F5E4]#....[/]
+  [#FDE047]#.#.#[/] [#FDE048]####.[/] [#FDE04A].....[/] [#FDE14D].....[/] [#FDE14F]####.[/] [#FDE253]####.[/] [#FDE257]#####[/] [#FCE35B]#.#.#[/] [#FCE35F].....[/] [#FCE464].....[/] [#FCE469]..#..[/] [#FCE56E]#####[/] [#FCE673]####.[/] [#FCE779].....[/] [#FCE77F]#####[/] [#FBE885]#.#.#[/] [#FBE98B]..#..[/] [#FBEA91]#.#.#[/] [#FBEB98]#####[/] [#FBEC9F]..#..[/] [#FBEDA6]####.[/] [#FAEEAD]#...#[/] [#FAEFB4].....[/] [#FAF0BC].###.[/] [#FAF1C4]####.[/] [#FAF2CB]####.[/] [#F9F3D3]..#..[/] [#F9F4DC]####.[/] [#F9F5E4].###.[/]
+  [#FDE047]#...#[/] [#FDE048]#..#.[/] [#FDE04A]..##.[/] [#FDE14D].....[/] [#FDE14F]#...#[/] [#FDE253]#....[/] [#FDE257]#...#[/] [#FCE35B]#..##[/] [#FCE35F].....[/] [#FCE464].....[/] [#FCE469]..#..[/] [#FCE56E]#...#[/] [#FCE673]#....[/] [#FCE779].....[/] [#FCE77F]#...#[/] [#FBE885]#..##[/] [#FBE98B]..#..[/] [#FBEA91]#...#[/] [#FBEB98]#...#[/] [#FBEC9F]..#..[/] [#FBEDA6]#....[/] [#FAEEAD]#...#[/] [#FAEFB4].....[/] [#FAF0BC]....#[/] [#FAF1C4]#....[/] [#FAF2CB]#..#.[/] [#F9F3D3]..#..[/] [#F9F4DC]#....[/] [#F9F5E4]....#[/]
+  [#FDE047]#...#[/] [#FDE048]#...#[/] [#FDE04A]..##.[/] [#FDE14D].....[/] [#FDE14F]####.[/] [#FDE253]#####[/] [#FDE257]#...#[/] [#FCE35B]#...#[/] [#FCE35F].....[/] [#FCE464].....[/] [#FCE469]..#..[/] [#FCE56E]#...#[/] [#FCE673]#####[/] [#FCE779].....[/] [#FCE77F]#...#[/] [#FBE885]#...#[/] [#FBE98B]#####[/] [#FBEA91]#...#[/] [#FBEB98]#...#[/] [#FBEC9F]..#..[/] [#FBEDA6]#####[/] [#FAEEAD]####.[/] [#FAEFB4].....[/] [#FAF0BC]####.[/] [#FAF1C4]#####[/] [#FAF2CB]#...#[/] [#F9F3D3]#####[/] [#F9F4DC]#####[/] [#F9F5E4]####.[/]
+  [#625E52]─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#FACC15]────────────────────────────────────────────────────────────[/]
+  [bold #FDE047]               Mr. Bean: The Animated Series                [/]
+  [#FACC15]────────────────────────────────────────────────────────────[/]

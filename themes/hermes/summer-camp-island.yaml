@@ -1,0 +1,90 @@
+name: summer-camp-island
+description: A magical summer camp where nothing is quite normal.
+colors:
+  banner_border: '#67E8F9'
+  banner_title: '#FDE68A'
+  banner_accent: '#FDE68A'
+  banner_dim: '#586366'
+  banner_text: '#E9F6F8'
+  ui_accent: '#FDE68A'
+  ui_label: '#F9A8D4'
+  ui_ok: '#4CAF50'
+  ui_error: '#EF5350'
+  ui_warn: '#FFA726'
+  prompt: '#E9F6F8'
+  input_rule: '#67E8F9'
+  response_border: '#FDE68A'
+  status_bar_bg: '#1E272A'
+  status_bar_text: '#E9F6F8'
+  status_bar_strong: '#FDE68A'
+  status_bar_dim: '#586366'
+  status_bar_good: '#8FBC8F'
+  status_bar_warn: '#FFA726'
+  status_bar_bad: '#FF8C00'
+  status_bar_critical: '#EF5350'
+  voice_status_bg: '#1E272A'
+  completion_menu_bg: '#0A1418'
+  completion_menu_current_bg: '#58573C'
+  completion_menu_meta_bg: '#081114'
+  completion_menu_meta_current_bg: '#4E4F38'
+  session_label: '#F9A8D4'
+  session_border: '#586366'
+spinner:
+  waiting_faces:
+  - (◆)
+  - (◉)
+  - (◎)
+  - (◯)
+  - (●)
+  thinking_faces:
+  - (◆)
+  - (◉)
+  - (⌁)
+  - (<>)
+  thinking_verbs:
+  - working
+  - thinking
+  - processing
+  - rendering
+  - almost there
+  wings:
+  - - ⟪◆
+    - ◆⟫
+  - - ⟪◉
+    - ◉⟫
+  - - ⟪●
+    - ●⟫
+branding:
+  agent_name: Summer Camp Island Agent
+  welcome: Welcome! Type your message or /help.
+  goodbye: Goodbye!
+  response_label: ' ◆ Summer Camp Island '
+  prompt_symbol: '◆ ❯ '
+  help_header: (◆) Summer Camp Island Commands
+tool_prefix: ┊
+tool_emojis:
+  terminal: ⌁
+  web_search: ◎
+  read_file: ◇
+  write_file: ◆
+  search_files: ▷
+  execute_code: ⚡
+  browser_navigate: ◈
+  delegate_task: ▣
+  mixture_of_agents: ⚗
+  memory: ◐
+  clarify: '?'
+  cronjob: ↻
+  process: ⚙
+  todo: ☐
+banner_logo: |-
+  [#FDE68A].####[/] [#FDE68C]#...#[/] [#FCE78E]#...#[/] [#FCE792]#...#[/] [#FBE897]#####[/] [#FAE99C]####.[/] [#F9E9A1].....[/] [#F8EAA7].####[/] [#F7EBAE].###.[/] [#F5ECB4]#...#[/] [#F4EDBC]####.[/] [#F3EEC3].....[/] [#F1EFCB]#####[/] [#F0F1D4].####[/] [#EEF2DC]#....[/] [#ECF3E5].###.[/] [#EBF5EE]#...#[/] [#E9F6F8]####.[/]
+  [#FDE68A]#....[/] [#FDE68C]#...#[/] [#FCE78E]##.##[/] [#FCE792]##.##[/] [#FBE897]#....[/] [#FAE99C]#...#[/] [#F9E9A1].....[/] [#F8EAA7]#....[/] [#F7EBAE]#...#[/] [#F5ECB4]##.##[/] [#F4EDBC]#...#[/] [#F3EEC3].....[/] [#F1EFCB]..#..[/] [#F0F1D4]#....[/] [#EEF2DC]#....[/] [#ECF3E5]#...#[/] [#EBF5EE]##..#[/] [#E9F6F8]#...#[/]
+  [#FDE68A].###.[/] [#FDE68C]#...#[/] [#FCE78E]#.#.#[/] [#FCE792]#.#.#[/] [#FBE897]####.[/] [#FAE99C]####.[/] [#F9E9A1].....[/] [#F8EAA7]#....[/] [#F7EBAE]#####[/] [#F5ECB4]#.#.#[/] [#F4EDBC]####.[/] [#F3EEC3].....[/] [#F1EFCB]..#..[/] [#F0F1D4].###.[/] [#EEF2DC]#....[/] [#ECF3E5]#####[/] [#EBF5EE]#.#.#[/] [#E9F6F8]#...#[/]
+  [#FDE68A]....#[/] [#FDE68C]#...#[/] [#FCE78E]#...#[/] [#FCE792]#...#[/] [#FBE897]#....[/] [#FAE99C]#..#.[/] [#F9E9A1].....[/] [#F8EAA7]#....[/] [#F7EBAE]#...#[/] [#F5ECB4]#...#[/] [#F4EDBC]#....[/] [#F3EEC3].....[/] [#F1EFCB]..#..[/] [#F0F1D4]....#[/] [#EEF2DC]#....[/] [#ECF3E5]#...#[/] [#EBF5EE]#..##[/] [#E9F6F8]#...#[/]
+  [#FDE68A]####.[/] [#FDE68C].###.[/] [#FCE78E]#...#[/] [#FCE792]#...#[/] [#FBE897]#####[/] [#FAE99C]#...#[/] [#F9E9A1].....[/] [#F8EAA7].####[/] [#F7EBAE]#...#[/] [#F5ECB4]#...#[/] [#F4EDBC]#....[/] [#F3EEC3].....[/] [#F1EFCB]#####[/] [#F0F1D4]####.[/] [#EEF2DC]#####[/] [#ECF3E5]#...#[/] [#EBF5EE]#...#[/] [#E9F6F8]####.[/]
+  [#586366]───────────────────────────────────────────────────────────────────────────────────────────────────────────[/]
+banner_hero: |-
+  [#67E8F9]────────────────────────────────────────────────────────────[/]
+  [bold #FDE68A]                     Summer Camp Island                     [/]
+  [#67E8F9]────────────────────────────────────────────────────────────[/]
