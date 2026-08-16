@@ -49,7 +49,12 @@ with open(os.path.join(SITE, "themes.json"), "w", encoding="utf-8") as fh:
 # keep docs/ (GitHub Pages source) in sync
 DOCS = os.path.join(os.path.dirname(SITE), "docs")
 os.makedirs(DOCS, exist_ok=True)
-shutil.copy(os.path.join(SITE, "index.html"), os.path.join(DOCS, "index.html"))
-shutil.copy(os.path.join(SITE, "themes.json"), os.path.join(DOCS, "themes.json"))
+for f in ("index.html", "themes.json"):
+    shutil.copy(os.path.join(SITE, f), os.path.join(DOCS, f))
+# og image for social previews
+OG = os.path.join(os.path.dirname(SITE), "marketing", "images", "og.png")
+if os.path.exists(OG):
+    os.makedirs(os.path.join(DOCS, "images"), exist_ok=True)
+    shutil.copy(OG, os.path.join(DOCS, "images", "og.png"))
 
 print(f"wrote site/themes.json ({len(DATA)} themes) + docs/ copy")

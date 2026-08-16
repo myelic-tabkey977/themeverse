@@ -106,6 +106,14 @@ Requires `python3` + `pyyaml` + `Pillow` (Pillow is only needed if you also buil
 - [cartoon-network-skins](https://github.com/thanvish21/cartoon-network-skins) — the original 167 CN skins with character art
 - [anime-skins](https://github.com/thanvish21/anime-skins) — 28 anime skins with truecolor half-block character heroes
 
+## Contributing
+
+Adding a theme is a 5-minute job — one palette row + one command. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Promotion kit
+
+Ready-to-post drafts (Show HN, Reddit, X, Discord) + shareable images live in [`marketing/`](marketing/) — see [`marketing/MASTER.md`](marketing/MASTER.md).
+
 ## License
 
 [MIT](LICENSE). Fan project — all show titles, characters and images belong to their respective owners; only derivative color themes are distributed. Not affiliated with or endorsed by Cartoon Network, any anime studio, or any publisher.
